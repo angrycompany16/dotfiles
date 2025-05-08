@@ -1,0 +1,2 @@
+# dotfiles
+Dotfiles Arch + Hyprland
