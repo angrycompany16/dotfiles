@@ -1,0 +1,4948 @@
+2025-04-28 19:45:54.113 [info] Name: Pylint
+2025-04-28 19:45:54.113 [info] Module: pylint
+2025-04-28 19:45:54.113 [info] Python extension loading
+2025-04-28 19:45:54.113 [info] Waiting for interpreter from Python extension.
+2025-04-28 19:45:54.113 [info] No interpreter found from setting pylint.interpreter
+2025-04-28 19:45:54.113 [info] Getting interpreter from ms-python.python extension for workspace /home/angrycompany16/ntnu/EDK/EDK-project/project
+2025-04-28 19:45:54.113 [info] Python extension loaded
+2025-04-28 19:45:54.113 [info] Interpreter from ms-python.python extension for /home/angrycompany16/ntnu/EDK/EDK-project/project: /home/angrycompany16/ntnu/EDK/EDK-project/project/.venv/bin/python
+2025-04-28 19:45:54.113 [info] No interpreter found from setting pylint.interpreter
+2025-04-28 19:45:54.113 [info] Getting interpreter from ms-python.python extension for workspace /home/angrycompany16/ntnu/EDK/EDK-project/project
+2025-04-28 19:45:54.113 [info] Interpreter from ms-python.python extension for /home/angrycompany16/ntnu/EDK/EDK-project/project: /home/angrycompany16/ntnu/EDK/EDK-project/project/.venv/bin/python
+2025-04-28 19:45:54.113 [info] Server run command: /home/angrycompany16/ntnu/EDK/EDK-project/project/.venv/bin/python /home/angrycompany16/.vscode-oss/extensions/ms-python.pylint-2024.2.0-universal/bundled/tool/lsp_server.py
+2025-04-28 19:45:54.113 [info] Server: Start requested.
+2025-04-28 19:45:54.668 [info] CWD Server: /home/angrycompany16/ntnu/EDK/EDK-project/project
+2025-04-28 19:45:54.668 [info] Settings used to run Server:
+[
+    {
+        "enabled": true,
+        "cwd": "/home/angrycompany16/ntnu/EDK/EDK-project/project",
+        "workspace": "file:///home/angrycompany16/ntnu/EDK/EDK-project/project",
+        "args": [],
+        "severity": {
+            "convention": "Information",
+            "error": "Error",
+            "fatal": "Error",
+            "refactor": "Hint",
+            "warning": "Warning",
+            "info": "Information"
+        },
+        "path": [],
+        "ignorePatterns": [],
+        "interpreter": [
+            "/home/angrycompany16/ntnu/EDK/EDK-project/project/.venv/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off",
+        "extraPaths": []
+    }
+]
+
+2025-04-28 19:45:54.668 [info] Global settings:
+{
+    "cwd": "${workspaceFolder}",
+    "enabled": true,
+    "workspace": "/home/angrycompany16/ntnu/EDK/EDK-project/project",
+    "args": [],
+    "severity": {
+        "convention": "Information",
+        "error": "Error",
+        "fatal": "Error",
+        "refactor": "Hint",
+        "warning": "Warning",
+        "info": "Information"
+    },
+    "path": [],
+    "ignorePatterns": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off",
+    "extraPaths": []
+}
+
+2025-04-28 19:45:54.668 [info] sys.path used to run Server:
+   /home/angrycompany16/ntnu/EDK/EDK-project/project
+   /home/angrycompany16/.vscode-oss/extensions/ms-python.pylint-2024.2.0-universal/bundled/libs
+   /home/angrycompany16/.vscode-oss/extensions/ms-python.pylint-2024.2.0-universal/bundled/tool
+   /usr/lib/python313.zip
+   /usr/lib/python3.13
+   /usr/lib/python3.13/lib-dynload
+   /home/angrycompany16/ntnu/EDK/EDK-project/project/.venv/lib/python3.13/site-packages
+2025-04-28 19:45:54.671 [info] /home/angrycompany16/ntnu/EDK/EDK-project/project/.venv/bin/python -m pylint --version
+2025-04-28 19:45:54.671 [info] CWD Linter: /home/angrycompany16/ntnu/EDK/EDK-project/project
+2025-04-28 19:45:54.819 [info] 
+pylint 3.2.7
+astroid 3.2.4
+Python 3.13.3 (main, Apr  9 2025, 07:44:25) [GCC 14.2.1 20250207]
+
+
+2025-04-28 19:45:54.819 [info] Version info for linter running for /home/angrycompany16/ntnu/EDK/EDK-project/project:
+pylint 3.2.7
+astroid 3.2.4
+Python 3.13.3 (main, Apr  9 2025, 07:44:25) [GCC 14.2.1 20250207]
+
+2025-04-28 19:45:54.819 [info] SUPPORTED pylint>=2.12.2
+FOUND pylint==3.2.7
+
+2025-04-28 19:45:54.855 [info] [Trace - 7:45:54 PM] Sending request 'textDocument/codeAction - (1)'.
+2025-04-28 19:45:54.860 [info] [Trace - 7:45:54 PM] Received notification 'window/logMessage'.
+2025-04-28 19:45:54.860 [info] /home/angrycompany16/ntnu/EDK/EDK-project/project/.venv/bin/python -m pylint --reports=n --output-format=json --clear-cache-post-run=y --from-stdin /home/angrycompany16/ntnu/EDK/EDK-project/project/task1.py
+2025-04-28 19:45:54.860 [info] [Trace - 7:45:54 PM] Received notification 'window/logMessage'.
+2025-04-28 19:45:54.860 [info] CWD Linter: /home/angrycompany16/ntnu/EDK/EDK-project/project
+2025-04-28 19:45:55.066 [info] [Trace - 7:45:55 PM] Sending notification '$/cancelRequest'.
+2025-04-28 19:45:55.069 [info] [Trace - 7:45:55 PM] Sending request 'textDocument/codeAction - (2)'.
+2025-04-28 19:45:59.370 [info] [Trace - 7:45:59 PM] Received notification 'window/logMessage'.
+2025-04-28 19:45:59.370 [info] file:///home/angrycompany16/ntnu/EDK/EDK-project/project/task1.py :
+[
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 32,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (127/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 58,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (102/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 86,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 88,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (114/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 105,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (136/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 136,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (129/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 147,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "missing-final-newline",
+        "message": "Final newline missing",
+        "message-id": "C0304"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 1,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "missing-module-docstring",
+        "message": "Missing module docstring",
+        "message-id": "C0114"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 10,
+        "column": 0,
+        "endLine": 10,
+        "endColumn": 5,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Constant name \"__F_s\" doesn't conform to UPPER_CASE naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 15,
+        "column": 0,
+        "endLine": 15,
+        "endColumn": 5,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Constant name \"__n_0\" doesn't conform to UPPER_CASE naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 16,
+        "column": 0,
+        "endLine": 16,
+        "endColumn": 10,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Constant name \"iterations\" doesn't conform to UPPER_CASE naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "__get_sigma_sqr",
+        "line": 22,
+        "column": 20,
+        "endLine": 22,
+        "endColumn": 30,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Argument name \"SNR\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "get_sigma",
+        "line": 25,
+        "column": 0,
+        "endLine": 25,
+        "endColumn": 13,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "get_sigma",
+        "line": 25,
+        "column": 14,
+        "endLine": 25,
+        "endColumn": 24,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Argument name \"SNR\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "__omega_CRLB",
+        "line": 28,
+        "column": 0,
+        "endLine": 28,
+        "endColumn": 16,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Function name \"__omega_CRLB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "__phi_CRLB",
+        "line": 31,
+        "column": 0,
+        "endLine": 31,
+        "endColumn": 14,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Function name \"__phi_CRLB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "F",
+        "line": 34,
+        "column": 0,
+        "endLine": 34,
+        "endColumn": 5,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "F",
+        "line": 34,
+        "column": 0,
+        "endLine": 34,
+        "endColumn": 5,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Function name \"F\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "get_phi_est",
+        "line": 40,
+        "column": 0,
+        "endLine": 40,
+        "endColumn": 15,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "get_snr",
+        "line": 43,
+        "column": 0,
+        "endLine": 43,
+        "endColumn": 11,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "get_snr",
+        "line": 43,
+        "column": 12,
+        "endLine": 43,
+        "endColumn": 25,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Argument name \"snr_dB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "refactor",
+        "module": "task1",
+        "obj": "",
+        "line": 47,
+        "column": 13,
+        "endLine": 47,
+        "endColumn": 55,
+        "path": "task1.py",
+        "symbol": "unnecessary-comprehension",
+        "message": "Unnecessary use of a comprehension, use list(range(-10, 61, 10)) instead.",
+        "message-id": "R1721"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "sample",
+        "line": 53,
+        "column": 0,
+        "endLine": 53,
+        "endColumn": 10,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "estimate_omega_phi",
+        "line": 61,
+        "column": 0,
+        "endLine": 61,
+        "endColumn": 22,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "estimate_omega_phi",
+        "line": 61,
+        "column": 23,
+        "endLine": 61,
+        "endColumn": 36,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Argument name \"SNR_dB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "estimate_omega_phi",
+        "line": 61,
+        "column": 38,
+        "endLine": 61,
+        "endColumn": 53,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Argument name \"FFT_size\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "estimate_omega_phi",
+        "line": 69,
+        "column": 8,
+        "endLine": 69,
+        "endColumn": 11,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"FFT\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "get_variance",
+        "line": 80,
+        "column": 0,
+        "endLine": 80,
+        "endColumn": 16,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "plot_variances_omega_against_snr",
+        "line": 83,
+        "column": 0,
+        "endLine": 83,
+        "endColumn": 36,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "plot_average_omega_against_snr",
+        "line": 100,
+        "column": 0,
+        "endLine": 100,
+        "endColumn": 34,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "warning",
+        "module": "task1",
+        "obj": "plot_average_omega_against_snr",
+        "line": 107,
+        "column": 43,
+        "endLine": 107,
+        "endColumn": 60,
+        "path": "task1.py",
+        "symbol": "f-string-without-interpolation",
+        "message": "Using an f-string that does not have any interpolated variables",
+        "message-id": "W1309"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "plot_variances_phi_against_snr",
+        "line": 118,
+        "column": 0,
+        "endLine": 118,
+        "endColumn": 34,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "plot_average_phi_against_snr",
+        "line": 132,
+        "column": 0,
+        "endLine": 132,
+        "endColumn": 32,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "warning",
+        "module": "task1",
+        "obj": "plot_average_phi_against_snr",
+        "line": 138,
+        "column": 43,
+        "endLine": 138,
+        "endColumn": 56,
+        "path": "task1.py",
+        "symbol": "f-string-without-interpolation",
+        "message": "Using an f-string that does not have any interpolated variables",
+        "message-id": "W1309"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 2,
+        "column": 0,
+        "endLine": 2,
+        "endColumn": 12,
+        "path": "task1.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"cmath\" should be placed before third party import \"numpy\"",
+        "message-id": "C0411"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 9,
+        "path": "task1.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"os\" should be placed before third party import \"numpy\"",
+        "message-id": "C0411"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 11,
+        "path": "task1.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"time\" should be placed before third party import \"numpy\"",
+        "message-id": "C0411"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 7,
+        "column": 0,
+        "endLine": 7,
+        "endColumn": 11,
+        "path": "task1.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"math\" should be placed before third party imports \"numpy\", \"matplotlib.pyplot\", \"scipy.optimize\"",
+        "message-id": "C0411"
+    },
+    {
+        "type": "warning",
+        "module": "task1",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 9,
+        "path": "task1.py",
+        "symbol": "unused-import",
+        "message": "Unused import os",
+        "message-id": "W0611"
+    },
+    {
+        "type": "warning",
+        "module": "task1",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 11,
+        "path": "task1.py",
+        "symbol": "unused-import",
+        "message": "Unused import time",
+        "message-id": "W0611"
+    },
+    {
+        "type": "warning",
+        "module": "task1",
+        "obj": "",
+        "line": 6,
+        "column": 0,
+        "endLine": 6,
+        "endColumn": 28,
+        "path": "task1.py",
+        "symbol": "unused-import",
+        "message": "Unused scipy.optimize imported as opt",
+        "message-id": "W0611"
+    },
+    {
+        "type": "warning",
+        "module": "task1",
+        "obj": "",
+        "line": 7,
+        "column": 0,
+        "endLine": 7,
+        "endColumn": 11,
+        "path": "task1.py",
+        "symbol": "unused-import",
+        "message": "Unused import math",
+        "message-id": "W0611"
+    }
+]
+
+2025-04-28 19:45:59.373 [info] [Trace - 7:45:59 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-04-28 19:45:59.381 [info] [Trace - 7:45:59 PM] Received response 'textDocument/codeAction - (1)' in 4527ms.
+2025-04-28 19:45:59.386 [info] [Trace - 7:45:59 PM] Received response 'textDocument/codeAction - (2)' in 4317ms.
+2025-04-28 19:45:59.638 [info] [Trace - 7:45:59 PM] Sending request 'textDocument/codeAction - (3)'.
+2025-04-28 19:45:59.641 [info] [Trace - 7:45:59 PM] Received response 'textDocument/codeAction - (3)' in 3ms.
+2025-04-28 19:46:02.349 [info] [Trace - 7:46:02 PM] Sending request 'textDocument/codeAction - (4)'.
+2025-04-28 19:46:02.352 [info] [Trace - 7:46:02 PM] Received response 'textDocument/codeAction - (4)' in 3ms.
+2025-04-28 19:46:03.933 [info] [Trace - 7:46:03 PM] Sending request 'textDocument/codeAction - (5)'.
+2025-04-28 19:46:03.936 [info] [Trace - 7:46:03 PM] Received response 'textDocument/codeAction - (5)' in 3ms.
+2025-04-28 19:46:04.734 [info] [Trace - 7:46:04 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:46:04.860 [info] [Trace - 7:46:04 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:46:05.120 [info] [Trace - 7:46:05 PM] Sending request 'textDocument/codeAction - (6)'.
+2025-04-28 19:46:05.123 [info] [Trace - 7:46:05 PM] Received response 'textDocument/codeAction - (6)' in 3ms.
+2025-04-28 19:46:05.182 [info] [Trace - 7:46:05 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:46:05.328 [info] [Trace - 7:46:05 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:46:05.556 [info] [Trace - 7:46:05 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:46:05.597 [info] [Trace - 7:46:05 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:46:05.673 [info] [Trace - 7:46:05 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:46:05.782 [info] [Trace - 7:46:05 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:46:06.037 [info] [Trace - 7:46:06 PM] Sending request 'textDocument/codeAction - (7)'.
+2025-04-28 19:46:06.040 [info] [Trace - 7:46:06 PM] Received response 'textDocument/codeAction - (7)' in 3ms.
+2025-04-28 19:46:06.185 [info] [Trace - 7:46:06 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:46:06.378 [info] [Trace - 7:46:06 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:46:06.630 [info] [Trace - 7:46:06 PM] Sending request 'textDocument/codeAction - (8)'.
+2025-04-28 19:46:06.632 [info] [Trace - 7:46:06 PM] Received response 'textDocument/codeAction - (8)' in 3ms.
+2025-04-28 19:46:06.733 [info] [Trace - 7:46:06 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:46:06.950 [info] [Trace - 7:46:06 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:46:07.046 [info] [Trace - 7:46:07 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:46:07.303 [info] [Trace - 7:46:07 PM] Sending request 'textDocument/codeAction - (9)'.
+2025-04-28 19:46:07.306 [info] [Trace - 7:46:07 PM] Received response 'textDocument/codeAction - (9)' in 3ms.
+2025-04-28 19:46:08.179 [info] [Trace - 7:46:08 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:46:08.430 [info] [Trace - 7:46:08 PM] Sending request 'textDocument/codeAction - (10)'.
+2025-04-28 19:46:08.432 [info] [Trace - 7:46:08 PM] Received response 'textDocument/codeAction - (10)' in 2ms.
+2025-04-28 19:46:09.110 [info] [Trace - 7:46:09 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:46:09.367 [info] [Trace - 7:46:09 PM] Sending request 'textDocument/codeAction - (11)'.
+2025-04-28 19:46:09.370 [info] [Trace - 7:46:09 PM] Received response 'textDocument/codeAction - (11)' in 3ms.
+2025-04-28 19:46:09.637 [info] [Trace - 7:46:09 PM] Sending request 'textDocument/codeAction - (12)'.
+2025-04-28 19:46:09.640 [info] [Trace - 7:46:09 PM] Received response 'textDocument/codeAction - (12)' in 2ms.
+2025-04-28 19:46:10.781 [info] [Trace - 7:46:10 PM] Sending request 'textDocument/codeAction - (13)'.
+2025-04-28 19:46:10.784 [info] [Trace - 7:46:10 PM] Received response 'textDocument/codeAction - (13)' in 3ms.
+2025-04-28 19:46:11.500 [info] [Trace - 7:46:11 PM] Sending request 'textDocument/codeAction - (14)'.
+2025-04-28 19:46:11.502 [info] [Trace - 7:46:11 PM] Received response 'textDocument/codeAction - (14)' in 3ms.
+2025-04-28 19:46:11.572 [info] [Trace - 7:46:11 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:46:11.825 [info] [Trace - 7:46:11 PM] Sending request 'textDocument/codeAction - (15)'.
+2025-04-28 19:46:11.828 [info] [Trace - 7:46:11 PM] Received response 'textDocument/codeAction - (15)' in 3ms.
+2025-04-28 19:46:12.850 [info] [Trace - 7:46:12 PM] Sending request 'textDocument/codeAction - (16)'.
+2025-04-28 19:46:12.853 [info] [Trace - 7:46:12 PM] Received response 'textDocument/codeAction - (16)' in 3ms.
+2025-04-28 19:46:15.787 [info] [Trace - 7:46:15 PM] Sending request 'textDocument/codeAction - (17)'.
+2025-04-28 19:46:15.790 [info] [Trace - 7:46:15 PM] Received response 'textDocument/codeAction - (17)' in 3ms.
+2025-04-28 19:46:16.633 [info] [Trace - 7:46:16 PM] Sending request 'textDocument/codeAction - (18)'.
+2025-04-28 19:46:16.636 [info] [Trace - 7:46:16 PM] Received response 'textDocument/codeAction - (18)' in 3ms.
+2025-04-28 19:46:17.317 [info] [Trace - 7:46:17 PM] Sending request 'textDocument/codeAction - (19)'.
+2025-04-28 19:46:17.320 [info] [Trace - 7:46:17 PM] Received response 'textDocument/codeAction - (19)' in 3ms.
+2025-04-28 19:46:17.771 [info] [Trace - 7:46:17 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:46:18.282 [info] [Trace - 7:46:18 PM] Sending request 'textDocument/codeAction - (20)'.
+2025-04-28 19:46:18.285 [info] [Trace - 7:46:18 PM] Received response 'textDocument/codeAction - (20)' in 3ms.
+2025-04-28 19:46:19.034 [info] [Trace - 7:46:19 PM] Sending request 'textDocument/codeAction - (21)'.
+2025-04-28 19:46:19.037 [info] [Trace - 7:46:19 PM] Received response 'textDocument/codeAction - (21)' in 3ms.
+2025-04-28 19:46:19.590 [info] [Trace - 7:46:19 PM] Sending request 'textDocument/codeAction - (22)'.
+2025-04-28 19:46:19.593 [info] [Trace - 7:46:19 PM] Received response 'textDocument/codeAction - (22)' in 3ms.
+2025-04-28 19:46:19.769 [info] [Trace - 7:46:19 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:46:19.822 [info] [Trace - 7:46:19 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:46:19.895 [info] [Trace - 7:46:19 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:46:19.970 [info] [Trace - 7:46:19 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:46:20.048 [info] [Trace - 7:46:20 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:46:20.280 [info] [Trace - 7:46:20 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:46:20.432 [info] [Trace - 7:46:20 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:46:20.525 [info] [Trace - 7:46:20 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:46:20.779 [info] [Trace - 7:46:20 PM] Sending request 'textDocument/codeAction - (23)'.
+2025-04-28 19:46:20.782 [info] [Trace - 7:46:20 PM] Received response 'textDocument/codeAction - (23)' in 3ms.
+2025-04-28 19:46:20.800 [info] [Trace - 7:46:20 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:46:21.055 [info] [Trace - 7:46:21 PM] Sending request 'textDocument/codeAction - (24)'.
+2025-04-28 19:46:21.058 [info] [Trace - 7:46:21 PM] Received response 'textDocument/codeAction - (24)' in 3ms.
+2025-04-28 19:46:21.247 [info] [Trace - 7:46:21 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:46:21.756 [info] [Trace - 7:46:21 PM] Sending notification 'textDocument/didSave'.
+2025-04-28 19:46:21.763 [info] [Trace - 7:46:21 PM] Received notification 'window/logMessage'.
+2025-04-28 19:46:21.763 [info] /home/angrycompany16/ntnu/EDK/EDK-project/project/.venv/bin/python -m pylint --reports=n --output-format=json --clear-cache-post-run=y --from-stdin /home/angrycompany16/ntnu/EDK/EDK-project/project/task1.py
+2025-04-28 19:46:21.763 [info] [Trace - 7:46:21 PM] Received notification 'window/logMessage'.
+2025-04-28 19:46:21.763 [info] CWD Linter: /home/angrycompany16/ntnu/EDK/EDK-project/project
+2025-04-28 19:46:26.925 [info] [Trace - 7:46:26 PM] Received notification 'window/logMessage'.
+2025-04-28 19:46:26.925 [info] file:///home/angrycompany16/ntnu/EDK/EDK-project/project/task1.py :
+[
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 32,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (127/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 58,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (102/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 86,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 88,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (114/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 105,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (147/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 136,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (140/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 147,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "missing-final-newline",
+        "message": "Final newline missing",
+        "message-id": "C0304"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 1,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "missing-module-docstring",
+        "message": "Missing module docstring",
+        "message-id": "C0114"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 10,
+        "column": 0,
+        "endLine": 10,
+        "endColumn": 5,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Constant name \"__F_s\" doesn't conform to UPPER_CASE naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 15,
+        "column": 0,
+        "endLine": 15,
+        "endColumn": 5,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Constant name \"__n_0\" doesn't conform to UPPER_CASE naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 16,
+        "column": 0,
+        "endLine": 16,
+        "endColumn": 10,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Constant name \"iterations\" doesn't conform to UPPER_CASE naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "__get_sigma_sqr",
+        "line": 22,
+        "column": 20,
+        "endLine": 22,
+        "endColumn": 30,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Argument name \"SNR\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "get_sigma",
+        "line": 25,
+        "column": 0,
+        "endLine": 25,
+        "endColumn": 13,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "get_sigma",
+        "line": 25,
+        "column": 14,
+        "endLine": 25,
+        "endColumn": 24,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Argument name \"SNR\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "__omega_CRLB",
+        "line": 28,
+        "column": 0,
+        "endLine": 28,
+        "endColumn": 16,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Function name \"__omega_CRLB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "__phi_CRLB",
+        "line": 31,
+        "column": 0,
+        "endLine": 31,
+        "endColumn": 14,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Function name \"__phi_CRLB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "F",
+        "line": 34,
+        "column": 0,
+        "endLine": 34,
+        "endColumn": 5,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "F",
+        "line": 34,
+        "column": 0,
+        "endLine": 34,
+        "endColumn": 5,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Function name \"F\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "get_phi_est",
+        "line": 40,
+        "column": 0,
+        "endLine": 40,
+        "endColumn": 15,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "get_snr",
+        "line": 43,
+        "column": 0,
+        "endLine": 43,
+        "endColumn": 11,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "get_snr",
+        "line": 43,
+        "column": 12,
+        "endLine": 43,
+        "endColumn": 25,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Argument name \"snr_dB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "refactor",
+        "module": "task1",
+        "obj": "",
+        "line": 47,
+        "column": 13,
+        "endLine": 47,
+        "endColumn": 55,
+        "path": "task1.py",
+        "symbol": "unnecessary-comprehension",
+        "message": "Unnecessary use of a comprehension, use list(range(-10, 61, 10)) instead.",
+        "message-id": "R1721"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "sample",
+        "line": 53,
+        "column": 0,
+        "endLine": 53,
+        "endColumn": 10,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "estimate_omega_phi",
+        "line": 61,
+        "column": 0,
+        "endLine": 61,
+        "endColumn": 22,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "estimate_omega_phi",
+        "line": 61,
+        "column": 23,
+        "endLine": 61,
+        "endColumn": 36,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Argument name \"SNR_dB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "estimate_omega_phi",
+        "line": 61,
+        "column": 38,
+        "endLine": 61,
+        "endColumn": 53,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Argument name \"FFT_size\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "estimate_omega_phi",
+        "line": 69,
+        "column": 8,
+        "endLine": 69,
+        "endColumn": 11,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"FFT\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "get_variance",
+        "line": 80,
+        "column": 0,
+        "endLine": 80,
+        "endColumn": 16,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "plot_variances_omega_against_snr",
+        "line": 83,
+        "column": 0,
+        "endLine": 83,
+        "endColumn": 36,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "plot_average_omega_against_snr",
+        "line": 100,
+        "column": 0,
+        "endLine": 100,
+        "endColumn": 34,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "warning",
+        "module": "task1",
+        "obj": "plot_average_omega_against_snr",
+        "line": 107,
+        "column": 43,
+        "endLine": 107,
+        "endColumn": 60,
+        "path": "task1.py",
+        "symbol": "f-string-without-interpolation",
+        "message": "Using an f-string that does not have any interpolated variables",
+        "message-id": "W1309"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "plot_variances_phi_against_snr",
+        "line": 118,
+        "column": 0,
+        "endLine": 118,
+        "endColumn": 34,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "plot_average_phi_against_snr",
+        "line": 132,
+        "column": 0,
+        "endLine": 132,
+        "endColumn": 32,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "warning",
+        "module": "task1",
+        "obj": "plot_average_phi_against_snr",
+        "line": 138,
+        "column": 43,
+        "endLine": 138,
+        "endColumn": 56,
+        "path": "task1.py",
+        "symbol": "f-string-without-interpolation",
+        "message": "Using an f-string that does not have any interpolated variables",
+        "message-id": "W1309"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 2,
+        "column": 0,
+        "endLine": 2,
+        "endColumn": 12,
+        "path": "task1.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"cmath\" should be placed before third party import \"numpy\"",
+        "message-id": "C0411"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 9,
+        "path": "task1.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"os\" should be placed before third party import \"numpy\"",
+        "message-id": "C0411"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 11,
+        "path": "task1.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"time\" should be placed before third party import \"numpy\"",
+        "message-id": "C0411"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 7,
+        "column": 0,
+        "endLine": 7,
+        "endColumn": 11,
+        "path": "task1.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"math\" should be placed before third party imports \"numpy\", \"matplotlib.pyplot\", \"scipy.optimize\"",
+        "message-id": "C0411"
+    },
+    {
+        "type": "warning",
+        "module": "task1",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 9,
+        "path": "task1.py",
+        "symbol": "unused-import",
+        "message": "Unused import os",
+        "message-id": "W0611"
+    },
+    {
+        "type": "warning",
+        "module": "task1",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 11,
+        "path": "task1.py",
+        "symbol": "unused-import",
+        "message": "Unused import time",
+        "message-id": "W0611"
+    },
+    {
+        "type": "warning",
+        "module": "task1",
+        "obj": "",
+        "line": 6,
+        "column": 0,
+        "endLine": 6,
+        "endColumn": 28,
+        "path": "task1.py",
+        "symbol": "unused-import",
+        "message": "Unused scipy.optimize imported as opt",
+        "message-id": "W0611"
+    }
+]
+
+2025-04-28 19:46:26.926 [info] [Trace - 7:46:26 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-04-28 19:46:27.184 [info] [Trace - 7:46:27 PM] Sending request 'textDocument/codeAction - (25)'.
+2025-04-28 19:46:27.187 [info] [Trace - 7:46:27 PM] Received response 'textDocument/codeAction - (25)' in 3ms.
+2025-04-28 19:48:02.997 [info] [Trace - 7:48:02 PM] Sending request 'textDocument/codeAction - (26)'.
+2025-04-28 19:48:03.000 [info] [Trace - 7:48:03 PM] Received response 'textDocument/codeAction - (26)' in 3ms.
+2025-04-28 19:48:05.054 [info] [Trace - 7:48:05 PM] Sending request 'textDocument/codeAction - (27)'.
+2025-04-28 19:48:05.057 [info] [Trace - 7:48:05 PM] Received response 'textDocument/codeAction - (27)' in 3ms.
+2025-04-28 19:48:07.714 [info] [Trace - 7:48:07 PM] Sending request 'textDocument/codeAction - (28)'.
+2025-04-28 19:48:07.717 [info] [Trace - 7:48:07 PM] Received response 'textDocument/codeAction - (28)' in 3ms.
+2025-04-28 19:48:46.679 [info] [Trace - 7:48:46 PM] Sending request 'textDocument/codeAction - (29)'.
+2025-04-28 19:48:46.683 [info] [Trace - 7:48:46 PM] Received response 'textDocument/codeAction - (29)' in 4ms.
+2025-04-28 19:48:48.230 [info] [Trace - 7:48:48 PM] Sending notification 'textDocument/didOpen'.
+2025-04-28 19:48:48.235 [info] [Trace - 7:48:48 PM] Received notification 'window/logMessage'.
+2025-04-28 19:48:48.235 [info] /home/angrycompany16/ntnu/EDK/EDK-project/project/.venv/bin/python -m pylint --reports=n --output-format=json --clear-cache-post-run=y --from-stdin /home/angrycompany16/ntnu/EDK/EDK-project/project/main.py
+2025-04-28 19:48:48.235 [info] [Trace - 7:48:48 PM] Received notification 'window/logMessage'.
+2025-04-28 19:48:48.235 [info] CWD Linter: /home/angrycompany16/ntnu/EDK/EDK-project/project
+2025-04-28 19:48:48.274 [info] [Trace - 7:48:48 PM] Sending request 'textDocument/codeAction - (30)'.
+2025-04-28 19:48:48.525 [info] [Trace - 7:48:48 PM] Sending request 'textDocument/codeAction - (31)'.
+2025-04-28 19:48:48.526 [info] [Trace - 7:48:48 PM] Sending notification '$/cancelRequest'.
+2025-04-28 19:48:49.403 [info] [Trace - 7:48:49 PM] Sending request 'textDocument/codeAction - (32)'.
+2025-04-28 19:48:49.404 [info] [Trace - 7:48:49 PM] Sending notification '$/cancelRequest'.
+2025-04-28 19:48:49.478 [info] [Trace - 7:48:49 PM] Received notification 'window/logMessage'.
+2025-04-28 19:48:49.478 [info] file:///home/angrycompany16/ntnu/EDK/EDK-project/project/main.py :
+[
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 20,
+        "column": 30,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 33,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 45,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (109/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 61,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 72,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (109/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 1,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "missing-module-docstring",
+        "message": "Missing module docstring",
+        "message-id": "C0114"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "multiple-imports",
+        "message": "Multiple imports on one line (argparse, sys)",
+        "message-id": "C0410"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "main",
+        "line": 6,
+        "column": 0,
+        "endLine": 6,
+        "endColumn": 8,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_mean_task1",
+        "line": 24,
+        "column": 0,
+        "endLine": 24,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_mean_task1",
+        "line": 28,
+        "column": 15,
+        "endLine": 28,
+        "endColumn": 21,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"SNR_dB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_task1",
+        "line": 37,
+        "column": 0,
+        "endLine": 37,
+        "endColumn": 15,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_task1",
+        "line": 42,
+        "column": 11,
+        "endLine": 42,
+        "endColumn": 17,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"SNR_dB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_mean_task2",
+        "line": 53,
+        "column": 0,
+        "endLine": 53,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_mean_task2",
+        "line": 56,
+        "column": 11,
+        "endLine": 56,
+        "endColumn": 17,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"SNR_dB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_task2",
+        "line": 65,
+        "column": 0,
+        "endLine": 65,
+        "endColumn": 15,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_task2",
+        "line": 69,
+        "column": 11,
+        "endLine": 69,
+        "endColumn": 17,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"SNR_dB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 18,
+        "path": "main.py",
+        "symbol": "wrong-import-order",
+        "message": "third party import \"numpy\" should be placed before first party imports \"task1\", \"task2\" ",
+        "message-id": "C0411"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"argparse\" should be placed before third party import \"numpy\" and first party imports \"task1\", \"task2\" ",
+        "message-id": "C0411"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"sys\" should be placed before third party import \"numpy\" and first party imports \"task1\", \"task2\" ",
+        "message-id": "C0411"
+    },
+    {
+        "type": "warning",
+        "module": "main",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "unused-import",
+        "message": "Unused import sys",
+        "message-id": "W0611"
+    }
+]
+
+2025-04-28 19:48:49.479 [info] [Trace - 7:48:49 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-04-28 19:48:49.483 [info] [Trace - 7:48:49 PM] Received response 'textDocument/codeAction - (30)' in 1209ms.
+2025-04-28 19:48:49.483 [info] [Trace - 7:48:49 PM] Received response 'textDocument/codeAction - (31)' in 958ms.
+2025-04-28 19:48:49.484 [info] [Trace - 7:48:49 PM] Received response 'textDocument/codeAction - (32)' in 81ms.
+2025-04-28 19:48:49.750 [info] [Trace - 7:48:49 PM] Sending request 'textDocument/codeAction - (33)'.
+2025-04-28 19:48:49.753 [info] [Trace - 7:48:49 PM] Received response 'textDocument/codeAction - (33)' in 3ms.
+2025-04-28 19:48:51.213 [info] [Trace - 7:48:51 PM] Sending request 'textDocument/codeAction - (34)'.
+2025-04-28 19:48:51.216 [info] [Trace - 7:48:51 PM] Received response 'textDocument/codeAction - (34)' in 3ms.
+2025-04-28 19:48:53.784 [info] [Trace - 7:48:53 PM] Sending request 'textDocument/codeAction - (35)'.
+2025-04-28 19:48:53.787 [info] [Trace - 7:48:53 PM] Received response 'textDocument/codeAction - (35)' in 2ms.
+2025-04-28 19:48:57.987 [info] [Trace - 7:48:57 PM] Sending request 'textDocument/codeAction - (36)'.
+2025-04-28 19:48:57.990 [info] [Trace - 7:48:57 PM] Received response 'textDocument/codeAction - (36)' in 3ms.
+2025-04-28 19:49:12.531 [info] [Trace - 7:49:12 PM] Sending request 'textDocument/codeAction - (37)'.
+2025-04-28 19:49:12.534 [info] [Trace - 7:49:12 PM] Received response 'textDocument/codeAction - (37)' in 3ms.
+2025-04-28 19:49:15.741 [info] [Trace - 7:49:15 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:49:15.804 [info] [Trace - 7:49:15 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:49:16.390 [info] [Trace - 7:49:16 PM] Sending request 'textDocument/codeAction - (38)'.
+2025-04-28 19:49:16.394 [info] [Trace - 7:49:16 PM] Received response 'textDocument/codeAction - (38)' in 3ms.
+2025-04-28 19:49:16.958 [info] [Trace - 7:49:16 PM] Sending request 'textDocument/codeAction - (39)'.
+2025-04-28 19:49:16.961 [info] [Trace - 7:49:16 PM] Received response 'textDocument/codeAction - (39)' in 4ms.
+2025-04-28 19:49:17.065 [info] [Trace - 7:49:17 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:49:17.128 [info] [Trace - 7:49:17 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:49:17.566 [info] [Trace - 7:49:17 PM] Sending request 'textDocument/codeAction - (40)'.
+2025-04-28 19:49:17.569 [info] [Trace - 7:49:17 PM] Received response 'textDocument/codeAction - (40)' in 2ms.
+2025-04-28 19:49:18.172 [info] [Trace - 7:49:18 PM] Sending request 'textDocument/codeAction - (41)'.
+2025-04-28 19:49:18.175 [info] [Trace - 7:49:18 PM] Received response 'textDocument/codeAction - (41)' in 3ms.
+2025-04-28 19:49:18.581 [info] [Trace - 7:49:18 PM] Sending request 'textDocument/codeAction - (42)'.
+2025-04-28 19:49:18.584 [info] [Trace - 7:49:18 PM] Received response 'textDocument/codeAction - (42)' in 3ms.
+2025-04-28 19:49:18.913 [info] [Trace - 7:49:18 PM] Sending request 'textDocument/codeAction - (43)'.
+2025-04-28 19:49:18.916 [info] [Trace - 7:49:18 PM] Received response 'textDocument/codeAction - (43)' in 3ms.
+2025-04-28 19:49:21.556 [info] [Trace - 7:49:21 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:49:21.789 [info] [Trace - 7:49:21 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:49:22.539 [info] [Trace - 7:49:22 PM] Sending request 'textDocument/codeAction - (44)'.
+2025-04-28 19:49:22.542 [info] [Trace - 7:49:22 PM] Received response 'textDocument/codeAction - (44)' in 3ms.
+2025-04-28 19:49:22.880 [info] [Trace - 7:49:22 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:49:22.940 [info] [Trace - 7:49:22 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:49:23.192 [info] [Trace - 7:49:23 PM] Sending request 'textDocument/codeAction - (45)'.
+2025-04-28 19:49:23.195 [info] [Trace - 7:49:23 PM] Received response 'textDocument/codeAction - (45)' in 3ms.
+2025-04-28 19:49:24.296 [info] [Trace - 7:49:24 PM] Sending notification 'textDocument/didSave'.
+2025-04-28 19:49:24.299 [info] [Trace - 7:49:24 PM] Received notification 'window/logMessage'.
+2025-04-28 19:49:24.299 [info] /home/angrycompany16/ntnu/EDK/EDK-project/project/.venv/bin/python -m pylint --reports=n --output-format=json --clear-cache-post-run=y --from-stdin /home/angrycompany16/ntnu/EDK/EDK-project/project/main.py
+2025-04-28 19:49:24.300 [info] [Trace - 7:49:24 PM] Received notification 'window/logMessage'.
+2025-04-28 19:49:24.300 [info] CWD Linter: /home/angrycompany16/ntnu/EDK/EDK-project/project
+2025-04-28 19:49:24.955 [info] [Trace - 7:49:24 PM] Received notification 'window/logMessage'.
+2025-04-28 19:49:24.955 [info] file:///home/angrycompany16/ntnu/EDK/EDK-project/project/main.py :
+[
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 20,
+        "column": 30,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 33,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 45,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (109/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 61,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 72,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (109/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 1,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "missing-module-docstring",
+        "message": "Missing module docstring",
+        "message-id": "C0114"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "multiple-imports",
+        "message": "Multiple imports on one line (argparse, sys)",
+        "message-id": "C0410"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "main",
+        "line": 6,
+        "column": 0,
+        "endLine": 6,
+        "endColumn": 8,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_mean_task1",
+        "line": 24,
+        "column": 0,
+        "endLine": 24,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_mean_task1",
+        "line": 28,
+        "column": 15,
+        "endLine": 28,
+        "endColumn": 21,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"SNR_dB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_task1",
+        "line": 37,
+        "column": 0,
+        "endLine": 37,
+        "endColumn": 15,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_task1",
+        "line": 42,
+        "column": 11,
+        "endLine": 42,
+        "endColumn": 17,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"SNR_dB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_mean_task2",
+        "line": 53,
+        "column": 0,
+        "endLine": 53,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_mean_task2",
+        "line": 56,
+        "column": 11,
+        "endLine": 56,
+        "endColumn": 17,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"SNR_dB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_task2",
+        "line": 65,
+        "column": 0,
+        "endLine": 65,
+        "endColumn": 15,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_task2",
+        "line": 69,
+        "column": 11,
+        "endLine": 69,
+        "endColumn": 17,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"SNR_dB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 18,
+        "path": "main.py",
+        "symbol": "wrong-import-order",
+        "message": "third party import \"numpy\" should be placed before first party imports \"task1\", \"task2\" ",
+        "message-id": "C0411"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"argparse\" should be placed before third party import \"numpy\" and first party imports \"task1\", \"task2\" ",
+        "message-id": "C0411"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"sys\" should be placed before third party import \"numpy\" and first party imports \"task1\", \"task2\" ",
+        "message-id": "C0411"
+    },
+    {
+        "type": "warning",
+        "module": "main",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "unused-import",
+        "message": "Unused import sys",
+        "message-id": "W0611"
+    }
+]
+
+2025-04-28 19:49:24.956 [info] [Trace - 7:49:24 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-04-28 19:49:25.211 [info] [Trace - 7:49:25 PM] Sending request 'textDocument/codeAction - (46)'.
+2025-04-28 19:49:25.215 [info] [Trace - 7:49:25 PM] Received response 'textDocument/codeAction - (46)' in 4ms.
+2025-04-28 19:49:46.498 [info] [Trace - 7:49:46 PM] Sending request 'textDocument/codeAction - (47)'.
+2025-04-28 19:49:46.502 [info] [Trace - 7:49:46 PM] Received response 'textDocument/codeAction - (47)' in 4ms.
+2025-04-28 19:49:52.514 [info] [Trace - 7:49:52 PM] Sending request 'textDocument/codeAction - (48)'.
+2025-04-28 19:49:52.517 [info] [Trace - 7:49:52 PM] Received response 'textDocument/codeAction - (48)' in 3ms.
+2025-04-28 19:49:56.283 [info] [Trace - 7:49:56 PM] Sending request 'textDocument/codeAction - (49)'.
+2025-04-28 19:49:56.285 [info] [Trace - 7:49:56 PM] Received response 'textDocument/codeAction - (49)' in 2ms.
+2025-04-28 19:49:58.310 [info] [Trace - 7:49:58 PM] Sending request 'textDocument/codeAction - (50)'.
+2025-04-28 19:49:58.313 [info] [Trace - 7:49:58 PM] Received response 'textDocument/codeAction - (50)' in 3ms.
+2025-04-28 19:49:58.446 [info] [Trace - 7:49:58 PM] Sending notification 'textDocument/didSave'.
+2025-04-28 19:49:58.450 [info] [Trace - 7:49:58 PM] Received notification 'window/logMessage'.
+2025-04-28 19:49:58.450 [info] /home/angrycompany16/ntnu/EDK/EDK-project/project/.venv/bin/python -m pylint --reports=n --output-format=json --clear-cache-post-run=y --from-stdin /home/angrycompany16/ntnu/EDK/EDK-project/project/main.py
+2025-04-28 19:49:58.450 [info] [Trace - 7:49:58 PM] Received notification 'window/logMessage'.
+2025-04-28 19:49:58.450 [info] CWD Linter: /home/angrycompany16/ntnu/EDK/EDK-project/project
+2025-04-28 19:49:59.844 [info] [Trace - 7:49:59 PM] Received notification 'window/logMessage'.
+2025-04-28 19:49:59.844 [info] file:///home/angrycompany16/ntnu/EDK/EDK-project/project/main.py :
+[
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 20,
+        "column": 30,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 33,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 45,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (109/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 61,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 72,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (109/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 1,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "missing-module-docstring",
+        "message": "Missing module docstring",
+        "message-id": "C0114"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "multiple-imports",
+        "message": "Multiple imports on one line (argparse, sys)",
+        "message-id": "C0410"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "main",
+        "line": 6,
+        "column": 0,
+        "endLine": 6,
+        "endColumn": 8,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_mean_task1",
+        "line": 24,
+        "column": 0,
+        "endLine": 24,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_mean_task1",
+        "line": 28,
+        "column": 15,
+        "endLine": 28,
+        "endColumn": 21,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"SNR_dB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_task1",
+        "line": 37,
+        "column": 0,
+        "endLine": 37,
+        "endColumn": 15,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_task1",
+        "line": 42,
+        "column": 11,
+        "endLine": 42,
+        "endColumn": 17,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"SNR_dB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_mean_task2",
+        "line": 53,
+        "column": 0,
+        "endLine": 53,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_mean_task2",
+        "line": 56,
+        "column": 11,
+        "endLine": 56,
+        "endColumn": 17,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"SNR_dB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_task2",
+        "line": 65,
+        "column": 0,
+        "endLine": 65,
+        "endColumn": 15,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_task2",
+        "line": 69,
+        "column": 11,
+        "endLine": 69,
+        "endColumn": 17,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"SNR_dB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 18,
+        "path": "main.py",
+        "symbol": "wrong-import-order",
+        "message": "third party import \"numpy\" should be placed before first party imports \"task1\", \"task2\" ",
+        "message-id": "C0411"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"argparse\" should be placed before third party import \"numpy\" and first party imports \"task1\", \"task2\" ",
+        "message-id": "C0411"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"sys\" should be placed before third party import \"numpy\" and first party imports \"task1\", \"task2\" ",
+        "message-id": "C0411"
+    },
+    {
+        "type": "warning",
+        "module": "main",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "unused-import",
+        "message": "Unused import sys",
+        "message-id": "W0611"
+    }
+]
+
+2025-04-28 19:49:59.845 [info] [Trace - 7:49:59 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-04-28 19:50:00.104 [info] [Trace - 7:50:00 PM] Sending request 'textDocument/codeAction - (51)'.
+2025-04-28 19:50:00.107 [info] [Trace - 7:50:00 PM] Received response 'textDocument/codeAction - (51)' in 3ms.
+2025-04-28 19:50:01.756 [info] [Trace - 7:50:01 PM] Sending request 'textDocument/codeAction - (52)'.
+2025-04-28 19:50:01.759 [info] [Trace - 7:50:01 PM] Received response 'textDocument/codeAction - (52)' in 3ms.
+2025-04-28 19:50:03.146 [info] [Trace - 7:50:03 PM] Sending request 'textDocument/codeAction - (53)'.
+2025-04-28 19:50:03.148 [info] [Trace - 7:50:03 PM] Received response 'textDocument/codeAction - (53)' in 2ms.
+2025-04-28 19:50:03.412 [info] [Trace - 7:50:03 PM] Sending request 'textDocument/codeAction - (54)'.
+2025-04-28 19:50:03.415 [info] [Trace - 7:50:03 PM] Received response 'textDocument/codeAction - (54)' in 3ms.
+2025-04-28 19:50:04.780 [info] [Trace - 7:50:04 PM] Sending notification 'textDocument/didSave'.
+2025-04-28 19:50:04.783 [info] [Trace - 7:50:04 PM] Received notification 'window/logMessage'.
+2025-04-28 19:50:04.783 [info] /home/angrycompany16/ntnu/EDK/EDK-project/project/.venv/bin/python -m pylint --reports=n --output-format=json --clear-cache-post-run=y --from-stdin /home/angrycompany16/ntnu/EDK/EDK-project/project/main.py
+2025-04-28 19:50:04.784 [info] [Trace - 7:50:04 PM] Received notification 'window/logMessage'.
+2025-04-28 19:50:04.784 [info] CWD Linter: /home/angrycompany16/ntnu/EDK/EDK-project/project
+2025-04-28 19:50:06.072 [info] [Trace - 7:50:06 PM] Received notification 'window/logMessage'.
+2025-04-28 19:50:06.072 [info] file:///home/angrycompany16/ntnu/EDK/EDK-project/project/main.py :
+[
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 20,
+        "column": 30,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 33,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 45,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (109/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 61,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 72,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (109/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 1,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "missing-module-docstring",
+        "message": "Missing module docstring",
+        "message-id": "C0114"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "multiple-imports",
+        "message": "Multiple imports on one line (argparse, sys)",
+        "message-id": "C0410"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "main",
+        "line": 6,
+        "column": 0,
+        "endLine": 6,
+        "endColumn": 8,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_mean_task1",
+        "line": 24,
+        "column": 0,
+        "endLine": 24,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_mean_task1",
+        "line": 28,
+        "column": 15,
+        "endLine": 28,
+        "endColumn": 21,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"SNR_dB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_task1",
+        "line": 37,
+        "column": 0,
+        "endLine": 37,
+        "endColumn": 15,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_task1",
+        "line": 42,
+        "column": 11,
+        "endLine": 42,
+        "endColumn": 17,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"SNR_dB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_mean_task2",
+        "line": 53,
+        "column": 0,
+        "endLine": 53,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_mean_task2",
+        "line": 56,
+        "column": 11,
+        "endLine": 56,
+        "endColumn": 17,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"SNR_dB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_task2",
+        "line": 65,
+        "column": 0,
+        "endLine": 65,
+        "endColumn": 15,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_task2",
+        "line": 69,
+        "column": 11,
+        "endLine": 69,
+        "endColumn": 17,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"SNR_dB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 18,
+        "path": "main.py",
+        "symbol": "wrong-import-order",
+        "message": "third party import \"numpy\" should be placed before first party imports \"task1\", \"task2\" ",
+        "message-id": "C0411"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"argparse\" should be placed before third party import \"numpy\" and first party imports \"task1\", \"task2\" ",
+        "message-id": "C0411"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"sys\" should be placed before third party import \"numpy\" and first party imports \"task1\", \"task2\" ",
+        "message-id": "C0411"
+    },
+    {
+        "type": "warning",
+        "module": "main",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "unused-import",
+        "message": "Unused import sys",
+        "message-id": "W0611"
+    }
+]
+
+2025-04-28 19:50:06.073 [info] [Trace - 7:50:06 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-04-28 19:50:06.328 [info] [Trace - 7:50:06 PM] Sending request 'textDocument/codeAction - (55)'.
+2025-04-28 19:50:06.331 [info] [Trace - 7:50:06 PM] Received response 'textDocument/codeAction - (55)' in 3ms.
+2025-04-28 19:50:11.803 [info] [Trace - 7:50:11 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:50:12.664 [info] [Trace - 7:50:12 PM] Sending request 'textDocument/codeAction - (56)'.
+2025-04-28 19:50:12.667 [info] [Trace - 7:50:12 PM] Received response 'textDocument/codeAction - (56)' in 3ms.
+2025-04-28 19:50:12.966 [info] [Trace - 7:50:12 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:50:13.037 [info] [Trace - 7:50:13 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:50:14.046 [info] [Trace - 7:50:14 PM] Sending request 'textDocument/codeAction - (57)'.
+2025-04-28 19:50:14.049 [info] [Trace - 7:50:14 PM] Received response 'textDocument/codeAction - (57)' in 2ms.
+2025-04-28 19:50:14.309 [info] [Trace - 7:50:14 PM] Sending request 'textDocument/codeAction - (58)'.
+2025-04-28 19:50:14.312 [info] [Trace - 7:50:14 PM] Received response 'textDocument/codeAction - (58)' in 3ms.
+2025-04-28 19:50:14.650 [info] [Trace - 7:50:14 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:50:14.681 [info] [Trace - 7:50:14 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:50:15.410 [info] [Trace - 7:50:15 PM] Sending request 'textDocument/codeAction - (59)'.
+2025-04-28 19:50:15.413 [info] [Trace - 7:50:15 PM] Received response 'textDocument/codeAction - (59)' in 3ms.
+2025-04-28 19:50:15.680 [info] [Trace - 7:50:15 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:50:15.720 [info] [Trace - 7:50:15 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:50:15.973 [info] [Trace - 7:50:15 PM] Sending request 'textDocument/codeAction - (60)'.
+2025-04-28 19:50:15.976 [info] [Trace - 7:50:15 PM] Received response 'textDocument/codeAction - (60)' in 2ms.
+2025-04-28 19:50:18.237 [info] [Trace - 7:50:18 PM] Sending request 'textDocument/codeAction - (61)'.
+2025-04-28 19:50:18.240 [info] [Trace - 7:50:18 PM] Received response 'textDocument/codeAction - (61)' in 3ms.
+2025-04-28 19:50:20.466 [info] [Trace - 7:50:20 PM] Sending request 'textDocument/codeAction - (62)'.
+2025-04-28 19:50:20.469 [info] [Trace - 7:50:20 PM] Received response 'textDocument/codeAction - (62)' in 3ms.
+2025-04-28 19:50:35.224 [info] [Trace - 7:50:35 PM] Sending request 'textDocument/codeAction - (63)'.
+2025-04-28 19:50:35.229 [info] [Trace - 7:50:35 PM] Received response 'textDocument/codeAction - (63)' in 5ms.
+2025-04-28 19:50:35.465 [info] [Trace - 7:50:35 PM] Sending request 'textDocument/codeAction - (64)'.
+2025-04-28 19:50:35.468 [info] [Trace - 7:50:35 PM] Received response 'textDocument/codeAction - (64)' in 3ms.
+2025-04-28 19:50:38.444 [info] [Trace - 7:50:38 PM] Sending request 'textDocument/codeAction - (65)'.
+2025-04-28 19:50:38.447 [info] [Trace - 7:50:38 PM] Received response 'textDocument/codeAction - (65)' in 3ms.
+2025-04-28 19:50:38.795 [info] [Trace - 7:50:38 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:50:38.897 [info] [Trace - 7:50:38 PM] Sending notification 'textDocument/didChange'.
+2025-04-28 19:50:39.150 [info] [Trace - 7:50:39 PM] Sending request 'textDocument/codeAction - (66)'.
+2025-04-28 19:50:39.153 [info] [Trace - 7:50:39 PM] Received response 'textDocument/codeAction - (66)' in 3ms.
+2025-04-28 19:50:39.512 [info] [Trace - 7:50:39 PM] Sending notification 'textDocument/didSave'.
+2025-04-28 19:50:39.516 [info] [Trace - 7:50:39 PM] Received notification 'window/logMessage'.
+2025-04-28 19:50:39.516 [info] /home/angrycompany16/ntnu/EDK/EDK-project/project/.venv/bin/python -m pylint --reports=n --output-format=json --clear-cache-post-run=y --from-stdin /home/angrycompany16/ntnu/EDK/EDK-project/project/task1.py
+2025-04-28 19:50:39.516 [info] [Trace - 7:50:39 PM] Received notification 'window/logMessage'.
+2025-04-28 19:50:39.516 [info] CWD Linter: /home/angrycompany16/ntnu/EDK/EDK-project/project
+2025-04-28 19:50:41.966 [info] [Trace - 7:50:41 PM] Sending request 'textDocument/codeAction - (67)'.
+2025-04-28 19:50:42.204 [info] [Trace - 7:50:42 PM] Sending request 'textDocument/codeAction - (68)'.
+2025-04-28 19:50:42.205 [info] [Trace - 7:50:42 PM] Sending notification '$/cancelRequest'.
+2025-04-28 19:50:43.721 [info] [Trace - 7:50:43 PM] Sending request 'textDocument/codeAction - (69)'.
+2025-04-28 19:50:43.721 [info] [Trace - 7:50:43 PM] Sending notification '$/cancelRequest'.
+2025-04-28 19:50:43.771 [info] [Trace - 7:50:43 PM] Sending notification 'textDocument/didSave'.
+2025-04-28 19:50:44.550 [info] [Trace - 7:50:44 PM] Sending request 'textDocument/codeAction - (70)'.
+2025-04-28 19:50:44.551 [info] [Trace - 7:50:44 PM] Sending notification '$/cancelRequest'.
+2025-04-28 19:50:45.635 [info] [Trace - 7:50:45 PM] Received notification 'window/logMessage'.
+2025-04-28 19:50:45.635 [info] file:///home/angrycompany16/ntnu/EDK/EDK-project/project/task1.py :
+[
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 32,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (127/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 58,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (102/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 86,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 88,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (114/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 105,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (147/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 136,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (140/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 147,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "missing-final-newline",
+        "message": "Final newline missing",
+        "message-id": "C0304"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 1,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "missing-module-docstring",
+        "message": "Missing module docstring",
+        "message-id": "C0114"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 10,
+        "column": 0,
+        "endLine": 10,
+        "endColumn": 5,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Constant name \"__F_s\" doesn't conform to UPPER_CASE naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 15,
+        "column": 0,
+        "endLine": 15,
+        "endColumn": 5,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Constant name \"__n_0\" doesn't conform to UPPER_CASE naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 16,
+        "column": 0,
+        "endLine": 16,
+        "endColumn": 10,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Constant name \"iterations\" doesn't conform to UPPER_CASE naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "__get_sigma_sqr",
+        "line": 22,
+        "column": 20,
+        "endLine": 22,
+        "endColumn": 30,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Argument name \"SNR\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "get_sigma",
+        "line": 25,
+        "column": 0,
+        "endLine": 25,
+        "endColumn": 13,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "get_sigma",
+        "line": 25,
+        "column": 14,
+        "endLine": 25,
+        "endColumn": 24,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Argument name \"SNR\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "__omega_CRLB",
+        "line": 28,
+        "column": 0,
+        "endLine": 28,
+        "endColumn": 16,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Function name \"__omega_CRLB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "__phi_CRLB",
+        "line": 31,
+        "column": 0,
+        "endLine": 31,
+        "endColumn": 14,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Function name \"__phi_CRLB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "F",
+        "line": 34,
+        "column": 0,
+        "endLine": 34,
+        "endColumn": 5,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "F",
+        "line": 34,
+        "column": 0,
+        "endLine": 34,
+        "endColumn": 5,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Function name \"F\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "get_phi_est",
+        "line": 40,
+        "column": 0,
+        "endLine": 40,
+        "endColumn": 15,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "get_snr",
+        "line": 43,
+        "column": 0,
+        "endLine": 43,
+        "endColumn": 11,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "get_snr",
+        "line": 43,
+        "column": 12,
+        "endLine": 43,
+        "endColumn": 25,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Argument name \"snr_dB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "refactor",
+        "module": "task1",
+        "obj": "",
+        "line": 47,
+        "column": 13,
+        "endLine": 47,
+        "endColumn": 55,
+        "path": "task1.py",
+        "symbol": "unnecessary-comprehension",
+        "message": "Unnecessary use of a comprehension, use list(range(-10, 61, 10)) instead.",
+        "message-id": "R1721"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "sample",
+        "line": 53,
+        "column": 0,
+        "endLine": 53,
+        "endColumn": 10,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "estimate_omega_phi",
+        "line": 61,
+        "column": 0,
+        "endLine": 61,
+        "endColumn": 22,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "estimate_omega_phi",
+        "line": 61,
+        "column": 23,
+        "endLine": 61,
+        "endColumn": 36,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Argument name \"SNR_dB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "estimate_omega_phi",
+        "line": 61,
+        "column": 38,
+        "endLine": 61,
+        "endColumn": 53,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Argument name \"FFT_size\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "estimate_omega_phi",
+        "line": 69,
+        "column": 8,
+        "endLine": 69,
+        "endColumn": 11,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"FFT\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "get_variance",
+        "line": 80,
+        "column": 0,
+        "endLine": 80,
+        "endColumn": 16,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "plot_variances_omega_against_snr",
+        "line": 83,
+        "column": 0,
+        "endLine": 83,
+        "endColumn": 36,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "plot_average_omega_against_snr",
+        "line": 100,
+        "column": 0,
+        "endLine": 100,
+        "endColumn": 34,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "warning",
+        "module": "task1",
+        "obj": "plot_average_omega_against_snr",
+        "line": 107,
+        "column": 43,
+        "endLine": 107,
+        "endColumn": 60,
+        "path": "task1.py",
+        "symbol": "f-string-without-interpolation",
+        "message": "Using an f-string that does not have any interpolated variables",
+        "message-id": "W1309"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "plot_variances_phi_against_snr",
+        "line": 118,
+        "column": 0,
+        "endLine": 118,
+        "endColumn": 34,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "plot_average_phi_against_snr",
+        "line": 132,
+        "column": 0,
+        "endLine": 132,
+        "endColumn": 32,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "warning",
+        "module": "task1",
+        "obj": "plot_average_phi_against_snr",
+        "line": 138,
+        "column": 43,
+        "endLine": 138,
+        "endColumn": 56,
+        "path": "task1.py",
+        "symbol": "f-string-without-interpolation",
+        "message": "Using an f-string that does not have any interpolated variables",
+        "message-id": "W1309"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 2,
+        "column": 0,
+        "endLine": 2,
+        "endColumn": 12,
+        "path": "task1.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"cmath\" should be placed before third party import \"numpy\"",
+        "message-id": "C0411"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 9,
+        "path": "task1.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"os\" should be placed before third party import \"numpy\"",
+        "message-id": "C0411"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 11,
+        "path": "task1.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"time\" should be placed before third party import \"numpy\"",
+        "message-id": "C0411"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 7,
+        "column": 0,
+        "endLine": 7,
+        "endColumn": 11,
+        "path": "task1.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"math\" should be placed before third party imports \"numpy\", \"matplotlib.pyplot\", \"scipy.optimize\"",
+        "message-id": "C0411"
+    },
+    {
+        "type": "warning",
+        "module": "task1",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 9,
+        "path": "task1.py",
+        "symbol": "unused-import",
+        "message": "Unused import os",
+        "message-id": "W0611"
+    },
+    {
+        "type": "warning",
+        "module": "task1",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 11,
+        "path": "task1.py",
+        "symbol": "unused-import",
+        "message": "Unused import time",
+        "message-id": "W0611"
+    },
+    {
+        "type": "warning",
+        "module": "task1",
+        "obj": "",
+        "line": 6,
+        "column": 0,
+        "endLine": 6,
+        "endColumn": 28,
+        "path": "task1.py",
+        "symbol": "unused-import",
+        "message": "Unused scipy.optimize imported as opt",
+        "message-id": "W0611"
+    }
+]
+
+2025-04-28 19:50:45.636 [info] [Trace - 7:50:45 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-04-28 19:50:45.638 [info] [Trace - 7:50:45 PM] Received response 'textDocument/codeAction - (67)' in 3672ms.
+2025-04-28 19:50:45.638 [info] [Trace - 7:50:45 PM] Received response 'textDocument/codeAction - (68)' in 3434ms.
+2025-04-28 19:50:45.639 [info] [Trace - 7:50:45 PM] Received response 'textDocument/codeAction - (69)' in 1918ms.
+2025-04-28 19:50:45.643 [info] [Trace - 7:50:45 PM] Received notification 'window/logMessage'.
+2025-04-28 19:50:45.643 [info] /home/angrycompany16/ntnu/EDK/EDK-project/project/.venv/bin/python -m pylint --reports=n --output-format=json --clear-cache-post-run=y --from-stdin /home/angrycompany16/ntnu/EDK/EDK-project/project/main.py
+2025-04-28 19:50:45.643 [info] [Trace - 7:50:45 PM] Received notification 'window/logMessage'.
+2025-04-28 19:50:45.643 [info] CWD Linter: /home/angrycompany16/ntnu/EDK/EDK-project/project
+2025-04-28 19:50:46.923 [info] [Trace - 7:50:46 PM] Received notification 'window/logMessage'.
+2025-04-28 19:50:46.923 [info] file:///home/angrycompany16/ntnu/EDK/EDK-project/project/main.py :
+[
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 20,
+        "column": 30,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 33,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 45,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (109/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 61,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 72,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (109/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 1,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "missing-module-docstring",
+        "message": "Missing module docstring",
+        "message-id": "C0114"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "multiple-imports",
+        "message": "Multiple imports on one line (argparse, sys)",
+        "message-id": "C0410"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "main",
+        "line": 6,
+        "column": 0,
+        "endLine": 6,
+        "endColumn": 8,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_mean_task1",
+        "line": 24,
+        "column": 0,
+        "endLine": 24,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_mean_task1",
+        "line": 28,
+        "column": 15,
+        "endLine": 28,
+        "endColumn": 21,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"SNR_dB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_task1",
+        "line": 37,
+        "column": 0,
+        "endLine": 37,
+        "endColumn": 15,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_task1",
+        "line": 42,
+        "column": 11,
+        "endLine": 42,
+        "endColumn": 17,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"SNR_dB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_mean_task2",
+        "line": 53,
+        "column": 0,
+        "endLine": 53,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_mean_task2",
+        "line": 56,
+        "column": 11,
+        "endLine": 56,
+        "endColumn": 17,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"SNR_dB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_task2",
+        "line": 65,
+        "column": 0,
+        "endLine": 65,
+        "endColumn": 15,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_task2",
+        "line": 69,
+        "column": 11,
+        "endLine": 69,
+        "endColumn": 17,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"SNR_dB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 18,
+        "path": "main.py",
+        "symbol": "wrong-import-order",
+        "message": "third party import \"numpy\" should be placed before first party imports \"task1\", \"task2\" ",
+        "message-id": "C0411"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"argparse\" should be placed before third party import \"numpy\" and first party imports \"task1\", \"task2\" ",
+        "message-id": "C0411"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"sys\" should be placed before third party import \"numpy\" and first party imports \"task1\", \"task2\" ",
+        "message-id": "C0411"
+    },
+    {
+        "type": "warning",
+        "module": "main",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "unused-import",
+        "message": "Unused import sys",
+        "message-id": "W0611"
+    }
+]
+
+2025-04-28 19:50:46.923 [info] [Trace - 7:50:46 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-04-28 19:50:46.925 [info] [Trace - 7:50:46 PM] Received response 'textDocument/codeAction - (70)' in 2375ms.
+2025-04-28 19:50:47.178 [info] [Trace - 7:50:47 PM] Sending request 'textDocument/codeAction - (71)'.
+2025-04-28 19:50:47.180 [info] [Trace - 7:50:47 PM] Received response 'textDocument/codeAction - (71)' in 2ms.
+2025-04-28 19:59:32.807 [info] [Trace - 7:59:32 PM] Sending request 'textDocument/codeAction - (72)'.
+2025-04-28 19:59:32.811 [info] [Trace - 7:59:32 PM] Received response 'textDocument/codeAction - (72)' in 4ms.
+2025-04-28 19:59:33.044 [info] [Trace - 7:59:33 PM] Sending request 'textDocument/codeAction - (73)'.
+2025-04-28 19:59:33.048 [info] [Trace - 7:59:33 PM] Received response 'textDocument/codeAction - (73)' in 3ms.
+2025-04-28 19:59:34.718 [info] [Trace - 7:59:34 PM] Sending request 'textDocument/codeAction - (74)'.
+2025-04-28 19:59:34.721 [info] [Trace - 7:59:34 PM] Received response 'textDocument/codeAction - (74)' in 3ms.
+2025-04-28 19:59:40.782 [info] [Trace - 7:59:40 PM] Sending notification 'textDocument/didSave'.
+2025-04-28 19:59:40.784 [info] [Trace - 7:59:40 PM] Received notification 'window/logMessage'.
+2025-04-28 19:59:40.784 [info] /home/angrycompany16/ntnu/EDK/EDK-project/project/.venv/bin/python -m pylint --reports=n --output-format=json --clear-cache-post-run=y --from-stdin /home/angrycompany16/ntnu/EDK/EDK-project/project/main.py
+2025-04-28 19:59:40.785 [info] [Trace - 7:59:40 PM] Received notification 'window/logMessage'.
+2025-04-28 19:59:40.785 [info] CWD Linter: /home/angrycompany16/ntnu/EDK/EDK-project/project
+2025-04-28 19:59:41.651 [info] [Trace - 7:59:41 PM] Sending request 'textDocument/codeAction - (75)'.
+2025-04-28 19:59:42.201 [info] [Trace - 7:59:42 PM] Received notification 'window/logMessage'.
+2025-04-28 19:59:42.201 [info] file:///home/angrycompany16/ntnu/EDK/EDK-project/project/main.py :
+[
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 20,
+        "column": 30,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 33,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 45,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (109/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 61,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 72,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (109/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 1,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "missing-module-docstring",
+        "message": "Missing module docstring",
+        "message-id": "C0114"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "multiple-imports",
+        "message": "Multiple imports on one line (argparse, sys)",
+        "message-id": "C0410"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "main",
+        "line": 6,
+        "column": 0,
+        "endLine": 6,
+        "endColumn": 8,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_mean_task1",
+        "line": 24,
+        "column": 0,
+        "endLine": 24,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_mean_task1",
+        "line": 28,
+        "column": 15,
+        "endLine": 28,
+        "endColumn": 21,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"SNR_dB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_task1",
+        "line": 37,
+        "column": 0,
+        "endLine": 37,
+        "endColumn": 15,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_task1",
+        "line": 42,
+        "column": 11,
+        "endLine": 42,
+        "endColumn": 17,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"SNR_dB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_mean_task2",
+        "line": 53,
+        "column": 0,
+        "endLine": 53,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_mean_task2",
+        "line": 56,
+        "column": 11,
+        "endLine": 56,
+        "endColumn": 17,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"SNR_dB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_task2",
+        "line": 65,
+        "column": 0,
+        "endLine": 65,
+        "endColumn": 15,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_task2",
+        "line": 69,
+        "column": 11,
+        "endLine": 69,
+        "endColumn": 17,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"SNR_dB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 18,
+        "path": "main.py",
+        "symbol": "wrong-import-order",
+        "message": "third party import \"numpy\" should be placed before first party imports \"task1\", \"task2\" ",
+        "message-id": "C0411"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"argparse\" should be placed before third party import \"numpy\" and first party imports \"task1\", \"task2\" ",
+        "message-id": "C0411"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"sys\" should be placed before third party import \"numpy\" and first party imports \"task1\", \"task2\" ",
+        "message-id": "C0411"
+    },
+    {
+        "type": "warning",
+        "module": "main",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "unused-import",
+        "message": "Unused import sys",
+        "message-id": "W0611"
+    }
+]
+
+2025-04-28 19:59:42.202 [info] [Trace - 7:59:42 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-04-28 19:59:42.204 [info] [Trace - 7:59:42 PM] Received response 'textDocument/codeAction - (75)' in 553ms.
+2025-04-28 19:59:42.460 [info] [Trace - 7:59:42 PM] Sending request 'textDocument/codeAction - (76)'.
+2025-04-28 19:59:42.463 [info] [Trace - 7:59:42 PM] Received response 'textDocument/codeAction - (76)' in 3ms.
+2025-04-28 19:59:42.832 [info] [Trace - 7:59:42 PM] Sending request 'textDocument/codeAction - (77)'.
+2025-04-28 19:59:42.834 [info] [Trace - 7:59:42 PM] Received response 'textDocument/codeAction - (77)' in 3ms.
+2025-04-28 19:59:42.897 [info] [Trace - 7:59:42 PM] Sending notification 'textDocument/didSave'.
+2025-04-28 19:59:42.901 [info] [Trace - 7:59:42 PM] Received notification 'window/logMessage'.
+2025-04-28 19:59:42.901 [info] /home/angrycompany16/ntnu/EDK/EDK-project/project/.venv/bin/python -m pylint --reports=n --output-format=json --clear-cache-post-run=y --from-stdin /home/angrycompany16/ntnu/EDK/EDK-project/project/main.py
+2025-04-28 19:59:42.902 [info] [Trace - 7:59:42 PM] Received notification 'window/logMessage'.
+2025-04-28 19:59:42.902 [info] CWD Linter: /home/angrycompany16/ntnu/EDK/EDK-project/project
+2025-04-28 19:59:43.614 [info] [Trace - 7:59:43 PM] Received notification 'window/logMessage'.
+2025-04-28 19:59:43.614 [info] file:///home/angrycompany16/ntnu/EDK/EDK-project/project/main.py :
+[
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 20,
+        "column": 30,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 33,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 45,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (109/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 61,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 72,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (109/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 1,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "missing-module-docstring",
+        "message": "Missing module docstring",
+        "message-id": "C0114"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "multiple-imports",
+        "message": "Multiple imports on one line (argparse, sys)",
+        "message-id": "C0410"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "main",
+        "line": 6,
+        "column": 0,
+        "endLine": 6,
+        "endColumn": 8,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_mean_task1",
+        "line": 24,
+        "column": 0,
+        "endLine": 24,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_mean_task1",
+        "line": 28,
+        "column": 15,
+        "endLine": 28,
+        "endColumn": 21,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"SNR_dB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_task1",
+        "line": 37,
+        "column": 0,
+        "endLine": 37,
+        "endColumn": 15,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_task1",
+        "line": 42,
+        "column": 11,
+        "endLine": 42,
+        "endColumn": 17,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"SNR_dB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_mean_task2",
+        "line": 53,
+        "column": 0,
+        "endLine": 53,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_mean_task2",
+        "line": 56,
+        "column": 11,
+        "endLine": 56,
+        "endColumn": 17,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"SNR_dB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_task2",
+        "line": 65,
+        "column": 0,
+        "endLine": 65,
+        "endColumn": 15,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "solve_task2",
+        "line": 69,
+        "column": 11,
+        "endLine": 69,
+        "endColumn": 17,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"SNR_dB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 18,
+        "path": "main.py",
+        "symbol": "wrong-import-order",
+        "message": "third party import \"numpy\" should be placed before first party imports \"task1\", \"task2\" ",
+        "message-id": "C0411"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"argparse\" should be placed before third party import \"numpy\" and first party imports \"task1\", \"task2\" ",
+        "message-id": "C0411"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"sys\" should be placed before third party import \"numpy\" and first party imports \"task1\", \"task2\" ",
+        "message-id": "C0411"
+    },
+    {
+        "type": "warning",
+        "module": "main",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "unused-import",
+        "message": "Unused import sys",
+        "message-id": "W0611"
+    }
+]
+
+2025-04-28 19:59:43.615 [info] [Trace - 7:59:43 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-04-28 19:59:43.870 [info] [Trace - 7:59:43 PM] Sending request 'textDocument/codeAction - (78)'.
+2025-04-28 19:59:43.873 [info] [Trace - 7:59:43 PM] Received response 'textDocument/codeAction - (78)' in 3ms.
+2025-04-28 19:59:46.066 [info] [Trace - 7:59:46 PM] Sending request 'textDocument/codeAction - (79)'.
+2025-04-28 19:59:46.070 [info] [Trace - 7:59:46 PM] Received response 'textDocument/codeAction - (79)' in 4ms.
+2025-04-28 19:59:46.302 [info] [Trace - 7:59:46 PM] Sending request 'textDocument/codeAction - (80)'.
+2025-04-28 19:59:46.304 [info] [Trace - 7:59:46 PM] Received response 'textDocument/codeAction - (80)' in 2ms.
+2025-04-28 19:59:47.129 [info] [Trace - 7:59:47 PM] Sending notification 'textDocument/didSave'.
+2025-04-28 19:59:47.136 [info] [Trace - 7:59:47 PM] Received notification 'window/logMessage'.
+2025-04-28 19:59:47.136 [info] /home/angrycompany16/ntnu/EDK/EDK-project/project/.venv/bin/python -m pylint --reports=n --output-format=json --clear-cache-post-run=y --from-stdin /home/angrycompany16/ntnu/EDK/EDK-project/project/task1.py
+2025-04-28 19:59:47.136 [info] [Trace - 7:59:47 PM] Received notification 'window/logMessage'.
+2025-04-28 19:59:47.136 [info] CWD Linter: /home/angrycompany16/ntnu/EDK/EDK-project/project
+2025-04-28 19:59:47.166 [info] [Trace - 7:59:47 PM] Sending request 'textDocument/codeAction - (81)'.
+2025-04-28 19:59:48.772 [info] [Trace - 7:59:48 PM] Sending request 'textDocument/codeAction - (82)'.
+2025-04-28 19:59:49.100 [info] [Trace - 7:59:49 PM] Sending notification '$/cancelRequest'.
+2025-04-28 19:59:49.350 [info] [Trace - 7:59:49 PM] Sending request 'textDocument/codeAction - (83)'.
+2025-04-28 19:59:49.350 [info] [Trace - 7:59:49 PM] Sending notification '$/cancelRequest'.
+2025-04-28 19:59:49.971 [info] [Trace - 7:59:49 PM] Sending notification 'textDocument/didSave'.
+2025-04-28 19:59:50.041 [info] [Trace - 7:59:50 PM] Sending notification '$/cancelRequest'.
+2025-04-28 19:59:52.767 [info] [Trace - 7:59:52 PM] Received notification 'window/logMessage'.
+2025-04-28 19:59:52.767 [info] file:///home/angrycompany16/ntnu/EDK/EDK-project/project/task1.py :
+[
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 32,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (127/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 58,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (102/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 86,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 88,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (114/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 105,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (147/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 136,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (140/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 147,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "missing-final-newline",
+        "message": "Final newline missing",
+        "message-id": "C0304"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 1,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "missing-module-docstring",
+        "message": "Missing module docstring",
+        "message-id": "C0114"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 10,
+        "column": 0,
+        "endLine": 10,
+        "endColumn": 5,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Constant name \"__F_s\" doesn't conform to UPPER_CASE naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 15,
+        "column": 0,
+        "endLine": 15,
+        "endColumn": 5,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Constant name \"__n_0\" doesn't conform to UPPER_CASE naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 16,
+        "column": 0,
+        "endLine": 16,
+        "endColumn": 10,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Constant name \"iterations\" doesn't conform to UPPER_CASE naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "__get_sigma_sqr",
+        "line": 22,
+        "column": 20,
+        "endLine": 22,
+        "endColumn": 30,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Argument name \"SNR\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "get_sigma",
+        "line": 25,
+        "column": 0,
+        "endLine": 25,
+        "endColumn": 13,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "get_sigma",
+        "line": 25,
+        "column": 14,
+        "endLine": 25,
+        "endColumn": 24,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Argument name \"SNR\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "__omega_CRLB",
+        "line": 28,
+        "column": 0,
+        "endLine": 28,
+        "endColumn": 16,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Function name \"__omega_CRLB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "__phi_CRLB",
+        "line": 31,
+        "column": 0,
+        "endLine": 31,
+        "endColumn": 14,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Function name \"__phi_CRLB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "F",
+        "line": 34,
+        "column": 0,
+        "endLine": 34,
+        "endColumn": 5,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "F",
+        "line": 34,
+        "column": 0,
+        "endLine": 34,
+        "endColumn": 5,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Function name \"F\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "get_phi_est",
+        "line": 40,
+        "column": 0,
+        "endLine": 40,
+        "endColumn": 15,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "get_snr",
+        "line": 43,
+        "column": 0,
+        "endLine": 43,
+        "endColumn": 11,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "get_snr",
+        "line": 43,
+        "column": 12,
+        "endLine": 43,
+        "endColumn": 25,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Argument name \"snr_dB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "refactor",
+        "module": "task1",
+        "obj": "",
+        "line": 47,
+        "column": 13,
+        "endLine": 47,
+        "endColumn": 55,
+        "path": "task1.py",
+        "symbol": "unnecessary-comprehension",
+        "message": "Unnecessary use of a comprehension, use list(range(-10, 61, 10)) instead.",
+        "message-id": "R1721"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "sample",
+        "line": 53,
+        "column": 0,
+        "endLine": 53,
+        "endColumn": 10,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "estimate_omega_phi",
+        "line": 61,
+        "column": 0,
+        "endLine": 61,
+        "endColumn": 22,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "estimate_omega_phi",
+        "line": 61,
+        "column": 23,
+        "endLine": 61,
+        "endColumn": 36,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Argument name \"SNR_dB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "estimate_omega_phi",
+        "line": 61,
+        "column": 38,
+        "endLine": 61,
+        "endColumn": 53,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Argument name \"FFT_size\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "estimate_omega_phi",
+        "line": 69,
+        "column": 8,
+        "endLine": 69,
+        "endColumn": 11,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"FFT\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "get_variance",
+        "line": 80,
+        "column": 0,
+        "endLine": 80,
+        "endColumn": 16,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "plot_variances_omega_against_snr",
+        "line": 83,
+        "column": 0,
+        "endLine": 83,
+        "endColumn": 36,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "plot_average_omega_against_snr",
+        "line": 100,
+        "column": 0,
+        "endLine": 100,
+        "endColumn": 34,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "warning",
+        "module": "task1",
+        "obj": "plot_average_omega_against_snr",
+        "line": 107,
+        "column": 43,
+        "endLine": 107,
+        "endColumn": 60,
+        "path": "task1.py",
+        "symbol": "f-string-without-interpolation",
+        "message": "Using an f-string that does not have any interpolated variables",
+        "message-id": "W1309"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "plot_variances_phi_against_snr",
+        "line": 118,
+        "column": 0,
+        "endLine": 118,
+        "endColumn": 34,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "plot_average_phi_against_snr",
+        "line": 132,
+        "column": 0,
+        "endLine": 132,
+        "endColumn": 32,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "warning",
+        "module": "task1",
+        "obj": "plot_average_phi_against_snr",
+        "line": 138,
+        "column": 43,
+        "endLine": 138,
+        "endColumn": 56,
+        "path": "task1.py",
+        "symbol": "f-string-without-interpolation",
+        "message": "Using an f-string that does not have any interpolated variables",
+        "message-id": "W1309"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 2,
+        "column": 0,
+        "endLine": 2,
+        "endColumn": 12,
+        "path": "task1.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"cmath\" should be placed before third party import \"numpy\"",
+        "message-id": "C0411"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 9,
+        "path": "task1.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"os\" should be placed before third party import \"numpy\"",
+        "message-id": "C0411"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 11,
+        "path": "task1.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"time\" should be placed before third party import \"numpy\"",
+        "message-id": "C0411"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 7,
+        "column": 0,
+        "endLine": 7,
+        "endColumn": 11,
+        "path": "task1.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"math\" should be placed before third party imports \"numpy\", \"matplotlib.pyplot\", \"scipy.optimize\"",
+        "message-id": "C0411"
+    },
+    {
+        "type": "warning",
+        "module": "task1",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 9,
+        "path": "task1.py",
+        "symbol": "unused-import",
+        "message": "Unused import os",
+        "message-id": "W0611"
+    },
+    {
+        "type": "warning",
+        "module": "task1",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 11,
+        "path": "task1.py",
+        "symbol": "unused-import",
+        "message": "Unused import time",
+        "message-id": "W0611"
+    },
+    {
+        "type": "warning",
+        "module": "task1",
+        "obj": "",
+        "line": 6,
+        "column": 0,
+        "endLine": 6,
+        "endColumn": 28,
+        "path": "task1.py",
+        "symbol": "unused-import",
+        "message": "Unused scipy.optimize imported as opt",
+        "message-id": "W0611"
+    }
+]
+
+2025-04-28 19:59:52.768 [info] [Trace - 7:59:52 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-04-28 19:59:52.771 [info] [Trace - 7:59:52 PM] Received response 'textDocument/codeAction - (81)' in 5604ms.
+2025-04-28 19:59:52.776 [info] [Trace - 7:59:52 PM] Received response 'textDocument/codeAction - (82)' in 4005ms.
+2025-04-28 19:59:52.779 [info] [Trace - 7:59:52 PM] Received response 'textDocument/codeAction - (83)' in 3429ms.
+2025-04-28 19:59:52.782 [info] [Trace - 7:59:52 PM] Received notification 'window/logMessage'.
+2025-04-28 19:59:52.782 [info] /home/angrycompany16/ntnu/EDK/EDK-project/project/.venv/bin/python -m pylint --reports=n --output-format=json --clear-cache-post-run=y --from-stdin /home/angrycompany16/ntnu/EDK/EDK-project/project/task1.py
+2025-04-28 19:59:52.783 [info] [Trace - 7:59:52 PM] Received notification 'window/logMessage'.
+2025-04-28 19:59:52.783 [info] CWD Linter: /home/angrycompany16/ntnu/EDK/EDK-project/project
+2025-04-28 19:59:55.872 [info] [Trace - 7:59:55 PM] Sending request 'textDocument/codeAction - (84)'.
+2025-04-28 19:59:58.988 [info] [Trace - 7:59:58 PM] Received notification 'window/logMessage'.
+2025-04-28 19:59:58.988 [info] file:///home/angrycompany16/ntnu/EDK/EDK-project/project/task1.py :
+[
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 32,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (127/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 58,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (102/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 86,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 88,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (114/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 105,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (147/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 136,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "line-too-long",
+        "message": "Line too long (140/100)",
+        "message-id": "C0301"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 147,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "missing-final-newline",
+        "message": "Final newline missing",
+        "message-id": "C0304"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 1,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "task1.py",
+        "symbol": "missing-module-docstring",
+        "message": "Missing module docstring",
+        "message-id": "C0114"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 10,
+        "column": 0,
+        "endLine": 10,
+        "endColumn": 5,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Constant name \"__F_s\" doesn't conform to UPPER_CASE naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 15,
+        "column": 0,
+        "endLine": 15,
+        "endColumn": 5,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Constant name \"__n_0\" doesn't conform to UPPER_CASE naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 16,
+        "column": 0,
+        "endLine": 16,
+        "endColumn": 10,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Constant name \"iterations\" doesn't conform to UPPER_CASE naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "__get_sigma_sqr",
+        "line": 22,
+        "column": 20,
+        "endLine": 22,
+        "endColumn": 30,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Argument name \"SNR\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "get_sigma",
+        "line": 25,
+        "column": 0,
+        "endLine": 25,
+        "endColumn": 13,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "get_sigma",
+        "line": 25,
+        "column": 14,
+        "endLine": 25,
+        "endColumn": 24,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Argument name \"SNR\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "__omega_CRLB",
+        "line": 28,
+        "column": 0,
+        "endLine": 28,
+        "endColumn": 16,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Function name \"__omega_CRLB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "__phi_CRLB",
+        "line": 31,
+        "column": 0,
+        "endLine": 31,
+        "endColumn": 14,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Function name \"__phi_CRLB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "F",
+        "line": 34,
+        "column": 0,
+        "endLine": 34,
+        "endColumn": 5,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "F",
+        "line": 34,
+        "column": 0,
+        "endLine": 34,
+        "endColumn": 5,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Function name \"F\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "get_phi_est",
+        "line": 40,
+        "column": 0,
+        "endLine": 40,
+        "endColumn": 15,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "get_snr",
+        "line": 43,
+        "column": 0,
+        "endLine": 43,
+        "endColumn": 11,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "get_snr",
+        "line": 43,
+        "column": 12,
+        "endLine": 43,
+        "endColumn": 25,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Argument name \"snr_dB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "refactor",
+        "module": "task1",
+        "obj": "",
+        "line": 47,
+        "column": 13,
+        "endLine": 47,
+        "endColumn": 55,
+        "path": "task1.py",
+        "symbol": "unnecessary-comprehension",
+        "message": "Unnecessary use of a comprehension, use list(range(-10, 61, 10)) instead.",
+        "message-id": "R1721"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "sample",
+        "line": 53,
+        "column": 0,
+        "endLine": 53,
+        "endColumn": 10,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "estimate_omega_phi",
+        "line": 61,
+        "column": 0,
+        "endLine": 61,
+        "endColumn": 22,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "estimate_omega_phi",
+        "line": 61,
+        "column": 23,
+        "endLine": 61,
+        "endColumn": 36,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Argument name \"SNR_dB\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "estimate_omega_phi",
+        "line": 61,
+        "column": 38,
+        "endLine": 61,
+        "endColumn": 53,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Argument name \"FFT_size\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "estimate_omega_phi",
+        "line": 69,
+        "column": 8,
+        "endLine": 69,
+        "endColumn": 11,
+        "path": "task1.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"FFT\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "get_variance",
+        "line": 80,
+        "column": 0,
+        "endLine": 80,
+        "endColumn": 16,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "plot_variances_omega_against_snr",
+        "line": 83,
+        "column": 0,
+        "endLine": 83,
+        "endColumn": 36,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "plot_average_omega_against_snr",
+        "line": 100,
+        "column": 0,
+        "endLine": 100,
+        "endColumn": 34,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "warning",
+        "module": "task1",
+        "obj": "plot_average_omega_against_snr",
+        "line": 107,
+        "column": 43,
+        "endLine": 107,
+        "endColumn": 60,
+        "path": "task1.py",
+        "symbol": "f-string-without-interpolation",
+        "message": "Using an f-string that does not have any interpolated variables",
+        "message-id": "W1309"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "plot_variances_phi_against_snr",
+        "line": 118,
+        "column": 0,
+        "endLine": 118,
+        "endColumn": 34,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "plot_average_phi_against_snr",
+        "line": 132,
+        "column": 0,
+        "endLine": 132,
+        "endColumn": 32,
+        "path": "task1.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "warning",
+        "module": "task1",
+        "obj": "plot_average_phi_against_snr",
+        "line": 138,
+        "column": 43,
+        "endLine": 138,
+        "endColumn": 56,
+        "path": "task1.py",
+        "symbol": "f-string-without-interpolation",
+        "message": "Using an f-string that does not have any interpolated variables",
+        "message-id": "W1309"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 2,
+        "column": 0,
+        "endLine": 2,
+        "endColumn": 12,
+        "path": "task1.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"cmath\" should be placed before third party import \"numpy\"",
+        "message-id": "C0411"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 9,
+        "path": "task1.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"os\" should be placed before third party import \"numpy\"",
+        "message-id": "C0411"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 11,
+        "path": "task1.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"time\" should be placed before third party import \"numpy\"",
+        "message-id": "C0411"
+    },
+    {
+        "type": "convention",
+        "module": "task1",
+        "obj": "",
+        "line": 7,
+        "column": 0,
+        "endLine": 7,
+        "endColumn": 11,
+        "path": "task1.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"math\" should be placed before third party imports \"numpy\", \"matplotlib.pyplot\", \"scipy.optimize\"",
+        "message-id": "C0411"
+    },
+    {
+        "type": "warning",
+        "module": "task1",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 9,
+        "path": "task1.py",
+        "symbol": "unused-import",
+        "message": "Unused import os",
+        "message-id": "W0611"
+    },
+    {
+        "type": "warning",
+        "module": "task1",
+        "obj": "",
+        "line": 4,
+        "column": 0,
+        "endLine": 4,
+        "endColumn": 11,
+        "path": "task1.py",
+        "symbol": "unused-import",
+        "message": "Unused import time",
+        "message-id": "W0611"
+    },
+    {
+        "type": "warning",
+        "module": "task1",
+        "obj": "",
+        "line": 6,
+        "column": 0,
+        "endLine": 6,
+        "endColumn": 28,
+        "path": "task1.py",
+        "symbol": "unused-import",
+        "message": "Unused scipy.optimize imported as opt",
+        "message-id": "W0611"
+    }
+]
+
+2025-04-28 19:59:58.990 [info] [Trace - 7:59:58 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-04-28 19:59:58.991 [info] [Trace - 7:59:58 PM] Received response 'textDocument/codeAction - (84)' in 3119ms.
+2025-04-28 19:59:59.247 [info] [Trace - 7:59:59 PM] Sending request 'textDocument/codeAction - (85)'.
+2025-04-28 19:59:59.250 [info] [Trace - 7:59:59 PM] Received response 'textDocument/codeAction - (85)' in 3ms.
+2025-04-28 20:01:05.351 [info] [Trace - 8:01:05 PM] Sending request 'textDocument/codeAction - (86)'.
+2025-04-28 20:01:05.357 [info] [Trace - 8:01:05 PM] Received response 'textDocument/codeAction - (86)' in 6ms.
+2025-04-28 20:01:05.590 [info] [Trace - 8:01:05 PM] Sending request 'textDocument/codeAction - (87)'.
+2025-04-28 20:01:05.593 [info] [Trace - 8:01:05 PM] Received response 'textDocument/codeAction - (87)' in 3ms.
+2025-04-28 20:01:06.167 [info] [Trace - 8:01:06 PM] Sending request 'textDocument/codeAction - (88)'.
+2025-04-28 20:01:06.170 [info] [Trace - 8:01:06 PM] Received response 'textDocument/codeAction - (88)' in 3ms.
+2025-04-28 20:01:23.881 [info] [Trace - 8:01:23 PM] Sending request 'textDocument/codeAction - (89)'.
+2025-04-28 20:01:23.884 [info] [Trace - 8:01:23 PM] Received response 'textDocument/codeAction - (89)' in 3ms.
+2025-04-28 20:01:24.121 [info] [Trace - 8:01:24 PM] Sending request 'textDocument/codeAction - (90)'.
+2025-04-28 20:01:24.124 [info] [Trace - 8:01:24 PM] Received response 'textDocument/codeAction - (90)' in 3ms.

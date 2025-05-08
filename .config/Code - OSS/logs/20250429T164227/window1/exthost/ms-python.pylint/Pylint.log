@@ -1,0 +1,2515 @@
+2025-04-29 16:42:30.972 [info] Name: Pylint
+2025-04-29 16:42:30.972 [info] Module: pylint
+2025-04-29 16:42:30.972 [info] Python extension loading
+2025-04-29 16:42:30.972 [info] Waiting for interpreter from Python extension.
+2025-04-29 16:42:30.972 [info] No interpreter found from setting pylint.interpreter
+2025-04-29 16:42:30.972 [info] Getting interpreter from ms-python.python extension for workspace /home/angrycompany16/ntnu/modsim/exercise11
+2025-04-29 16:42:30.972 [info] Python extension loaded
+2025-04-29 16:42:30.972 [info] Interpreter from ms-python.python extension for /home/angrycompany16/ntnu/modsim/exercise11: /home/angrycompany16/ntnu/modsim/exercise11/.venv/bin/python
+2025-04-29 16:42:30.972 [info] No interpreter found from setting pylint.interpreter
+2025-04-29 16:42:30.972 [info] Getting interpreter from ms-python.python extension for workspace /home/angrycompany16/ntnu/modsim/exercise11
+2025-04-29 16:42:30.972 [info] Interpreter from ms-python.python extension for /home/angrycompany16/ntnu/modsim/exercise11: /home/angrycompany16/ntnu/modsim/exercise11/.venv/bin/python
+2025-04-29 16:42:30.972 [info] Server run command: /home/angrycompany16/ntnu/modsim/exercise11/.venv/bin/python /home/angrycompany16/.vscode-oss/extensions/ms-python.pylint-2024.2.0-universal/bundled/tool/lsp_server.py
+2025-04-29 16:42:30.972 [info] Server: Start requested.
+2025-04-29 16:42:31.617 [info] CWD Server: /home/angrycompany16/ntnu/modsim/exercise11
+2025-04-29 16:42:31.617 [info] Settings used to run Server:
+[
+    {
+        "enabled": true,
+        "cwd": "/home/angrycompany16/ntnu/modsim/exercise11",
+        "workspace": "file:///home/angrycompany16/ntnu/modsim/exercise11",
+        "args": [],
+        "severity": {
+            "convention": "Information",
+            "error": "Error",
+            "fatal": "Error",
+            "refactor": "Hint",
+            "warning": "Warning",
+            "info": "Information"
+        },
+        "path": [],
+        "ignorePatterns": [],
+        "interpreter": [
+            "/home/angrycompany16/ntnu/modsim/exercise11/.venv/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off",
+        "extraPaths": []
+    }
+]
+
+2025-04-29 16:42:31.617 [info] Global settings:
+{
+    "cwd": "${workspaceFolder}",
+    "enabled": true,
+    "workspace": "/home/angrycompany16/ntnu/modsim/exercise11",
+    "args": [],
+    "severity": {
+        "convention": "Information",
+        "error": "Error",
+        "fatal": "Error",
+        "refactor": "Hint",
+        "warning": "Warning",
+        "info": "Information"
+    },
+    "path": [],
+    "ignorePatterns": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off",
+    "extraPaths": []
+}
+
+2025-04-29 16:42:31.617 [info] sys.path used to run Server:
+   /home/angrycompany16/ntnu/modsim/exercise11
+   /home/angrycompany16/.vscode-oss/extensions/ms-python.pylint-2024.2.0-universal/bundled/libs
+   /home/angrycompany16/.vscode-oss/extensions/ms-python.pylint-2024.2.0-universal/bundled/tool
+   /usr/lib/python313.zip
+   /usr/lib/python3.13
+   /usr/lib/python3.13/lib-dynload
+   /home/angrycompany16/ntnu/modsim/exercise11/.venv/lib/python3.13/site-packages
+2025-04-29 16:42:31.619 [info] /home/angrycompany16/ntnu/modsim/exercise11/.venv/bin/python -m pylint --version
+2025-04-29 16:42:31.619 [info] CWD Linter: /home/angrycompany16/ntnu/modsim/exercise11
+2025-04-29 16:42:31.776 [info] 
+pylint 3.2.7
+astroid 3.2.4
+Python 3.13.3 (main, Apr  9 2025, 07:44:25) [GCC 14.2.1 20250207]
+
+
+2025-04-29 16:42:31.777 [info] Version info for linter running for /home/angrycompany16/ntnu/modsim/exercise11:
+pylint 3.2.7
+astroid 3.2.4
+Python 3.13.3 (main, Apr  9 2025, 07:44:25) [GCC 14.2.1 20250207]
+
+2025-04-29 16:42:31.777 [info] SUPPORTED pylint>=2.12.2
+FOUND pylint==3.2.7
+
+2025-04-29 16:42:31.809 [info] [Trace - 4:42:31 PM] Sending request 'textDocument/codeAction - (1)'.
+2025-04-29 16:42:31.811 [info] [Trace - 4:42:31 PM] Received notification 'window/logMessage'.
+2025-04-29 16:42:31.811 [info] /home/angrycompany16/ntnu/modsim/exercise11/.venv/bin/python -m pylint --reports=n --output-format=json --clear-cache-post-run=y --from-stdin /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:42:31.811 [info] [Trace - 4:42:31 PM] Received notification 'window/logMessage'.
+2025-04-29 16:42:31.811 [info] CWD Linter: /home/angrycompany16/ntnu/modsim/exercise11
+2025-04-29 16:42:32.049 [info] [Trace - 4:42:32 PM] Sending notification '$/cancelRequest'.
+2025-04-29 16:42:32.051 [info] [Trace - 4:42:32 PM] Sending request 'textDocument/codeAction - (2)'.
+2025-04-29 16:42:35.732 [info] [Trace - 4:42:35 PM] Received notification 'window/logMessage'.
+2025-04-29 16:42:35.732 [info] file:///home/angrycompany16/ntnu/modsim/exercise11/main.py :
+[
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 33,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 46,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 70,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "missing-final-newline",
+        "message": "Final newline missing",
+        "message-id": "C0304"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 1,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "missing-module-docstring",
+        "message": "Missing module docstring",
+        "message-id": "C0114"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "multiple-imports",
+        "message": "Multiple imports on one line (argparse, sys)",
+        "message-id": "C0410"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "true_solution",
+        "line": 12,
+        "column": 0,
+        "endLine": 12,
+        "endColumn": 17,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "f",
+        "line": 15,
+        "column": 0,
+        "endLine": 15,
+        "endColumn": 5,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "warning",
+        "module": "main",
+        "obj": "f",
+        "line": 15,
+        "column": 9,
+        "endLine": 15,
+        "endColumn": 10,
+        "path": "main.py",
+        "symbol": "unused-argument",
+        "message": "Unused argument 't'",
+        "message-id": "W0613"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK1",
+        "line": 18,
+        "column": 0,
+        "endLine": 18,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK1",
+        "line": 18,
+        "column": 0,
+        "endLine": 18,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Function name \"RK1\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK2",
+        "line": 26,
+        "column": 0,
+        "endLine": 26,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK2",
+        "line": 26,
+        "column": 0,
+        "endLine": 26,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Function name \"RK2\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK2",
+        "line": 30,
+        "column": 8,
+        "endLine": 30,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_1\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK2",
+        "line": 31,
+        "column": 8,
+        "endLine": 31,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_2\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 36,
+        "column": 0,
+        "endLine": 36,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 36,
+        "column": 0,
+        "endLine": 36,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Function name \"RK4\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 40,
+        "column": 8,
+        "endLine": 40,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_1\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 41,
+        "column": 8,
+        "endLine": 41,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_2\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 42,
+        "column": 8,
+        "endLine": 42,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_3\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 43,
+        "column": 8,
+        "endLine": 43,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_4\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "main",
+        "line": 49,
+        "column": 0,
+        "endLine": 49,
+        "endColumn": 8,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "warning",
+        "module": "main",
+        "obj": "main",
+        "line": 63,
+        "column": 4,
+        "endLine": 63,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "unused-variable",
+        "message": "Unused variable 'fig'",
+        "message-id": "W0612"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"argparse\" should be placed before third party imports \"matplotlib.pyplot\", \"numpy\"",
+        "message-id": "C0411"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"sys\" should be placed before third party imports \"matplotlib.pyplot\", \"numpy\"",
+        "message-id": "C0411"
+    },
+    {
+        "type": "warning",
+        "module": "main",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "unused-import",
+        "message": "Unused import sys",
+        "message-id": "W0611"
+    }
+]
+
+2025-04-29 16:42:35.735 [info] [Trace - 4:42:35 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-04-29 16:42:35.745 [info] [Trace - 4:42:35 PM] Received response 'textDocument/codeAction - (1)' in 3936ms.
+2025-04-29 16:42:35.749 [info] [Trace - 4:42:35 PM] Received response 'textDocument/codeAction - (2)' in 3698ms.
+2025-04-29 16:42:35.997 [info] [Trace - 4:42:35 PM] Sending request 'textDocument/codeAction - (3)'.
+2025-04-29 16:42:35.999 [info] [Trace - 4:42:35 PM] Received response 'textDocument/codeAction - (3)' in 2ms.
+2025-04-29 16:42:38.774 [info] [Trace - 4:42:38 PM] Sending notification 'textDocument/didChange'.
+2025-04-29 16:42:38.869 [info] [Trace - 4:42:38 PM] Sending notification 'textDocument/didChange'.
+2025-04-29 16:42:39.135 [info] [Trace - 4:42:39 PM] Sending request 'textDocument/codeAction - (4)'.
+2025-04-29 16:42:39.137 [info] [Trace - 4:42:39 PM] Received response 'textDocument/codeAction - (4)' in 2ms.
+2025-04-29 16:42:39.827 [info] [Trace - 4:42:39 PM] Sending notification 'textDocument/didChange'.
+2025-04-29 16:42:40.240 [info] [Trace - 4:42:40 PM] Sending notification 'textDocument/didChange'.
+2025-04-29 16:42:40.488 [info] [Trace - 4:42:40 PM] Sending request 'textDocument/codeAction - (5)'.
+2025-04-29 16:42:40.491 [info] [Trace - 4:42:40 PM] Received response 'textDocument/codeAction - (5)' in 3ms.
+2025-04-29 16:42:53.832 [info] [Trace - 4:42:53 PM] Sending request 'textDocument/codeAction - (6)'.
+2025-04-29 16:42:53.835 [info] [Trace - 4:42:53 PM] Received response 'textDocument/codeAction - (6)' in 3ms.
+2025-04-29 16:43:02.631 [info] [Trace - 4:43:02 PM] Sending request 'textDocument/codeAction - (7)'.
+2025-04-29 16:43:02.634 [info] [Trace - 4:43:02 PM] Received response 'textDocument/codeAction - (7)' in 3ms.
+2025-04-29 16:43:05.676 [info] [Trace - 4:43:05 PM] Sending request 'textDocument/codeAction - (8)'.
+2025-04-29 16:43:05.679 [info] [Trace - 4:43:05 PM] Received response 'textDocument/codeAction - (8)' in 3ms.
+2025-04-29 16:43:06.706 [info] [Trace - 4:43:06 PM] Sending request 'textDocument/codeAction - (9)'.
+2025-04-29 16:43:06.709 [info] [Trace - 4:43:06 PM] Received response 'textDocument/codeAction - (9)' in 3ms.
+2025-04-29 16:43:07.364 [info] [Trace - 4:43:07 PM] Sending request 'textDocument/codeAction - (10)'.
+2025-04-29 16:43:07.367 [info] [Trace - 4:43:07 PM] Received response 'textDocument/codeAction - (10)' in 3ms.
+2025-04-29 16:43:18.298 [info] [Trace - 4:43:18 PM] Sending request 'textDocument/codeAction - (11)'.
+2025-04-29 16:43:18.300 [info] [Trace - 4:43:18 PM] Received response 'textDocument/codeAction - (11)' in 3ms.
+2025-04-29 16:43:46.429 [info] [Trace - 4:43:46 PM] Sending request 'textDocument/codeAction - (12)'.
+2025-04-29 16:43:46.432 [info] [Trace - 4:43:46 PM] Received response 'textDocument/codeAction - (12)' in 2ms.
+2025-04-29 16:43:57.197 [info] [Trace - 4:43:57 PM] Sending request 'textDocument/codeAction - (13)'.
+2025-04-29 16:43:57.200 [info] [Trace - 4:43:57 PM] Received response 'textDocument/codeAction - (13)' in 3ms.
+2025-04-29 16:43:57.897 [info] [Trace - 4:43:57 PM] Sending request 'textDocument/codeAction - (14)'.
+2025-04-29 16:43:57.900 [info] [Trace - 4:43:57 PM] Received response 'textDocument/codeAction - (14)' in 3ms.
+2025-04-29 16:44:00.229 [info] [Trace - 4:44:00 PM] Sending notification 'textDocument/didChange'.
+2025-04-29 16:44:00.449 [info] [Trace - 4:44:00 PM] Sending notification 'textDocument/didChange'.
+2025-04-29 16:44:00.605 [info] [Trace - 4:44:00 PM] Sending notification 'textDocument/didChange'.
+2025-04-29 16:44:00.733 [info] [Trace - 4:44:00 PM] Sending notification 'textDocument/didChange'.
+2025-04-29 16:44:00.848 [info] [Trace - 4:44:00 PM] Sending notification 'textDocument/didChange'.
+2025-04-29 16:44:01.100 [info] [Trace - 4:44:01 PM] Sending request 'textDocument/codeAction - (15)'.
+2025-04-29 16:44:01.103 [info] [Trace - 4:44:01 PM] Received response 'textDocument/codeAction - (15)' in 3ms.
+2025-04-29 16:44:01.390 [info] [Trace - 4:44:01 PM] Sending notification 'textDocument/didSave'.
+2025-04-29 16:44:01.396 [info] [Trace - 4:44:01 PM] Received notification 'window/logMessage'.
+2025-04-29 16:44:01.396 [info] /home/angrycompany16/ntnu/modsim/exercise11/.venv/bin/python -m pylint --reports=n --output-format=json --clear-cache-post-run=y --from-stdin /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:44:01.397 [info] [Trace - 4:44:01 PM] Received notification 'window/logMessage'.
+2025-04-29 16:44:01.397 [info] CWD Linter: /home/angrycompany16/ntnu/modsim/exercise11
+2025-04-29 16:44:05.131 [info] [Trace - 4:44:05 PM] Received notification 'window/logMessage'.
+2025-04-29 16:44:05.131 [info] file:///home/angrycompany16/ntnu/modsim/exercise11/main.py :
+[
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 33,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 46,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 70,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "missing-final-newline",
+        "message": "Final newline missing",
+        "message-id": "C0304"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 1,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "missing-module-docstring",
+        "message": "Missing module docstring",
+        "message-id": "C0114"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "multiple-imports",
+        "message": "Multiple imports on one line (argparse, sys)",
+        "message-id": "C0410"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "true_solution",
+        "line": 12,
+        "column": 0,
+        "endLine": 12,
+        "endColumn": 17,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "f",
+        "line": 15,
+        "column": 0,
+        "endLine": 15,
+        "endColumn": 5,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "warning",
+        "module": "main",
+        "obj": "f",
+        "line": 15,
+        "column": 9,
+        "endLine": 15,
+        "endColumn": 10,
+        "path": "main.py",
+        "symbol": "unused-argument",
+        "message": "Unused argument 't'",
+        "message-id": "W0613"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK1",
+        "line": 18,
+        "column": 0,
+        "endLine": 18,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK1",
+        "line": 18,
+        "column": 0,
+        "endLine": 18,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Function name \"RK1\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK2",
+        "line": 26,
+        "column": 0,
+        "endLine": 26,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK2",
+        "line": 26,
+        "column": 0,
+        "endLine": 26,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Function name \"RK2\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK2",
+        "line": 30,
+        "column": 8,
+        "endLine": 30,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_1\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK2",
+        "line": 31,
+        "column": 8,
+        "endLine": 31,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_2\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 36,
+        "column": 0,
+        "endLine": 36,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 36,
+        "column": 0,
+        "endLine": 36,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Function name \"RK4\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 40,
+        "column": 8,
+        "endLine": 40,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_1\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 41,
+        "column": 8,
+        "endLine": 41,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_2\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 42,
+        "column": 8,
+        "endLine": 42,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_3\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 43,
+        "column": 8,
+        "endLine": 43,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_4\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "main",
+        "line": 49,
+        "column": 0,
+        "endLine": 49,
+        "endColumn": 8,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "warning",
+        "module": "main",
+        "obj": "main",
+        "line": 63,
+        "column": 4,
+        "endLine": 63,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "unused-variable",
+        "message": "Unused variable 'fig'",
+        "message-id": "W0612"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"argparse\" should be placed before third party imports \"matplotlib.pyplot\", \"numpy\"",
+        "message-id": "C0411"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"sys\" should be placed before third party imports \"matplotlib.pyplot\", \"numpy\"",
+        "message-id": "C0411"
+    },
+    {
+        "type": "warning",
+        "module": "main",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "unused-import",
+        "message": "Unused import sys",
+        "message-id": "W0611"
+    }
+]
+
+2025-04-29 16:44:05.132 [info] [Trace - 4:44:05 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-04-29 16:44:05.391 [info] [Trace - 4:44:05 PM] Sending request 'textDocument/codeAction - (16)'.
+2025-04-29 16:44:05.394 [info] [Trace - 4:44:05 PM] Received response 'textDocument/codeAction - (16)' in 3ms.
+2025-04-29 16:44:06.034 [info] [Trace - 4:44:06 PM] Sending notification 'textDocument/didChange'.
+2025-04-29 16:44:06.281 [info] [Trace - 4:44:06 PM] Sending request 'textDocument/codeAction - (17)'.
+2025-04-29 16:44:06.284 [info] [Trace - 4:44:06 PM] Received response 'textDocument/codeAction - (17)' in 3ms.
+2025-04-29 16:44:06.482 [info] [Trace - 4:44:06 PM] Sending notification 'textDocument/didChange'.
+2025-04-29 16:44:06.733 [info] [Trace - 4:44:06 PM] Sending request 'textDocument/codeAction - (18)'.
+2025-04-29 16:44:06.736 [info] [Trace - 4:44:06 PM] Received response 'textDocument/codeAction - (18)' in 2ms.
+2025-04-29 16:44:06.889 [info] [Trace - 4:44:06 PM] Sending notification 'textDocument/didSave'.
+2025-04-29 16:44:06.893 [info] [Trace - 4:44:06 PM] Received notification 'window/logMessage'.
+2025-04-29 16:44:06.893 [info] /home/angrycompany16/ntnu/modsim/exercise11/.venv/bin/python -m pylint --reports=n --output-format=json --clear-cache-post-run=y --from-stdin /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:44:06.893 [info] [Trace - 4:44:06 PM] Received notification 'window/logMessage'.
+2025-04-29 16:44:06.893 [info] CWD Linter: /home/angrycompany16/ntnu/modsim/exercise11
+2025-04-29 16:44:11.064 [info] [Trace - 4:44:11 PM] Received notification 'window/logMessage'.
+2025-04-29 16:44:11.064 [info] file:///home/angrycompany16/ntnu/modsim/exercise11/main.py :
+[
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 33,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 46,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 70,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "missing-final-newline",
+        "message": "Final newline missing",
+        "message-id": "C0304"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 1,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "missing-module-docstring",
+        "message": "Missing module docstring",
+        "message-id": "C0114"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "multiple-imports",
+        "message": "Multiple imports on one line (argparse, sys)",
+        "message-id": "C0410"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "true_solution",
+        "line": 12,
+        "column": 0,
+        "endLine": 12,
+        "endColumn": 17,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "f",
+        "line": 15,
+        "column": 0,
+        "endLine": 15,
+        "endColumn": 5,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "warning",
+        "module": "main",
+        "obj": "f",
+        "line": 15,
+        "column": 9,
+        "endLine": 15,
+        "endColumn": 10,
+        "path": "main.py",
+        "symbol": "unused-argument",
+        "message": "Unused argument 't'",
+        "message-id": "W0613"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK1",
+        "line": 18,
+        "column": 0,
+        "endLine": 18,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK1",
+        "line": 18,
+        "column": 0,
+        "endLine": 18,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Function name \"RK1\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK2",
+        "line": 26,
+        "column": 0,
+        "endLine": 26,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK2",
+        "line": 26,
+        "column": 0,
+        "endLine": 26,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Function name \"RK2\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK2",
+        "line": 30,
+        "column": 8,
+        "endLine": 30,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_1\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK2",
+        "line": 31,
+        "column": 8,
+        "endLine": 31,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_2\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 36,
+        "column": 0,
+        "endLine": 36,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 36,
+        "column": 0,
+        "endLine": 36,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Function name \"RK4\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 40,
+        "column": 8,
+        "endLine": 40,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_1\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 41,
+        "column": 8,
+        "endLine": 41,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_2\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 42,
+        "column": 8,
+        "endLine": 42,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_3\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 43,
+        "column": 8,
+        "endLine": 43,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_4\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "main",
+        "line": 49,
+        "column": 0,
+        "endLine": 49,
+        "endColumn": 8,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "warning",
+        "module": "main",
+        "obj": "main",
+        "line": 63,
+        "column": 4,
+        "endLine": 63,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "unused-variable",
+        "message": "Unused variable 'fig'",
+        "message-id": "W0612"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"argparse\" should be placed before third party imports \"matplotlib.pyplot\", \"numpy\"",
+        "message-id": "C0411"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"sys\" should be placed before third party imports \"matplotlib.pyplot\", \"numpy\"",
+        "message-id": "C0411"
+    },
+    {
+        "type": "warning",
+        "module": "main",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "unused-import",
+        "message": "Unused import sys",
+        "message-id": "W0611"
+    }
+]
+
+2025-04-29 16:44:11.065 [info] [Trace - 4:44:11 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-04-29 16:44:11.322 [info] [Trace - 4:44:11 PM] Sending request 'textDocument/codeAction - (19)'.
+2025-04-29 16:44:11.326 [info] [Trace - 4:44:11 PM] Received response 'textDocument/codeAction - (19)' in 4ms.
+2025-04-29 16:44:18.424 [info] [Trace - 4:44:18 PM] Sending notification 'textDocument/didChange'.
+2025-04-29 16:44:18.676 [info] [Trace - 4:44:18 PM] Sending notification 'textDocument/didChange'.
+2025-04-29 16:44:18.825 [info] [Trace - 4:44:18 PM] Sending notification 'textDocument/didChange'.
+2025-04-29 16:44:18.958 [info] [Trace - 4:44:18 PM] Sending notification 'textDocument/didChange'.
+2025-04-29 16:44:19.077 [info] [Trace - 4:44:19 PM] Sending notification 'textDocument/didChange'.
+2025-04-29 16:44:19.172 [info] [Trace - 4:44:19 PM] Sending notification 'textDocument/didChange'.
+2025-04-29 16:44:19.425 [info] [Trace - 4:44:19 PM] Sending request 'textDocument/codeAction - (20)'.
+2025-04-29 16:44:19.428 [info] [Trace - 4:44:19 PM] Received response 'textDocument/codeAction - (20)' in 3ms.
+2025-04-29 16:44:30.609 [info] [Trace - 4:44:30 PM] Sending request 'textDocument/codeAction - (21)'.
+2025-04-29 16:44:30.612 [info] [Trace - 4:44:30 PM] Received response 'textDocument/codeAction - (21)' in 3ms.
+2025-04-29 16:44:30.733 [info] [Trace - 4:44:30 PM] Sending notification 'textDocument/didSave'.
+2025-04-29 16:44:30.736 [info] [Trace - 4:44:30 PM] Received notification 'window/logMessage'.
+2025-04-29 16:44:30.736 [info] /home/angrycompany16/ntnu/modsim/exercise11/.venv/bin/python -m pylint --reports=n --output-format=json --clear-cache-post-run=y --from-stdin /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:44:30.737 [info] [Trace - 4:44:30 PM] Received notification 'window/logMessage'.
+2025-04-29 16:44:30.737 [info] CWD Linter: /home/angrycompany16/ntnu/modsim/exercise11
+2025-04-29 16:44:34.831 [info] [Trace - 4:44:34 PM] Received notification 'window/logMessage'.
+2025-04-29 16:44:34.831 [info] file:///home/angrycompany16/ntnu/modsim/exercise11/main.py :
+[
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 33,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 46,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 70,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "missing-final-newline",
+        "message": "Final newline missing",
+        "message-id": "C0304"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 1,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "missing-module-docstring",
+        "message": "Missing module docstring",
+        "message-id": "C0114"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "multiple-imports",
+        "message": "Multiple imports on one line (argparse, sys)",
+        "message-id": "C0410"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "true_solution",
+        "line": 12,
+        "column": 0,
+        "endLine": 12,
+        "endColumn": 17,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "f",
+        "line": 15,
+        "column": 0,
+        "endLine": 15,
+        "endColumn": 5,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "warning",
+        "module": "main",
+        "obj": "f",
+        "line": 15,
+        "column": 9,
+        "endLine": 15,
+        "endColumn": 10,
+        "path": "main.py",
+        "symbol": "unused-argument",
+        "message": "Unused argument 't'",
+        "message-id": "W0613"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK1",
+        "line": 18,
+        "column": 0,
+        "endLine": 18,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK1",
+        "line": 18,
+        "column": 0,
+        "endLine": 18,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Function name \"RK1\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK2",
+        "line": 26,
+        "column": 0,
+        "endLine": 26,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK2",
+        "line": 26,
+        "column": 0,
+        "endLine": 26,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Function name \"RK2\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK2",
+        "line": 30,
+        "column": 8,
+        "endLine": 30,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_1\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK2",
+        "line": 31,
+        "column": 8,
+        "endLine": 31,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_2\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 36,
+        "column": 0,
+        "endLine": 36,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 36,
+        "column": 0,
+        "endLine": 36,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Function name \"RK4\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 40,
+        "column": 8,
+        "endLine": 40,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_1\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 41,
+        "column": 8,
+        "endLine": 41,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_2\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 42,
+        "column": 8,
+        "endLine": 42,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_3\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 43,
+        "column": 8,
+        "endLine": 43,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_4\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "main",
+        "line": 49,
+        "column": 0,
+        "endLine": 49,
+        "endColumn": 8,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "warning",
+        "module": "main",
+        "obj": "main",
+        "line": 63,
+        "column": 4,
+        "endLine": 63,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "unused-variable",
+        "message": "Unused variable 'fig'",
+        "message-id": "W0612"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"argparse\" should be placed before third party imports \"matplotlib.pyplot\", \"numpy\"",
+        "message-id": "C0411"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"sys\" should be placed before third party imports \"matplotlib.pyplot\", \"numpy\"",
+        "message-id": "C0411"
+    },
+    {
+        "type": "warning",
+        "module": "main",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "unused-import",
+        "message": "Unused import sys",
+        "message-id": "W0611"
+    }
+]
+
+2025-04-29 16:44:34.832 [info] [Trace - 4:44:34 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-04-29 16:44:35.088 [info] [Trace - 4:44:35 PM] Sending request 'textDocument/codeAction - (22)'.
+2025-04-29 16:44:35.091 [info] [Trace - 4:44:35 PM] Received response 'textDocument/codeAction - (22)' in 3ms.
+2025-04-29 16:44:36.680 [info] [Trace - 4:44:36 PM] Sending notification 'textDocument/didChange'.
+2025-04-29 16:44:36.930 [info] [Trace - 4:44:36 PM] Sending request 'textDocument/codeAction - (23)'.
+2025-04-29 16:44:36.933 [info] [Trace - 4:44:36 PM] Received response 'textDocument/codeAction - (23)' in 3ms.
+2025-04-29 16:44:37.131 [info] [Trace - 4:44:37 PM] Sending notification 'textDocument/didChange'.
+2025-04-29 16:44:37.380 [info] [Trace - 4:44:37 PM] Sending request 'textDocument/codeAction - (24)'.
+2025-04-29 16:44:37.383 [info] [Trace - 4:44:37 PM] Received response 'textDocument/codeAction - (24)' in 3ms.
+2025-04-29 16:44:37.526 [info] [Trace - 4:44:37 PM] Sending notification 'textDocument/didSave'.
+2025-04-29 16:44:37.530 [info] [Trace - 4:44:37 PM] Received notification 'window/logMessage'.
+2025-04-29 16:44:37.530 [info] /home/angrycompany16/ntnu/modsim/exercise11/.venv/bin/python -m pylint --reports=n --output-format=json --clear-cache-post-run=y --from-stdin /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:44:37.530 [info] [Trace - 4:44:37 PM] Received notification 'window/logMessage'.
+2025-04-29 16:44:37.530 [info] CWD Linter: /home/angrycompany16/ntnu/modsim/exercise11
+2025-04-29 16:44:38.994 [info] [Trace - 4:44:38 PM] Sending request 'textDocument/codeAction - (25)'.
+2025-04-29 16:44:39.602 [info] [Trace - 4:44:39 PM] Sending notification 'textDocument/didSave'.
+2025-04-29 16:44:39.665 [info] [Trace - 4:44:39 PM] Sending request 'textDocument/codeAction - (26)'.
+2025-04-29 16:44:39.666 [info] [Trace - 4:44:39 PM] Sending notification '$/cancelRequest'.
+2025-04-29 16:44:42.029 [info] [Trace - 4:44:42 PM] Received notification 'window/logMessage'.
+2025-04-29 16:44:42.030 [info] file:///home/angrycompany16/ntnu/modsim/exercise11/main.py :
+[
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 33,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 46,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 70,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "missing-final-newline",
+        "message": "Final newline missing",
+        "message-id": "C0304"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 1,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "missing-module-docstring",
+        "message": "Missing module docstring",
+        "message-id": "C0114"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "multiple-imports",
+        "message": "Multiple imports on one line (argparse, sys)",
+        "message-id": "C0410"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "true_solution",
+        "line": 12,
+        "column": 0,
+        "endLine": 12,
+        "endColumn": 17,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "f",
+        "line": 15,
+        "column": 0,
+        "endLine": 15,
+        "endColumn": 5,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "warning",
+        "module": "main",
+        "obj": "f",
+        "line": 15,
+        "column": 9,
+        "endLine": 15,
+        "endColumn": 10,
+        "path": "main.py",
+        "symbol": "unused-argument",
+        "message": "Unused argument 't'",
+        "message-id": "W0613"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK1",
+        "line": 18,
+        "column": 0,
+        "endLine": 18,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK1",
+        "line": 18,
+        "column": 0,
+        "endLine": 18,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Function name \"RK1\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK2",
+        "line": 26,
+        "column": 0,
+        "endLine": 26,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK2",
+        "line": 26,
+        "column": 0,
+        "endLine": 26,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Function name \"RK2\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK2",
+        "line": 30,
+        "column": 8,
+        "endLine": 30,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_1\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK2",
+        "line": 31,
+        "column": 8,
+        "endLine": 31,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_2\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 36,
+        "column": 0,
+        "endLine": 36,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 36,
+        "column": 0,
+        "endLine": 36,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Function name \"RK4\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 40,
+        "column": 8,
+        "endLine": 40,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_1\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 41,
+        "column": 8,
+        "endLine": 41,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_2\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 42,
+        "column": 8,
+        "endLine": 42,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_3\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 43,
+        "column": 8,
+        "endLine": 43,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_4\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "main",
+        "line": 49,
+        "column": 0,
+        "endLine": 49,
+        "endColumn": 8,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "warning",
+        "module": "main",
+        "obj": "main",
+        "line": 63,
+        "column": 4,
+        "endLine": 63,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "unused-variable",
+        "message": "Unused variable 'fig'",
+        "message-id": "W0612"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"argparse\" should be placed before third party imports \"matplotlib.pyplot\", \"numpy\"",
+        "message-id": "C0411"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"sys\" should be placed before third party imports \"matplotlib.pyplot\", \"numpy\"",
+        "message-id": "C0411"
+    },
+    {
+        "type": "warning",
+        "module": "main",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "unused-import",
+        "message": "Unused import sys",
+        "message-id": "W0611"
+    }
+]
+
+2025-04-29 16:44:42.030 [info] [Trace - 4:44:42 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-04-29 16:44:42.033 [info] [Trace - 4:44:42 PM] Received response 'textDocument/codeAction - (25)' in 3039ms.
+2025-04-29 16:44:42.033 [info] [Trace - 4:44:42 PM] Received notification 'window/logMessage'.
+2025-04-29 16:44:42.033 [info] /home/angrycompany16/ntnu/modsim/exercise11/.venv/bin/python -m pylint --reports=n --output-format=json --clear-cache-post-run=y --from-stdin /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:44:42.033 [info] [Trace - 4:44:42 PM] Received notification 'window/logMessage'.
+2025-04-29 16:44:42.033 [info] CWD Linter: /home/angrycompany16/ntnu/modsim/exercise11
+2025-04-29 16:44:42.286 [info] [Trace - 4:44:42 PM] Sending request 'textDocument/codeAction - (27)'.
+2025-04-29 16:44:42.287 [info] [Trace - 4:44:42 PM] Sending notification '$/cancelRequest'.
+2025-04-29 16:44:46.400 [info] [Trace - 4:44:46 PM] Received notification 'window/logMessage'.
+2025-04-29 16:44:46.400 [info] file:///home/angrycompany16/ntnu/modsim/exercise11/main.py :
+[
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 33,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 46,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 70,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "missing-final-newline",
+        "message": "Final newline missing",
+        "message-id": "C0304"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 1,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "missing-module-docstring",
+        "message": "Missing module docstring",
+        "message-id": "C0114"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "multiple-imports",
+        "message": "Multiple imports on one line (argparse, sys)",
+        "message-id": "C0410"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "true_solution",
+        "line": 12,
+        "column": 0,
+        "endLine": 12,
+        "endColumn": 17,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "f",
+        "line": 15,
+        "column": 0,
+        "endLine": 15,
+        "endColumn": 5,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "warning",
+        "module": "main",
+        "obj": "f",
+        "line": 15,
+        "column": 9,
+        "endLine": 15,
+        "endColumn": 10,
+        "path": "main.py",
+        "symbol": "unused-argument",
+        "message": "Unused argument 't'",
+        "message-id": "W0613"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK1",
+        "line": 18,
+        "column": 0,
+        "endLine": 18,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK1",
+        "line": 18,
+        "column": 0,
+        "endLine": 18,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Function name \"RK1\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK2",
+        "line": 26,
+        "column": 0,
+        "endLine": 26,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK2",
+        "line": 26,
+        "column": 0,
+        "endLine": 26,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Function name \"RK2\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK2",
+        "line": 30,
+        "column": 8,
+        "endLine": 30,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_1\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK2",
+        "line": 31,
+        "column": 8,
+        "endLine": 31,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_2\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 36,
+        "column": 0,
+        "endLine": 36,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 36,
+        "column": 0,
+        "endLine": 36,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Function name \"RK4\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 40,
+        "column": 8,
+        "endLine": 40,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_1\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 41,
+        "column": 8,
+        "endLine": 41,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_2\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 42,
+        "column": 8,
+        "endLine": 42,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_3\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 43,
+        "column": 8,
+        "endLine": 43,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_4\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "main",
+        "line": 49,
+        "column": 0,
+        "endLine": 49,
+        "endColumn": 8,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "warning",
+        "module": "main",
+        "obj": "main",
+        "line": 63,
+        "column": 4,
+        "endLine": 63,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "unused-variable",
+        "message": "Unused variable 'fig'",
+        "message-id": "W0612"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"argparse\" should be placed before third party imports \"matplotlib.pyplot\", \"numpy\"",
+        "message-id": "C0411"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"sys\" should be placed before third party imports \"matplotlib.pyplot\", \"numpy\"",
+        "message-id": "C0411"
+    },
+    {
+        "type": "warning",
+        "module": "main",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "unused-import",
+        "message": "Unused import sys",
+        "message-id": "W0611"
+    }
+]
+
+2025-04-29 16:44:46.401 [info] [Trace - 4:44:46 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-04-29 16:44:46.402 [info] [Trace - 4:44:46 PM] Received response 'textDocument/codeAction - (26)' in 6737ms.
+2025-04-29 16:44:46.403 [info] [Trace - 4:44:46 PM] Received response 'textDocument/codeAction - (27)' in 4117ms.
+2025-04-29 16:44:46.658 [info] [Trace - 4:44:46 PM] Sending request 'textDocument/codeAction - (28)'.
+2025-04-29 16:44:46.660 [info] [Trace - 4:44:46 PM] Received response 'textDocument/codeAction - (28)' in 3ms.
+2025-04-29 16:45:13.177 [info] [Trace - 4:45:13 PM] Sending notification 'textDocument/didSave'.
+2025-04-29 16:45:13.179 [info] [Trace - 4:45:13 PM] Received notification 'window/logMessage'.
+2025-04-29 16:45:13.180 [info] /home/angrycompany16/ntnu/modsim/exercise11/.venv/bin/python -m pylint --reports=n --output-format=json --clear-cache-post-run=y --from-stdin /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:45:13.180 [info] [Trace - 4:45:13 PM] Received notification 'window/logMessage'.
+2025-04-29 16:45:13.180 [info] CWD Linter: /home/angrycompany16/ntnu/modsim/exercise11
+2025-04-29 16:45:17.622 [info] [Trace - 4:45:17 PM] Received notification 'window/logMessage'.
+2025-04-29 16:45:17.622 [info] file:///home/angrycompany16/ntnu/modsim/exercise11/main.py :
+[
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 33,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 46,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "trailing-whitespace",
+        "message": "Trailing whitespace",
+        "message-id": "C0303"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 70,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "missing-final-newline",
+        "message": "Final newline missing",
+        "message-id": "C0304"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 1,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "main.py",
+        "symbol": "missing-module-docstring",
+        "message": "Missing module docstring",
+        "message-id": "C0114"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "multiple-imports",
+        "message": "Multiple imports on one line (argparse, sys)",
+        "message-id": "C0410"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "true_solution",
+        "line": 12,
+        "column": 0,
+        "endLine": 12,
+        "endColumn": 17,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "f",
+        "line": 15,
+        "column": 0,
+        "endLine": 15,
+        "endColumn": 5,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "warning",
+        "module": "main",
+        "obj": "f",
+        "line": 15,
+        "column": 9,
+        "endLine": 15,
+        "endColumn": 10,
+        "path": "main.py",
+        "symbol": "unused-argument",
+        "message": "Unused argument 't'",
+        "message-id": "W0613"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK1",
+        "line": 18,
+        "column": 0,
+        "endLine": 18,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK1",
+        "line": 18,
+        "column": 0,
+        "endLine": 18,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Function name \"RK1\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK2",
+        "line": 26,
+        "column": 0,
+        "endLine": 26,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK2",
+        "line": 26,
+        "column": 0,
+        "endLine": 26,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Function name \"RK2\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK2",
+        "line": 30,
+        "column": 8,
+        "endLine": 30,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_1\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK2",
+        "line": 31,
+        "column": 8,
+        "endLine": 31,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_2\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 36,
+        "column": 0,
+        "endLine": 36,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 36,
+        "column": 0,
+        "endLine": 36,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Function name \"RK4\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 40,
+        "column": 8,
+        "endLine": 40,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_1\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 41,
+        "column": 8,
+        "endLine": 41,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_2\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 42,
+        "column": 8,
+        "endLine": 42,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_3\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "RK4",
+        "line": 43,
+        "column": 8,
+        "endLine": 43,
+        "endColumn": 11,
+        "path": "main.py",
+        "symbol": "invalid-name",
+        "message": "Variable name \"K_4\" doesn't conform to snake_case naming style",
+        "message-id": "C0103"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "main",
+        "line": 49,
+        "column": 0,
+        "endLine": 49,
+        "endColumn": 8,
+        "path": "main.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    },
+    {
+        "type": "warning",
+        "module": "main",
+        "obj": "main",
+        "line": 63,
+        "column": 4,
+        "endLine": 63,
+        "endColumn": 7,
+        "path": "main.py",
+        "symbol": "unused-variable",
+        "message": "Unused variable 'fig'",
+        "message-id": "W0612"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"argparse\" should be placed before third party imports \"matplotlib.pyplot\", \"numpy\"",
+        "message-id": "C0411"
+    },
+    {
+        "type": "convention",
+        "module": "main",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "wrong-import-order",
+        "message": "standard import \"sys\" should be placed before third party imports \"matplotlib.pyplot\", \"numpy\"",
+        "message-id": "C0411"
+    },
+    {
+        "type": "warning",
+        "module": "main",
+        "obj": "",
+        "line": 3,
+        "column": 0,
+        "endLine": 3,
+        "endColumn": 20,
+        "path": "main.py",
+        "symbol": "unused-import",
+        "message": "Unused import sys",
+        "message-id": "W0611"
+    }
+]
+
+2025-04-29 16:45:17.623 [info] [Trace - 4:45:17 PM] Received notification 'textDocument/publishDiagnostics'.

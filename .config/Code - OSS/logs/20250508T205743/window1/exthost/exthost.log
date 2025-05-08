@@ -1,0 +1,878 @@
+2025-05-08 20:57:45.833 [info] Extension host with pid 1380 started
+2025-05-08 20:57:45.833 [info] Skipping acquiring lock for /home/angrycompany16/.config/Code - OSS/User/workspaceStorage/6b32b1b9fc71727d3f5444cdc80a1556.
+2025-05-08 20:57:46.143 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-08 20:57:46.188 [info] ExtensionService#_doActivateExtension golang.go, startup: false, activationEvent: 'onLanguage:go'
+2025-05-08 20:57:46.469 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-08 20:57:46.487 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-08 20:57:46.577 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-08 20:57:46.891 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-05-08 20:57:46.898 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-05-08 20:57:47.010 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-08 20:57:47.248 [info] Eager extensions activated
+2025-05-08 20:57:47.257 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-08 20:57:47.260 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-08 20:57:47.293 [info] ExtensionService#_doActivateExtension Gruntfuggly.todo-tree, startup: false, activationEvent: 'onStartupFinished'
+2025-05-08 20:57:47.353 [info] ExtensionService#_doActivateExtension sainnhe.gruvbox-material, startup: false, activationEvent: 'onStartupFinished'
+2025-05-08 20:57:47.393 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2025-05-08 20:57:47.928 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-05-08 20:59:50.062 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:00:01.366 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:01:53.566 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:01:55.175 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:01:55.996 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:02:12.735 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:03:21.803 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:03:26.530 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:04:11.002 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:04:16.790 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:04:17.718 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:04:20.241 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:04:23.496 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:04:24.320 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:04:31.941 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:05:02.653 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:05:10.262 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:05:22.089 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:05:27.105 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:05:32.109 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:05:34.892 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:05:45.931 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:05:49.554 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:05:58.325 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:06:21.502 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:06:31.135 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:06:32.607 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:06:35.072 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:06:36.505 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:06:39.353 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:08:25.855 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:09:38.819 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:09:50.599 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:09:52.417 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:10:47.110 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:12:40.880 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:12:41.916 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:12:53.311 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:12:54.430 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:12:56.450 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:12:57.017 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:13:00.032 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:13:03.755 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:13:05.816 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:13:06.783 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:13:07.677 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:13:09.003 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:13:12.120 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:13:17.944 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:13:20.340 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:13:23.041 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:13:25.003 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:13:35.274 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:13:39.516 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:13:40.460 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:13:44.167 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:13:45.108 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:13:47.349 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:14:12.166 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:14:14.093 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:14:19.120 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:14:31.082 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:14:35.003 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:14:37.868 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:14:38.870 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:14:41.122 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:14:45.910 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:14:49.911 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:14:51.368 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:14:55.420 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:15:11.436 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:15:12.872 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:15:16.438 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:15:20.174 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:15:23.066 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:15:24.371 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:22:02.052 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:22:06.688 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:22:11.124 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:22:14.889 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:22:17.741 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:22:46.278 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:22:47.353 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:22:50.932 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:22:52.405 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:22:54.375 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:22:55.031 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:22:57.859 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:22:58.956 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:23:04.486 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:23:08.039 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:23:10.054 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:23:10.833 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:23:15.197 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:24:11.791 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:24:12.333 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:24:13.089 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:24:13.808 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:24:14.580 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:24:16.053 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:24:17.283 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:24:22.805 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:24:25.046 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:24:25.805 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:24:30.374 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:24:32.947 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:24:38.876 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:32:14.437 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:32:32.756 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:32:56.214 [error] [golang.go] provider FAILED
+2025-05-08 21:32:56.219 [error] Error: 3:21: expected type, found newline
+	at handleResponse (/home/angrycompany16/.vscode-oss/extensions/golang.go-0.46.1-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/angrycompany16/.vscode-oss/extensions/golang.go-0.46.1-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/angrycompany16/.vscode-oss/extensions/golang.go-0.46.1-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/angrycompany16/.vscode-oss/extensions/golang.go-0.46.1-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2025-05-08 21:32:57.148 [error] [golang.go] provider FAILED
+2025-05-08 21:32:57.148 [error] Error: 3:22: expected type, found '{' (and 1 more errors)
+	at handleResponse (/home/angrycompany16/.vscode-oss/extensions/golang.go-0.46.1-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/angrycompany16/.vscode-oss/extensions/golang.go-0.46.1-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/angrycompany16/.vscode-oss/extensions/golang.go-0.46.1-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/angrycompany16/.vscode-oss/extensions/golang.go-0.46.1-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2025-05-08 21:35:35.483 [error] [golang.go] provider FAILED
+2025-05-08 21:35:35.483 [error] Error: 19:11: expected type, found newline
+	at handleResponse (/home/angrycompany16/.vscode-oss/extensions/golang.go-0.46.1-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/angrycompany16/.vscode-oss/extensions/golang.go-0.46.1-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/angrycompany16/.vscode-oss/extensions/golang.go-0.46.1-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/angrycompany16/.vscode-oss/extensions/golang.go-0.46.1-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2025-05-08 21:35:43.096 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:36:31.984 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:36:52.007 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:36:54.574 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:37:39.620 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:38:00.475 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:38:01.733 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:38:02.377 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:38:03.073 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:38:04.989 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)
+2025-05-08 21:38:13.133 [error] TypeError: Class constructor ql cannot be invoked without 'new'
+	at p (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+	at /home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+	at Array.forEach (<anonymous>)
+	at Timeout.k [as _onTimeout] (/home/angrycompany16/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+	at listOnTimeout (node:internal/timers:583:11)
+	at process.processTimers (node:internal/timers:519:7)

@@ -1,0 +1,36 @@
+2025-04-28 20:11:51.845 [info] Extension host with pid 42383 started
+2025-04-28 20:11:51.845 [info] Skipping acquiring lock for /home/angrycompany16/.config/Code - OSS/User/workspaceStorage/7ada655ce41551ab8b5b8befdb801ccd.
+2025-04-28 20:11:51.888 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-04-28 20:11:51.904 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-04-28 20:11:51.974 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-04-28 20:11:52.040 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-04-28 20:11:52.385 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-04-28 20:11:52.419 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-04-28 20:11:52.490 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-04-28 20:11:52.555 [info] Eager extensions activated
+2025-04-28 20:11:52.587 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-04-28 20:11:52.590 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-04-28 20:11:52.612 [info] ExtensionService#_doActivateExtension Gruntfuggly.todo-tree, startup: false, activationEvent: 'onStartupFinished'
+2025-04-28 20:11:52.645 [info] ExtensionService#_doActivateExtension sainnhe.gruvbox-material, startup: false, activationEvent: 'onStartupFinished'
+2025-04-28 20:11:52.653 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2025-04-28 20:11:56.879 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2025-04-28 20:11:56.904 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-04-28 20:11:57.467 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2025-04-28 20:21:03.530 [info] Extension host terminating: renderer closed the MessagePort
+2025-04-28 20:21:03.544 [error] An error occurred when disposing the subscriptions for extension 'Gruntfuggly.todo-tree':
+2025-04-28 20:21:03.549 [error] AggregateError: Encountered errors while disposing of store
+	at pi (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:25:777)
+	at file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:115:14994
+	at file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:25:1011
+	at Object.dispose (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+	at vV.eb (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:115:11921)
+	at file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:115:9876
+	at Array.map (<anonymous>)
+	at vV.$ (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:115:9864)
+	at vV.terminate (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:115:10107)
+	at oD.terminate (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:116:1434)
+	at es (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:197:5701)
+	at MessagePortMain.<anonymous> (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:197:2249)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-04-28 20:21:03.555 [info] Extension host with pid 42383 exiting with code 0

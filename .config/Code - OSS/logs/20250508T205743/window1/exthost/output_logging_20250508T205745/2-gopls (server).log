@@ -1,0 +1,308 @@
+[Info  - 8:57:46 PM] 2025/05/08 20:57:46 Created View (#1)
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	view_type="GoMod"
+	root_dir="file:///home/angrycompany16/gamedev/go/mask_of_the_tomb"
+	go_version="go version go1.24.2 linux/amd64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:amd64 GOCACHE:/home/angrycompany16/.cache/go-build GOMODCACHE:/home/angrycompany16/go/pkg/mod GOPATH:/home/angrycompany16/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GOROOT:/usr/lib/go GoVersion:24 GoVersionOutput:go version go1.24.2 linux/amd64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 8:57:47 PM] 2025/05/08 20:57:47 go/packages.Load #1
+	view_id="1"
+	snapshot=0
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[/home/angrycompany16/gamedev/go/mask_of_the_tomb/... builtin]
+	packages=46
+	duration=432.96987ms
+
+[Info  - 8:58:16 PM] 2025/05/08 20:58:16 background imports cache refresh starting
+
+[Info  - 8:58:16 PM] 2025/05/08 20:58:16 background refresh finished after 112.717485ms
+
+[Info  - 8:59:47 PM] 2025/05/08 20:59:47 background imports cache refresh starting
+
+[Info  - 8:59:47 PM] 2025/05/08 20:59:47 background refresh finished after 6.584309ms
+
+[Info  - 9:00:17 PM] 2025/05/08 21:00:17 background imports cache refresh starting
+
+[Info  - 9:00:17 PM] 2025/05/08 21:00:17 background refresh finished after 4.428681ms
+
+[Info  - 9:01:00 PM] 2025/05/08 21:01:00 background imports cache refresh starting
+
+[Info  - 9:01:00 PM] 2025/05/08 21:01:00 background refresh finished after 6.803947ms
+
+[Info  - 9:01:35 PM] 2025/05/08 21:01:35 background imports cache refresh starting
+
+[Info  - 9:01:35 PM] 2025/05/08 21:01:35 background refresh finished after 4.205626ms
+
+[Info  - 9:02:24 PM] 2025/05/08 21:02:24 background imports cache refresh starting
+
+[Info  - 9:02:24 PM] 2025/05/08 21:02:24 background refresh finished after 4.46679ms
+
+[Info  - 9:02:53 PM] 2025/05/08 21:02:53 go/packages.Load #2
+	view_id="1"
+	snapshot=40
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/examples/slamboxes/main.go]
+	packages=1
+	duration=221.879574ms
+
+[Info  - 9:02:53 PM] 2025/05/08 21:02:53 go/packages.Load #3
+	view_id="1"
+	snapshot=40
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/examples/slamboxes/main.go]
+	packages=1
+	duration=218.158353ms
+
+[Info  - 9:03:23 PM] 2025/05/08 21:03:23 background imports cache refresh starting
+
+[Info  - 9:03:23 PM] 2025/05/08 21:03:23 background refresh finished after 4.946728ms
+
+[Info  - 9:03:56 PM] 2025/05/08 21:03:56 background imports cache refresh starting
+
+[Info  - 9:03:56 PM] 2025/05/08 21:03:56 background refresh finished after 5.259725ms
+
+[Info  - 9:04:40 PM] 2025/05/08 21:04:40 background imports cache refresh starting
+
+[Info  - 9:04:40 PM] 2025/05/08 21:04:40 background refresh finished after 4.181427ms
+
+[Info  - 9:05:51 PM] 2025/05/08 21:05:51 background imports cache refresh starting
+
+[Info  - 9:05:51 PM] 2025/05/08 21:05:51 background refresh finished after 4.490677ms
+
+[Info  - 9:07:08 PM] 2025/05/08 21:07:08 background imports cache refresh starting
+
+[Info  - 9:07:08 PM] 2025/05/08 21:07:08 background refresh finished after 6.352766ms
+
+[Info  - 9:09:46 PM] 2025/05/08 21:09:46 background imports cache refresh starting
+
+[Info  - 9:09:46 PM] 2025/05/08 21:09:46 background refresh finished after 4.856884ms
+
+[Info  - 9:10:21 PM] 2025/05/08 21:10:21 background imports cache refresh starting
+
+[Info  - 9:10:21 PM] 2025/05/08 21:10:21 background refresh finished after 5.571006ms
+
+[Info  - 9:11:16 PM] 2025/05/08 21:11:16 background imports cache refresh starting
+
+[Info  - 9:11:16 PM] 2025/05/08 21:11:16 background refresh finished after 6.48796ms
+
+[Info  - 9:12:43 PM] 2025/05/08 21:12:43 background imports cache refresh starting
+
+[Info  - 9:12:43 PM] 2025/05/08 21:12:43 background refresh finished after 5.835845ms
+
+[Info  - 9:14:16 PM] 2025/05/08 21:14:16 background imports cache refresh starting
+
+[Info  - 9:14:16 PM] 2025/05/08 21:14:16 background refresh finished after 5.539512ms
+
+[Info  - 9:14:48 PM] 2025/05/08 21:14:48 background imports cache refresh starting
+
+[Info  - 9:14:48 PM] 2025/05/08 21:14:48 background refresh finished after 5.731084ms
+
+[Info  - 9:25:08 PM] 2025/05/08 21:25:08 background imports cache refresh starting
+
+[Info  - 9:25:08 PM] 2025/05/08 21:25:08 background refresh finished after 4.420806ms
+
+[Info  - 9:32:42 PM] 2025/05/08 21:32:42 go/packages.Load #5
+	view_id="1"
+	snapshot=1534
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resource.go]
+	packages=1
+	duration=18.538267ms
+
+[Info  - 9:32:42 PM] 2025/05/08 21:32:42 go/packages.Load #4
+	view_id="1"
+	snapshot=1534
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resource.go]
+	packages=1
+	duration=18.693192ms
+
+[Error - 9:32:43 PM] 2025/05/08 21:32:43 no completions found: getting file file:///home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resource.go for Completion: <nil> (package completions: invalid position for package completion: cursor in non-matching ident)
+	position=0:2
+
+[Error - 9:32:43 PM] 2025/05/08 21:32:43 no completions found: getting file file:///home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resource.go for Completion: <nil> (package completions: invalid position for package completion: cursor in non-matching ident)
+	position=0:1
+
+[Info  - 9:32:43 PM] 2025/05/08 21:32:43 background imports cache refresh starting
+
+[Info  - 9:32:43 PM] 2025/05/08 21:32:43 background refresh finished after 6.97865ms
+
+[Info  - 9:32:44 PM] 2025/05/08 21:32:44 go/packages.Load #6
+	view_id="1"
+	snapshot=1547
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resource.go]
+	packages=1
+	duration=21.573771ms
+
+[Info  - 9:32:44 PM] 2025/05/08 21:32:44 go/packages.Load #7
+	view_id="1"
+	snapshot=1547
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resource.go]
+	packages=1
+	duration=20.793897ms
+
+[Info  - 9:32:48 PM] 2025/05/08 21:32:48 go/packages.Load #9
+	view_id="1"
+	snapshot=1552
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanagewr.go]
+	packages=1
+	duration=17.880519ms
+
+[Info  - 9:32:48 PM] 2025/05/08 21:32:48 go/packages.Load #8
+	view_id="1"
+	snapshot=1552
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanagewr.go]
+	packages=1
+	duration=18.006574ms
+
+[Info  - 9:32:51 PM] 2025/05/08 21:32:51 go/packages.Load #10
+	view_id="1"
+	snapshot=1555
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go]
+	packages=1
+	duration=17.81247ms
+
+[Info  - 9:32:51 PM] 2025/05/08 21:32:51 go/packages.Load #11
+	view_id="1"
+	snapshot=1555
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go]
+	packages=1
+	duration=16.684743ms
+
+[Error - 9:32:56 PM] 2025/05/08 21:32:56 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go:3:21: expected type, found newline
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go"
+
+[Error - 9:32:56 PM] 2025/05/08 21:32:56 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go:3:21: expected type, found newline
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go"
+
+[Error - 9:32:56 PM] Request textDocument/formatting failed.
+  Message: 3:21: expected type, found newline
+  Code: 0 
+[Error - 9:32:57 PM] 2025/05/08 21:32:57 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go:3:22: expected type, found '{' (and 1 more errors)
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go"
+
+[Error - 9:32:57 PM] Request textDocument/formatting failed.
+  Message: 3:22: expected type, found '{' (and 1 more errors)
+  Code: 0 
+[Info  - 9:33:15 PM] 2025/05/08 21:33:15 background imports cache refresh starting
+
+[Info  - 9:33:15 PM] 2025/05/08 21:33:15 background refresh finished after 4.641041ms
+
+[Info  - 9:33:52 PM] 2025/05/08 21:33:52 background imports cache refresh starting
+
+[Info  - 9:33:52 PM] 2025/05/08 21:33:52 background refresh finished after 6.167676ms
+
+[Error - 9:33:59 PM] 2025/05/08 21:33:59 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go:4:8: expected type, found newline
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go"
+
+[Info  - 9:34:24 PM] 2025/05/08 21:34:24 background imports cache refresh starting
+
+[Info  - 9:34:24 PM] 2025/05/08 21:34:24 background refresh finished after 5.516934ms
+
+[Error - 9:34:27 PM] 2025/05/08 21:34:27 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go:7:21: expected type, found newline
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go"
+
+[Error - 9:34:39 PM] 2025/05/08 21:34:39 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go:4:5: expected type, found newline
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go"
+
+[Error - 9:34:41 PM] 2025/05/08 21:34:41 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go:4:7: expected type, found newline
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go"
+
+[Error - 9:34:42 PM] 2025/05/08 21:34:42 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go:4:10: expected type, found newline
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go"
+
+[Error - 9:34:43 PM] 2025/05/08 21:34:43 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go:4:17: expected type, found newline
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go"
+
+[Error - 9:34:43 PM] 2025/05/08 21:34:43 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go:4:22: expected type, found newline
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go"
+
+[Error - 9:34:46 PM] 2025/05/08 21:34:46 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go:4:5: expected type, found newline
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go"
+
+[Error - 9:34:47 PM] 2025/05/08 21:34:47 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go:4:10: expected type, found newline
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go"
+
+[Error - 9:34:48 PM] 2025/05/08 21:34:48 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go:4:12: expected type, found newline
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go"
+
+[Error - 9:34:48 PM] 2025/05/08 21:34:48 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go:4:13: expected type, found newline
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go"
+
+[Error - 9:34:59 PM] 2025/05/08 21:34:59 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go:11:14: expected '(', found newline (and 6 more errors)
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go"
+
+[Info  - 9:34:59 PM] 2025/05/08 21:34:59 background imports cache refresh starting
+
+[Info  - 9:34:59 PM] 2025/05/08 21:34:59 background refresh finished after 9.863308ms
+
+[Error - 9:35:00 PM] 2025/05/08 21:35:00 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go:11:18: expected '(', found newline (and 6 more errors)
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go"
+
+[Error - 9:35:00 PM] 2025/05/08 21:35:00 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go:11:21: expected '(', found newline (and 6 more errors)
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go"
+
+[Error - 9:35:06 PM] 2025/05/08 21:35:06 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go:11:22: expected '(', found Read (and 8 more errors)
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go"
+
+[Error - 9:35:34 PM] 2025/05/08 21:35:34 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go:19:11: expected type, found newline
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go"
+
+[Error - 9:35:35 PM] 2025/05/08 21:35:35 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go:19:11: expected type, found newline
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go"
+
+[Error - 9:35:35 PM] Request textDocument/formatting failed.
+  Message: 19:11: expected type, found newline
+  Code: 0 
+[Error - 9:35:35 PM] 2025/05/08 21:35:35 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go:19:11: expected type, found newline
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go"
+
+[Error - 9:35:36 PM] 2025/05/08 21:35:36 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go:19:11: expected type, found newline
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go"
+
+[Error - 9:35:37 PM] 2025/05/08 21:35:37 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go:19:11: expected type, found newline
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go"
+
+[Info  - 9:35:38 PM] 2025/05/08 21:35:38 background imports cache refresh starting
+
+[Info  - 9:35:38 PM] 2025/05/08 21:35:38 background refresh finished after 7.71246ms
+
+[Error - 9:35:50 PM] 2025/05/08 21:35:50 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go:19:11: expected type, found newline
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go"
+
+[Error - 9:35:52 PM] 2025/05/08 21:35:52 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go:19:10: expected type, found newline
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go"
+
+[Info  - 9:36:24 PM] 2025/05/08 21:36:24 background imports cache refresh starting
+
+[Info  - 9:36:24 PM] 2025/05/08 21:36:24 background refresh finished after 4.725904ms
+
+[Info  - 9:36:54 PM] 2025/05/08 21:36:54 background imports cache refresh starting
+
+[Info  - 9:36:54 PM] 2025/05/08 21:36:54 background refresh finished after 4.1388ms
+
+[Info  - 9:38:23 PM] 2025/05/08 21:38:23 background imports cache refresh starting
+
+[Info  - 9:38:23 PM] 2025/05/08 21:38:23 background refresh finished after 4.577998ms
+
+[Info  - 9:39:43 PM] 2025/05/08 21:39:43 background imports cache refresh starting
+
+[Info  - 9:39:43 PM] 2025/05/08 21:39:43 background refresh finished after 5.703236ms
+
+[Info  - 9:40:34 PM] 2025/05/08 21:40:34 background imports cache refresh starting
+
+[Info  - 9:40:34 PM] 2025/05/08 21:40:34 background refresh finished after 5.983394ms
+
+[Info  - 9:41:05 PM] 2025/05/08 21:41:05 background imports cache refresh starting
+
+[Info  - 9:41:05 PM] 2025/05/08 21:41:05 background refresh finished after 4.990412ms
+

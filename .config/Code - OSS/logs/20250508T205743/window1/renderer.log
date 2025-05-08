@@ -1,0 +1,131 @@
+2025-05-08 20:57:44.855 [info] Started local extension host with pid 1380.
+2025-05-08 20:57:45.745 [error] Extension 'ms-python.debugpy CANNOT USE these API proposals 'portsAttributes, debugVisualization, contribViewsWelcome'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2025-05-08 20:57:45.746 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, terminalDataWriteEvent, terminalExecuteCommandEvent, codeActionAI, notebookReplDocument, notebookVariableProvider'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2025-05-08 20:57:45.812 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2025-05-08 20:57:47.828 [info] [perf] Render performance baseline is 30ms
+2025-05-08 20:59:50.065 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:00:01.369 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:01:53.569 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:01:55.178 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:02:12.737 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:03:21.806 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:03:26.532 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:04:11.006 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:04:16.792 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:04:20.243 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:04:23.498 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:04:31.944 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:05:02.655 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:05:10.264 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:05:22.091 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:05:27.107 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:05:32.112 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:05:34.895 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:05:45.933 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:05:49.556 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:05:58.330 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:06:21.504 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:06:31.138 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:06:32.609 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:06:35.076 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:06:36.508 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:06:39.356 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:08:25.857 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:09:38.821 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:09:50.601 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:09:52.419 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:10:47.112 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:12:40.882 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:12:41.918 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:12:53.313 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:12:54.432 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:12:56.453 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:13:00.036 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:13:03.757 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:13:05.819 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:13:07.678 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:13:09.008 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:13:12.125 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:13:17.946 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:13:20.344 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:13:23.043 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:13:25.007 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:13:35.259 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.
+2025-05-08 21:13:35.321 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:13:39.520 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:13:44.170 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:13:47.352 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:14:12.176 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:14:14.095 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:14:19.123 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:14:31.085 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:14:35.007 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:14:37.870 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:14:38.872 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:14:41.124 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:14:45.912 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:14:49.915 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:14:51.371 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:14:55.423 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:15:11.438 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:15:12.876 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:15:16.441 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:15:20.178 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:15:23.068 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:15:24.374 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:22:02.054 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:22:06.690 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:22:11.126 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:22:14.892 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:22:17.746 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:22:46.281 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:22:47.358 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:22:50.934 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:22:52.408 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:22:54.378 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:22:57.863 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:22:58.959 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:23:04.489 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:23:08.043 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:23:10.056 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:23:15.202 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:24:11.796 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:24:13.090 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:24:14.582 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:24:16.056 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:24:17.286 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:24:22.807 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:24:25.050 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:24:30.377 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:24:32.950 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:24:38.878 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:32:14.439 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:32:32.758 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:32:56.220 [error] Error: 3:21: expected type, found newline
+	at handleResponse (/home/angrycompany16/.vscode-oss/extensions/golang.go-0.46.1-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/angrycompany16/.vscode-oss/extensions/golang.go-0.46.1-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/angrycompany16/.vscode-oss/extensions/golang.go-0.46.1-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/angrycompany16/.vscode-oss/extensions/golang.go-0.46.1-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2025-05-08 21:32:57.150 [error] Error: 3:22: expected type, found '{' (and 1 more errors)
+	at handleResponse (/home/angrycompany16/.vscode-oss/extensions/golang.go-0.46.1-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/angrycompany16/.vscode-oss/extensions/golang.go-0.46.1-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/angrycompany16/.vscode-oss/extensions/golang.go-0.46.1-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/angrycompany16/.vscode-oss/extensions/golang.go-0.46.1-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2025-05-08 21:35:35.485 [error] Error: 19:11: expected type, found newline
+	at handleResponse (/home/angrycompany16/.vscode-oss/extensions/golang.go-0.46.1-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/angrycompany16/.vscode-oss/extensions/golang.go-0.46.1-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/angrycompany16/.vscode-oss/extensions/golang.go-0.46.1-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/angrycompany16/.vscode-oss/extensions/golang.go-0.46.1-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:483:21)
+2025-05-08 21:35:43.098 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:36:32.051 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:36:52.009 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:36:54.575 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:37:39.622 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:38:00.476 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:38:01.737 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:38:03.075 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:38:04.991 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-08 21:38:13.136 [error] An unknown error occurred. Please consult the log for more details.

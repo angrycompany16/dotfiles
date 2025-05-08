@@ -1,0 +1,5 @@
+2025/04/25-00:13:09.940 b779 Reusing MANIFEST /home/angrycompany16/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/04/25-00:13:09.950 b779 Recovering log #12
+2025/04/25-00:13:09.951 b779 Reusing old log /home/angrycompany16/.config/discord/Local Storage/leveldb/000012.log 
+2025/04/25-00:15:02.647 b77a Level-0 table #16: started
+2025/04/25-00:15:02.690 b77a Level-0 table #16: 3595959 bytes OK

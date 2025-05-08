@@ -1,0 +1,72 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "a4e619f456edea094c873ed12215dfea7ffd0ad6f02ae5cc20e41df4ed09babe",
+    "telemetry.devDeviceId": "afaad80a-7eed-43ab-922d-690ed8337516",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/angrycompany16/gamedev/go/mask_of_the_tomb"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/angrycompany16/gamedev/go/mask_of_the_tomb": "__default__profile__",
+            "file:///home/angrycompany16/.config": "__default__profile__",
+            "file:///home/angrycompany16/ntnu/EDK/EDK-project/project": "__default__profile__",
+            "file:///home/angrycompany16/gamedev/go/ebiten-LDTK": "__default__profile__",
+            "file:///home/angrycompany16/ntnu/EDK/EDK-project": "__default__profile__",
+            "file:///home/angrycompany16/Documents/fintuning": "__default__profile__",
+            "file:///home/angrycompany16/ntnu/sanntidsprogrammering/TTK4145-sanntidslab": "__default__profile__",
+            "file:///home/angrycompany16/ntnu/EDK/handin": "__default__profile__",
+            "file:///home/angrycompany16/ntnu/modsim/exercise11": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/angrycompany16/gamedev/go/mask_of_the_tomb",
+            "backupPath": "/home/angrycompany16/.config/Code - OSS/Backups/36f49304f5cf0574fed10505ccab5702",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 640,
+                "height": 686
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#292828",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#a89984",
+            "background": "#292828",
+            "editorBackground": "#292828",
+            "titleBarBackground": "#292828",
+            "titleBarBorder": "#292828",
+            "activityBarBackground": "#292828",
+            "activityBarBorder": "#292828",
+            "sideBarBackground": "#292828",
+            "statusBarBackground": "#292828",
+            "statusBarBorder": "#292828",
+            "statusBarNoFolderBackground": "#292828"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 229,
+            "auxiliarySideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    }
+}

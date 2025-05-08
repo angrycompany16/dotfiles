@@ -1,0 +1,15 @@
+autologin.username="david.p03"
+autologin.saved_credentials="{\"david.p03\":[\"david.p03\",\"zFx8T9pE3qAZ8gKkkS1poLxHiTEZHvyi4cYHKYMaWER6GgZvNGptK6iXGnlMXLj+nwV+SHpEkt1eZ0eDt7ntTj7ZA/gLwqYDjYrTqFqoB8FJWq+e03ZVzYKq3FMYQFGE+9UZJ75j+udrUTVR1rTY6KK7mzoFOpnMVPqF78Pe7EqRrwbNRsr9Xq+ITjuHQxKZ7N0FdCQM0S2O+GDWX3hcTDyJxUmKVsB75iPYNF0600I1rTvVpg4bj+Zv4jHmWNM5\"]}"
+autologin.canonical_username="david.p03"
+app.window.state.saved=true
+app.window.position.width=1236
+autologin.blob="zFx8T9pE3qAZ8gKkkS1poLxHiTEZHvyi4cYHKYMaWER6GgZvNGptK6iXGnlMXLj+nwV+SHpEkt1eZ0eDt7ntTj7ZA/gLwqYDjYrTqFqoB8FJWq+e03ZVzYKq3FMYQFGE+9UZJ75j+udrUTVR1rTY6KK7mzoFOpnMVPqF78Pe7EqRrwbNRsr9Xq+ITjuHQxKZ7N0FdCQM0S2O+GDWX3hcTDyJxUmKVsB75iPYNF0600I1rTvVpg4bj+Zv4jHmWNM5"
+es.send-on-startup=true
+core.clock_delta=0
+app.window.state=2
+app.window.position.saved=true
+app.window.position.height=642
+app.autostart-mode="off"
+storage.last-location="/home/angrycompany16/.cache/spotify/Storage"
+es.use-lmdb=true
+app.last-launched-version="1.2.60.564.gcc6305cb"

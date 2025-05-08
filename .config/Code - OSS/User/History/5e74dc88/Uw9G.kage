@@ -1,0 +1,46 @@
+//kage:unit pixels
+
+package main
+
+const (
+    PLAYER_LIGHT_RADIUS = 0.01
+    VIGNETTE_RADIUS = 0.3
+)
+
+var (
+    PlayerPos vec2
+    Resolution vec2
+)
+
+func Fragment(dstPos vec4, srcPos vec2) vec4 {
+    
+    // pos := srcPos.xy
+	// pos /= Resolution
+	// pos -= vec2(0.5)
+
+	// vignette_falloff := circle(pos, VIGNETTE_RADIUS)
+	// vignette_falloff = smoothstep(0.0, 0.5, vignette_falloff)
+    screen_dist_falloff := get_screen_dist(sr)
+
+    // Light up player position
+    PLAYER_LIGHT_COLOR := vec4(1.0, 1.0, 0.9, 1.0)
+    falloff := 1 - clip(distance(srcPos, PlayerPos)*PLAYER_LIGHT_RADIUS, 0.2)
+    player_light_color := falloff * PLAYER_LIGHT_COLOR * 0.5
+    player_light_color.a *= (1 - vignette_falloff)
+
+	return player_light_color
+}
+
+func get_screen_dist(pos vec2, width, height float) float {
+    distX := min(abs(x), abs(width - x))
+    distY := min(abs(y), abs(height - y))
+    return min(distX, distY)
+}
+
+func clip(x float, threshold float) float {
+    return clamp((x - threshold) / (1 - threshold), 0.0, 1.0)
+}
+
+func circle(pos vec2, radius float) float {
+	return length(pos) - radius
+}

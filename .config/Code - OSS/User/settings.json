@@ -1,0 +1,16 @@
+{
+    // "editor.formatOnSave": true,
+    "workbench.colorTheme": "Gruvbox Material Dark",
+    "editor.fontFamily": "'Hack Nerd Font', monospace",
+    "editor.fontSize": 16,
+    "workbench.layoutControl.enabled": false,
+    "chat.commandCenter.enabled": false,
+    "workbench.navigationControl.enabled": false,
+    "window.menuBarVisibility": "toggle",
+    "workbench.tree.indent": 16,
+    "explorer.confirmDragAndDrop": false,
+    "editor.lineNumbers": "relative",
+    "explorer.confirmDelete": false,
+    "git.openRepositoryInParentFolders": "never",
+    "workbench.editor.showTabs": "none"
+}

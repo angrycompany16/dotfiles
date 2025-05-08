@@ -1,0 +1,406 @@
+2025-05-08 20:57:46.652 [info] Try to start language server - activation (enabled: true)
+2025-05-08 20:57:46.780 [info] Running language server gopls(v0.18.1/go1.24.2)
+2025-05-08 20:59:17.619 [info] Running checks...
+2025-05-08 20:59:17.619 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/examples/slamboxes
+2025-05-08 20:59:18.295 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/examples/slamboxes>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 20:59:18.295 [info] 
+2025-05-08 21:00:30.772 [info] Running checks...
+2025-05-08 21:00:30.773 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb
+2025-05-08 21:00:31.078 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:00:31.078 [info] 
+2025-05-08 21:00:32.169 [info] Running checks...
+2025-05-08 21:00:32.169 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb
+2025-05-08 21:00:32.416 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:00:32.416 [info] 
+2025-05-08 21:01:05.223 [info] Running checks...
+2025-05-08 21:01:05.223 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/examples/slamboxes
+2025-05-08 21:01:05.562 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/examples/slamboxes>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:01:05.562 [info] 
+2025-05-08 21:01:06.414 [info] Running checks...
+2025-05-08 21:01:06.414 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/examples/slamboxes
+2025-05-08 21:01:06.757 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/examples/slamboxes>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:01:06.757 [info] 
+2025-05-08 21:01:32.391 [info] Running checks...
+2025-05-08 21:01:32.392 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/examples/slamboxes
+2025-05-08 21:01:32.644 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/examples/slamboxes>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:01:32.644 [info] 
+2025-05-08 21:01:54.688 [info] Running checks...
+2025-05-08 21:01:54.688 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game
+2025-05-08 21:01:54.979 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:01:54.979 [info] 
+2025-05-08 21:01:55.508 [info] Running checks...
+2025-05-08 21:01:55.508 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game
+2025-05-08 21:01:55.732 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:01:55.732 [info] 
+2025-05-08 21:02:53.741 [info] Running checks...
+2025-05-08 21:02:53.741 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/examples/slamboxes
+2025-05-08 21:02:54.118 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/examples/slamboxes>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:02:54.118 [info] 
+2025-05-08 21:03:09.067 [info] Running checks...
+2025-05-08 21:03:09.067 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/examples/slamboxes
+2025-05-08 21:03:09.330 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/examples/slamboxes>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:03:09.330 [info] 
+2025-05-08 21:03:09.653 [info] Running checks...
+2025-05-08 21:03:09.653 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/examples/slamboxes
+2025-05-08 21:03:09.913 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/examples/slamboxes>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:03:09.913 [info] 
+2025-05-08 21:03:10.284 [info] Running checks...
+2025-05-08 21:03:10.284 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/examples/slamboxes
+2025-05-08 21:03:10.527 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/examples/slamboxes>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:03:10.527 [info] 
+2025-05-08 21:03:18.197 [info] Running checks...
+2025-05-08 21:03:18.197 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/examples/slamboxes
+2025-05-08 21:03:18.492 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/examples/slamboxes>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:03:18.492 [info] 
+2025-05-08 21:03:26.045 [info] Running checks...
+2025-05-08 21:03:26.045 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game
+2025-05-08 21:03:26.272 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:03:26.272 [info] 
+2025-05-08 21:04:10.516 [info] Running checks...
+2025-05-08 21:04:10.516 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game
+2025-05-08 21:04:10.743 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:04:10.743 [info] 
+2025-05-08 21:04:16.307 [info] Running checks...
+2025-05-08 21:04:16.307 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game
+2025-05-08 21:04:16.512 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:04:16.512 [info] 
+2025-05-08 21:04:17.234 [info] Running checks...
+2025-05-08 21:04:17.234 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game
+2025-05-08 21:04:17.454 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:04:17.454 [info] 
+2025-05-08 21:04:19.757 [info] Running checks...
+2025-05-08 21:04:19.757 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game
+2025-05-08 21:04:19.979 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:04:19.979 [info] 
+2025-05-08 21:04:31.455 [info] Running checks...
+2025-05-08 21:04:31.455 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game
+2025-05-08 21:04:31.680 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:04:31.680 [info] 
+2025-05-08 21:05:21.601 [info] Running checks...
+2025-05-08 21:05:21.602 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game
+2025-05-08 21:05:21.835 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:05:21.835 [info] 
+2025-05-08 21:05:26.619 [info] Running checks...
+2025-05-08 21:05:26.619 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game
+2025-05-08 21:05:26.862 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:05:26.862 [info] 
+2025-05-08 21:05:31.623 [info] Running checks...
+2025-05-08 21:05:31.623 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game
+2025-05-08 21:05:31.853 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:05:31.853 [info] 
+2025-05-08 21:05:34.407 [info] Running checks...
+2025-05-08 21:05:34.407 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game
+2025-05-08 21:05:34.658 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:05:34.658 [info] 
+2025-05-08 21:05:45.447 [info] Running checks...
+2025-05-08 21:05:45.448 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game
+2025-05-08 21:05:45.667 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:05:45.667 [info] 
+2025-05-08 21:06:38.869 [info] Running checks...
+2025-05-08 21:06:38.869 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game
+2025-05-08 21:06:39.231 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:06:39.231 [info] 
+2025-05-08 21:09:16.216 [info] Running checks...
+2025-05-08 21:09:16.216 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/examples/slamboxes
+2025-05-08 21:09:16.538 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/examples/slamboxes>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:09:16.539 [info] 
+2025-05-08 21:09:32.564 [info] Running checks...
+2025-05-08 21:09:32.564 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/examples/slamboxes
+2025-05-08 21:09:32.884 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/examples/slamboxes>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:09:32.884 [info] 
+2025-05-08 21:09:34.033 [info] Running checks...
+2025-05-08 21:09:34.033 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/examples/slamboxes
+2025-05-08 21:09:34.298 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/examples/slamboxes>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:09:34.298 [info] 
+2025-05-08 21:09:43.580 [info] Running checks...
+2025-05-08 21:09:43.580 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/world
+2025-05-08 21:09:43.860 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/world>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:09:43.860 [info] 
+2025-05-08 21:09:51.927 [info] Running checks...
+2025-05-08 21:09:51.927 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game
+2025-05-08 21:09:52.231 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:09:52.231 [info] 
+2025-05-08 21:10:46.626 [info] Running checks...
+2025-05-08 21:10:46.626 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game
+2025-05-08 21:10:46.848 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:10:46.848 [info] 
+2025-05-08 21:10:48.892 [info] Running checks...
+2025-05-08 21:10:48.892 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb
+2025-05-08 21:10:49.226 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:10:49.226 [info] 
+2025-05-08 21:10:49.523 [info] Running checks...
+2025-05-08 21:10:49.523 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb
+2025-05-08 21:10:49.788 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:10:49.788 [info] 
+2025-05-08 21:10:50.324 [info] Running checks...
+2025-05-08 21:10:50.325 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb
+2025-05-08 21:10:50.605 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:10:50.605 [info] 
+2025-05-08 21:12:14.039 [info] Running checks...
+2025-05-08 21:12:14.039 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb
+2025-05-08 21:12:14.404 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:12:14.404 [info] 
+2025-05-08 21:12:15.924 [info] Running checks...
+2025-05-08 21:12:15.924 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb
+2025-05-08 21:12:16.174 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:12:16.174 [info] 
+2025-05-08 21:12:24.116 [info] Running checks...
+2025-05-08 21:12:24.116 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb
+2025-05-08 21:12:24.447 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:12:24.447 [info] 
+2025-05-08 21:12:31.549 [info] Running checks...
+2025-05-08 21:12:31.549 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb
+2025-05-08 21:12:31.879 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:12:31.879 [info] 
+2025-05-08 21:12:32.385 [info] Running checks...
+2025-05-08 21:12:32.385 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb
+2025-05-08 21:12:32.652 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:12:32.652 [info] 
+2025-05-08 21:12:33.082 [info] Running checks...
+2025-05-08 21:12:33.082 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb
+2025-05-08 21:12:33.368 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:12:33.368 [info] 
+2025-05-08 21:12:33.784 [info] Running checks...
+2025-05-08 21:12:33.784 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb
+2025-05-08 21:12:34.087 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:12:34.087 [info] 
+2025-05-08 21:12:34.495 [info] Running checks...
+2025-05-08 21:12:34.495 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb
+2025-05-08 21:12:34.766 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:12:34.766 [info] 
+2025-05-08 21:12:41.432 [info] Running checks...
+2025-05-08 21:12:41.432 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game
+2025-05-08 21:12:41.681 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:12:41.681 [info] 
+2025-05-08 21:13:46.864 [info] Running checks...
+2025-05-08 21:13:46.864 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game
+2025-05-08 21:13:47.240 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:13:47.240 [info] 
+2025-05-08 21:14:11.681 [info] Running checks...
+2025-05-08 21:14:11.681 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game
+2025-05-08 21:14:11.907 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:14:11.907 [info] 
+2025-05-08 21:14:13.608 [info] Running checks...
+2025-05-08 21:14:13.608 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game
+2025-05-08 21:14:13.828 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:14:13.828 [info] 
+2025-05-08 21:14:18.634 [info] Running checks...
+2025-05-08 21:14:18.634 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game
+2025-05-08 21:14:18.866 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:14:18.866 [info] 
+2025-05-08 21:14:40.635 [info] Running checks...
+2025-05-08 21:14:40.636 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game
+2025-05-08 21:14:40.999 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:14:40.999 [info] 
+2025-05-08 21:14:45.425 [info] Running checks...
+2025-05-08 21:14:45.425 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game
+2025-05-08 21:14:45.659 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:14:45.659 [info] 
+2025-05-08 21:24:38.397 [info] Running checks...
+2025-05-08 21:24:38.397 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game
+2025-05-08 21:24:38.733 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:24:38.733 [info] 
+2025-05-08 21:32:13.950 [info] Running checks...
+2025-05-08 21:32:13.950 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game
+2025-05-08 21:32:33.441 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:32:33.441 [info] 
+2025-05-08 21:32:45.390 [info] Running checks...
+2025-05-08 21:32:45.390 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources
+2025-05-08 21:32:45.472 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:32:45.472 [info] 
+2025-05-08 21:32:56.251 [info] Running checks...
+2025-05-08 21:32:56.251 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources
+2025-05-08 21:32:56.332 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:32:56.332 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go:3:21 syntax error: unexpected EOF in type declaration (compile)
+2025-05-08 21:32:56.332 [info] 
+2025-05-08 21:32:57.193 [info] Running checks...
+2025-05-08 21:32:57.193 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources
+2025-05-08 21:32:57.273 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:32:57.273 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go:3:22 syntax error: unexpected { in type declaration (compile)
+2025-05-08 21:32:57.273 [info] 
+2025-05-08 21:33:01.997 [info] Running checks...
+2025-05-08 21:33:01.997 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources
+2025-05-08 21:33:02.081 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:33:02.082 [info] 
+2025-05-08 21:33:22.925 [info] Running checks...
+2025-05-08 21:33:22.925 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources
+2025-05-08 21:33:22.997 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:33:22.997 [info] 
+2025-05-08 21:33:29.932 [info] Running checks...
+2025-05-08 21:33:29.932 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources
+2025-05-08 21:33:30.019 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:33:30.019 [info] 
+2025-05-08 21:33:46.212 [info] Running checks...
+2025-05-08 21:33:46.213 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources
+2025-05-08 21:33:46.294 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:33:46.294 [info] 
+2025-05-08 21:34:03.144 [info] Running checks...
+2025-05-08 21:34:03.144 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources
+2025-05-08 21:34:03.223 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:34:03.223 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go:4:13 PlayerData is not a type
+2025-05-08 21:34:03.223 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go:7:6 PlayerData redeclared in this block
+2025-05-08 21:34:03.223 [info] 
+2025-05-08 21:34:14.750 [info] Running checks...
+2025-05-08 21:34:14.750 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources
+2025-05-08 21:34:14.828 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:34:14.828 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go:4:2 var playerData is unused (U1000)
+2025-05-08 21:34:14.828 [info] 
+2025-05-08 21:34:34.686 [info] Running checks...
+2025-05-08 21:34:34.686 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources
+2025-05-08 21:34:34.769 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:34:34.769 [info] 
+2025-05-08 21:34:50.974 [info] Running checks...
+2025-05-08 21:34:50.974 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources
+2025-05-08 21:34:51.056 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:34:51.056 [info] 
+2025-05-08 21:34:52.165 [info] Running checks...
+2025-05-08 21:34:52.165 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources
+2025-05-08 21:34:52.234 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:34:52.234 [info] 
+2025-05-08 21:34:53.046 [info] Running checks...
+2025-05-08 21:34:53.046 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources
+2025-05-08 21:34:53.118 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:34:53.118 [info] 
+2025-05-08 21:34:55.068 [info] Running checks...
+2025-05-08 21:34:55.068 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources
+2025-05-08 21:34:55.133 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:34:55.133 [info] 
+2025-05-08 21:35:08.887 [info] Running checks...
+2025-05-08 21:35:08.887 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources
+2025-05-08 21:35:08.965 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:35:08.965 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go:11:6 missing function body (compile)
+2025-05-08 21:35:08.965 [info] 
+2025-05-08 21:35:09.602 [info] Running checks...
+2025-05-08 21:35:09.602 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources
+2025-05-08 21:35:09.679 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:35:09.679 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go:11:6 missing function body (compile)
+2025-05-08 21:35:09.679 [info] 
+2025-05-08 21:35:24.402 [info] Running checks...
+2025-05-08 21:35:24.402 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources
+2025-05-08 21:35:24.473 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:35:24.473 [info] 
+2025-05-08 21:35:30.914 [info] Running checks...
+2025-05-08 21:35:30.914 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources
+2025-05-08 21:35:30.991 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:35:30.991 [info] 
+2025-05-08 21:35:35.518 [info] Running checks...
+2025-05-08 21:35:35.518 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources
+2025-05-08 21:35:35.596 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:35:35.596 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources/resourcemanager.go:19:11 syntax error: unexpected newline in type declaration (compile)
+2025-05-08 21:35:35.596 [info] 
+2025-05-08 21:35:55.575 [info] Running checks...
+2025-05-08 21:35:55.575 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources
+2025-05-08 21:35:55.657 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:35:55.657 [info] 
+2025-05-08 21:35:57.215 [info] Running checks...
+2025-05-08 21:35:57.215 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources
+2025-05-08 21:35:57.284 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:35:57.284 [info] 
+2025-05-08 21:36:16.778 [info] Running checks...
+2025-05-08 21:36:16.778 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources
+2025-05-08 21:36:16.857 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:36:16.857 [info] 
+2025-05-08 21:36:17.437 [info] Running checks...
+2025-05-08 21:36:17.437 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources
+2025-05-08 21:36:17.503 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:36:17.503 [info] 
+2025-05-08 21:36:24.201 [info] Running checks...
+2025-05-08 21:36:24.201 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources
+2025-05-08 21:36:24.283 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:36:24.283 [info] 
+2025-05-08 21:36:51.519 [info] Running checks...
+2025-05-08 21:36:51.519 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/player
+2025-05-08 21:36:51.794 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/player>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:36:51.794 [info] 
+2025-05-08 21:37:53.672 [info] Running checks...
+2025-05-08 21:37:53.672 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources
+2025-05-08 21:37:53.758 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:37:53.759 [info] 
+2025-05-08 21:37:54.951 [info] Running checks...
+2025-05-08 21:37:54.951 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources
+2025-05-08 21:37:55.017 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:37:55.017 [info] 
+2025-05-08 21:38:01.247 [info] Running checks...
+2025-05-08 21:38:01.247 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game
+2025-05-08 21:38:01.547 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:38:01.547 [info] 
+2025-05-08 21:38:01.888 [info] Running checks...
+2025-05-08 21:38:01.888 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game
+2025-05-08 21:38:02.137 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:38:02.137 [info] 
+2025-05-08 21:38:02.583 [info] Running checks...
+2025-05-08 21:38:02.583 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game
+2025-05-08 21:38:02.824 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:38:02.824 [info] 
+2025-05-08 21:38:04.502 [info] Running checks...
+2025-05-08 21:38:04.503 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game
+2025-05-08 21:38:04.737 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:38:04.737 [info] 
+2025-05-08 21:38:12.644 [info] Running checks...
+2025-05-08 21:38:12.645 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game
+2025-05-08 21:38:12.875 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:38:12.875 [info] 
+2025-05-08 21:38:15.911 [info] Running checks...
+2025-05-08 21:38:15.911 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources
+2025-05-08 21:38:15.976 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:38:15.976 [info] 
+2025-05-08 21:38:20.278 [info] Running checks...
+2025-05-08 21:38:20.278 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources
+2025-05-08 21:38:20.347 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:38:20.347 [info] 
+2025-05-08 21:39:13.359 [info] Running checks...
+2025-05-08 21:39:13.359 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources
+2025-05-08 21:39:13.438 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:39:13.438 [info] 
+2025-05-08 21:39:31.916 [info] Running checks...
+2025-05-08 21:39:31.916 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources
+2025-05-08 21:39:32.002 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:39:32.002 [info] 
+2025-05-08 21:39:32.933 [info] Running checks...
+2025-05-08 21:39:32.933 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources
+2025-05-08 21:39:33.001 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:39:33.001 [info] 
+2025-05-08 21:39:33.862 [info] Running checks...
+2025-05-08 21:39:33.862 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources
+2025-05-08 21:39:33.931 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:39:33.931 [info] 
+2025-05-08 21:39:34.683 [info] Running checks...
+2025-05-08 21:39:34.683 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources
+2025-05-08 21:39:34.747 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:39:34.747 [info] 
+2025-05-08 21:39:35.512 [info] Running checks...
+2025-05-08 21:39:35.512 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources
+2025-05-08 21:39:35.576 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:39:35.576 [info] 
+2025-05-08 21:39:41.721 [info] Running checks...
+2025-05-08 21:39:41.721 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources
+2025-05-08 21:39:41.786 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:39:41.786 [info] 
+2025-05-08 21:40:04.416 [info] Running checks...
+2025-05-08 21:40:04.416 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb
+2025-05-08 21:40:04.733 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:40:04.733 [info] 
+2025-05-08 21:40:22.358 [info] Running checks...
+2025-05-08 21:40:22.358 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb
+2025-05-08 21:40:22.712 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:40:22.712 [info] 
+2025-05-08 21:40:33.540 [info] Running checks...
+2025-05-08 21:40:33.540 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb
+2025-05-08 21:40:33.862 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:40:33.862 [info] 
+2025-05-08 21:40:35.957 [info] Running checks...
+2025-05-08 21:40:35.957 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources
+2025-05-08 21:40:36.028 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:40:36.028 [info] 
+2025-05-08 21:40:37.835 [info] Running checks...
+2025-05-08 21:40:37.835 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources
+2025-05-08 21:40:37.901 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:40:37.901 [info] 
+2025-05-08 21:40:38.456 [info] Running checks...
+2025-05-08 21:40:38.456 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources
+2025-05-08 21:40:38.521 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/core/resources>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:40:38.521 [info] 
+2025-05-08 21:41:44.963 [info] Running checks...
+2025-05-08 21:41:44.963 [info] Starting linting the current package at /home/angrycompany16/gamedev/go/mask_of_the_tomb
+2025-05-08 21:41:45.312 [info] /home/angrycompany16/gamedev/go/mask_of_the_tomb>Finished running tool: /home/angrycompany16/go/bin/staticcheck
+2025-05-08 21:41:45.312 [info] 

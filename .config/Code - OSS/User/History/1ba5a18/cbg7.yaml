@@ -1,0 +1,27 @@
+---
+definitions:
+- PrimaryAlign: &AlignStart 0
+- PrimaryAlign: &AlignCenter 1
+- PrimaryAlign: &AlignEnd 2
+- ScreenAlign: &Centered 0
+- ScreenAlign: &TopLeft 1
+
+Name: "mainmenu"
+Root:
+  Children:
+  - Type: "textbox"
+    PosX: 0
+    PosY: 0
+    Text: "MASK OF THE TOMB"
+    Color:
+      Bright: [205, 247, 226, 255]
+      Dark: [199, 176, 139, 255]
+    Font: "JSE_AmigaAMOS"
+    FontSize: 72
+    LineSpacing: 10
+    PrimaryAlign: *AlignCenter
+    SecondaryAlign: *AlignCenter
+    ScreenAlign: *Centered
+    ShadowX: -4
+    ShadowY: 4
+...

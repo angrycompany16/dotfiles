@@ -1,0 +1,1806 @@
+[Info  - 10:09:25 PM] 2025/05/03 22:09:24 Created View (#1)
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	view_type="GoMod"
+	root_dir="file:///home/angrycompany16/gamedev/go/mask_of_the_tomb"
+	go_version="go version go1.24.2 linux/amd64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:amd64 GOCACHE:/home/angrycompany16/.cache/go-build GOMODCACHE:/home/angrycompany16/go/pkg/mod GOPATH:/home/angrycompany16/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GOROOT:/usr/lib/go GoVersion:24 GoVersionOutput:go version go1.24.2 linux/amd64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 10:09:32 PM] 2025/05/03 22:09:32 go/packages.Load #1
+	view_id="1"
+	snapshot=0
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[/home/angrycompany16/gamedev/go/mask_of_the_tomb/... builtin]
+	packages=46
+	duration=7.710174987s
+
+[Info  - 10:09:54 PM] 2025/05/03 22:09:54 background imports cache refresh starting
+
+[Info  - 10:09:55 PM] 2025/05/03 22:09:55 background refresh finished after 114.622498ms
+
+[Info  - 10:25:47 PM] 2025/05/03 22:25:47 background imports cache refresh starting
+
+[Info  - 10:25:47 PM] 2025/05/03 22:25:47 background refresh finished after 6.024027ms
+
+[Info  - 10:29:35 PM] 2025/05/03 22:29:35 background imports cache refresh starting
+
+[Info  - 10:29:35 PM] 2025/05/03 22:29:35 background refresh finished after 4.245056ms
+
+[Error - 10:40:54 PM] 2025/05/03 22:40:54 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/world/level.go:154:13: missing ',' before newline in composite literal
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/world/level.go"
+
+[Error - 10:40:56 PM] 2025/05/03 22:40:56 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/world/level.go:155:13: missing ',' before newline in composite literal
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/world/level.go"
+
+[Info  - 10:41:27 PM] 2025/05/03 22:41:27 background imports cache refresh starting
+
+[Info  - 10:41:27 PM] 2025/05/03 22:41:27 background refresh finished after 5.585408ms
+
+[Info  - 10:57:20 PM] 2025/05/03 22:57:20 background imports cache refresh starting
+
+[Info  - 10:57:20 PM] 2025/05/03 22:57:20 background refresh finished after 4.717933ms
+
+[Info  - 10:58:36 PM] 2025/05/03 22:58:36 background imports cache refresh starting
+
+[Info  - 10:58:36 PM] 2025/05/03 22:58:36 background refresh finished after 5.040806ms
+
+[Info  - 10:59:43 PM] 2025/05/03 22:59:43 background imports cache refresh starting
+
+[Info  - 10:59:43 PM] 2025/05/03 22:59:43 background refresh finished after 4.616996ms
+
+[Info  - 11:00:23 PM] 2025/05/03 23:00:23 background imports cache refresh starting
+
+[Info  - 11:00:23 PM] 2025/05/03 23:00:23 background refresh finished after 6.95698ms
+
+[Info  - 11:06:53 PM] 2025/05/03 23:06:53 background imports cache refresh starting
+
+[Info  - 11:06:53 PM] 2025/05/03 23:06:53 background refresh finished after 4.990458ms
+
+[Info  - 11:07:28 PM] 2025/05/03 23:07:28 background imports cache refresh starting
+
+[Info  - 11:07:28 PM] 2025/05/03 23:07:28 background refresh finished after 4.997818ms
+
+[Info  - 11:08:00 PM] 2025/05/03 23:08:00 background imports cache refresh starting
+
+[Info  - 11:08:00 PM] 2025/05/03 23:08:00 background refresh finished after 5.043594ms
+
+[Info  - 11:08:37 PM] 2025/05/03 23:08:37 background imports cache refresh starting
+
+[Info  - 11:08:37 PM] 2025/05/03 23:08:37 background refresh finished after 5.786552ms
+
+[Info  - 11:10:38 PM] 2025/05/03 23:10:38 background imports cache refresh starting
+
+[Info  - 11:10:38 PM] 2025/05/03 23:10:38 background refresh finished after 4.23554ms
+
+[Info  - 11:11:12 PM] 2025/05/03 23:11:12 background imports cache refresh starting
+
+[Info  - 11:11:12 PM] 2025/05/03 23:11:12 background refresh finished after 5.345698ms
+
+[Info  - 11:11:46 PM] 2025/05/03 23:11:46 background imports cache refresh starting
+
+[Info  - 11:11:46 PM] 2025/05/03 23:11:46 background refresh finished after 5.004621ms
+
+[Info  - 11:11:47 PM] 2025/05/03 23:11:47 go/packages.Load #3
+	view_id="1"
+	snapshot=319
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=110.065974ms
+
+[Info  - 11:11:47 PM] 2025/05/03 23:11:47 go/packages.Load #4
+	view_id="1"
+	snapshot=319
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=103.694735ms
+
+[Info  - 11:11:48 PM] 2025/05/03 23:11:48 go/packages.Load #5
+	view_id="1"
+	snapshot=319
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[mask_of_the_tomb mask_of_the_tomb/editor mask_of_the_tomb/editor/editor mask_of_the_tomb/examples/hazards mask_of_the_tomb/examples/slamboxes mask_of_the_tomb/examples/ui mask_of_the_tomb/internal/game mask_of_the_tomb/internal/game/UI mask_of_the_tomb/internal/game/UI/display mask_of_the_tomb/internal/game/UI/fonts mask_of_the_tomb/internal/game/UI/node mask_of_the_tomb/internal/game/UI/overlay mask_of_the_tomb/internal/game/core/assetloader/assettypes mask_of_the_tomb/internal/game/player mask_of_the_tomb/internal/game/sound mask_of_the_tomb/internal/game/world]
+	packages=16
+	duration=178.541256ms
+
+[Info  - 11:11:49 PM] 2025/05/03 23:11:49 go/packages.Load #6
+	view_id="1"
+	snapshot=320
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=94.489074ms
+
+[Error - 11:11:49 PM] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 11:11:49 PM] 2025/05/03 23:11:49 go/packages.Load #8
+	view_id="1"
+	snapshot=321
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=83.543517ms
+
+[Info  - 11:11:49 PM] 2025/05/03 23:11:49 go/packages.Load #9
+	view_id="1"
+	snapshot=321
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=77.15263ms
+
+[Info  - 11:11:49 PM] 2025/05/03 23:11:49 go/packages.Load #10
+	view_id="1"
+	snapshot=322
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=80.007032ms
+
+[Error - 11:11:49 PM] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 11:11:49 PM] 2025/05/03 23:11:49 go/packages.Load #13
+	view_id="1"
+	snapshot=324
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=87.173282ms
+
+[Info  - 11:11:49 PM] 2025/05/03 23:11:49 go/packages.Load #14
+	view_id="1"
+	snapshot=324
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=78.177929ms
+
+[Info  - 11:11:50 PM] 2025/05/03 23:11:50 go/packages.Load #15
+	view_id="1"
+	snapshot=325
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=103.911921ms
+
+[Info  - 11:11:50 PM] 2025/05/03 23:11:50 go/packages.Load #16
+	view_id="1"
+	snapshot=325
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=91.688724ms
+
+[Info  - 11:11:52 PM] 2025/05/03 23:11:52 go/packages.Load #17
+	view_id="1"
+	snapshot=327
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[mask_of_the_tomb mask_of_the_tomb/editor mask_of_the_tomb/editor/editor mask_of_the_tomb/examples/hazards mask_of_the_tomb/examples/slamboxes mask_of_the_tomb/examples/ui mask_of_the_tomb/internal/game mask_of_the_tomb/internal/game/UI mask_of_the_tomb/internal/game/UI/display mask_of_the_tomb/internal/game/UI/fonts mask_of_the_tomb/internal/game/UI/node mask_of_the_tomb/internal/game/UI/overlay mask_of_the_tomb/internal/game/core/assetloader/assettypes mask_of_the_tomb/internal/game/player mask_of_the_tomb/internal/game/sound mask_of_the_tomb/internal/game/world]
+	packages=16
+	duration=150.2257ms
+
+[Info  - 11:12:22 PM] 2025/05/03 23:12:22 background imports cache refresh starting
+
+[Info  - 11:12:22 PM] 2025/05/03 23:12:22 background refresh finished after 5.898821ms
+
+[Info  - 11:12:54 PM] 2025/05/03 23:12:54 background imports cache refresh starting
+
+[Info  - 11:12:54 PM] 2025/05/03 23:12:54 background refresh finished after 6.296233ms
+
+[Info  - 11:17:53 PM] 2025/05/03 23:17:53 background imports cache refresh starting
+
+[Info  - 11:17:53 PM] 2025/05/03 23:17:53 background refresh finished after 4.717918ms
+
+[Info  - 11:18:26 PM] 2025/05/03 23:18:26 background imports cache refresh starting
+
+[Info  - 11:18:26 PM] 2025/05/03 23:18:26 background refresh finished after 6.978714ms
+
+[Info  - 11:18:58 PM] 2025/05/03 23:18:58 background imports cache refresh starting
+
+[Info  - 11:18:58 PM] 2025/05/03 23:18:58 background refresh finished after 5.742147ms
+
+[Info  - 11:22:38 PM] 2025/05/03 23:22:38 background imports cache refresh starting
+
+[Info  - 11:22:38 PM] 2025/05/03 23:22:38 background refresh finished after 5.563924ms
+
+[Error - 11:23:02 PM] 2025/05/03 23:23:02 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/world/level.go:159:28: expected operand, found ',' (and 159 more errors)
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/world/level.go"
+
+[Info  - 11:23:11 PM] 2025/05/03 23:23:11 background imports cache refresh starting
+
+[Info  - 11:23:11 PM] 2025/05/03 23:23:11 background refresh finished after 5.509668ms
+
+[Error - 11:24:13 PM] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 11:24:13 PM] 2025/05/03 23:24:13 go/packages.Load #20
+	view_id="1"
+	snapshot=468
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=77.842388ms
+
+[Info  - 11:24:13 PM] 2025/05/03 23:24:13 go/packages.Load #21
+	view_id="1"
+	snapshot=468
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=75.901904ms
+
+[Info  - 11:24:13 PM] 2025/05/03 23:24:13 go/packages.Load #22
+	view_id="1"
+	snapshot=469
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=90.830774ms
+
+[Info  - 11:24:13 PM] 2025/05/03 23:24:13 go/packages.Load #23
+	view_id="1"
+	snapshot=469
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=82.946858ms
+
+[Info  - 11:24:13 PM] 2025/05/03 23:24:13 go/packages.Load #24
+	view_id="1"
+	snapshot=470
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=80.175874ms
+
+[Info  - 11:24:13 PM] 2025/05/03 23:24:13 go/packages.Load #25
+	view_id="1"
+	snapshot=470
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=74.951746ms
+
+[Info  - 11:24:13 PM] 2025/05/03 23:24:13 go/packages.Load #26
+	view_id="1"
+	snapshot=471
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=71.572835ms
+
+[Info  - 11:24:13 PM] 2025/05/03 23:24:13 go/packages.Load #27
+	view_id="1"
+	snapshot=471
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=70.914666ms
+
+[Info  - 11:24:14 PM] 2025/05/03 23:24:14 go/packages.Load #28
+	view_id="1"
+	snapshot=472
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=75.58524ms
+
+[Info  - 11:24:14 PM] 2025/05/03 23:24:14 go/packages.Load #29
+	view_id="1"
+	snapshot=472
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=67.134499ms
+
+[Info  - 11:24:14 PM] 2025/05/03 23:24:14 go/packages.Load #30
+	view_id="1"
+	snapshot=473
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=72.821966ms
+
+[Error - 11:24:14 PM] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 11:24:14 PM] 2025/05/03 23:24:14 go/packages.Load #32
+	view_id="1"
+	snapshot=474
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=92.32789ms
+
+[Info  - 11:24:14 PM] 2025/05/03 23:24:14 go/packages.Load #33
+	view_id="1"
+	snapshot=474
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=89.705049ms
+
+[Info  - 11:24:15 PM] 2025/05/03 23:24:15 go/packages.Load #34
+	view_id="1"
+	snapshot=474
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[mask_of_the_tomb mask_of_the_tomb/editor mask_of_the_tomb/editor/editor mask_of_the_tomb/examples/hazards mask_of_the_tomb/examples/slamboxes mask_of_the_tomb/examples/ui mask_of_the_tomb/internal/game mask_of_the_tomb/internal/game/UI mask_of_the_tomb/internal/game/UI/display mask_of_the_tomb/internal/game/UI/fonts mask_of_the_tomb/internal/game/UI/node mask_of_the_tomb/internal/game/UI/overlay mask_of_the_tomb/internal/game/core/assetloader/assettypes mask_of_the_tomb/internal/game/player mask_of_the_tomb/internal/game/sound mask_of_the_tomb/internal/game/world]
+	packages=16
+	duration=170.809595ms
+
+[Info  - 11:24:49 PM] 2025/05/03 23:24:49 background imports cache refresh starting
+
+[Info  - 11:24:49 PM] 2025/05/03 23:24:49 background refresh finished after 5.879389ms
+
+[Info  - 11:25:20 PM] 2025/05/03 23:25:20 background imports cache refresh starting
+
+[Info  - 11:25:20 PM] 2025/05/03 23:25:20 background refresh finished after 4.87164ms
+
+[Info  - 11:26:12 PM] 2025/05/03 23:26:12 background imports cache refresh starting
+
+[Info  - 11:26:12 PM] 2025/05/03 23:26:12 background refresh finished after 4.378582ms
+
+[Info  - 11:27:24 PM] 2025/05/03 23:27:24 background imports cache refresh starting
+
+[Info  - 11:27:24 PM] 2025/05/03 23:27:24 background refresh finished after 5.489842ms
+
+[Info  - 11:27:37 PM] 2025/05/03 23:27:37 go/packages.Load #36
+	view_id="1"
+	snapshot=576
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=105.698557ms
+
+[Info  - 11:27:37 PM] 2025/05/03 23:27:37 go/packages.Load #37
+	view_id="1"
+	snapshot=576
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=105.038413ms
+
+[Info  - 11:27:38 PM] 2025/05/03 23:27:38 go/packages.Load #38
+	view_id="1"
+	snapshot=576
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[mask_of_the_tomb mask_of_the_tomb/editor mask_of_the_tomb/editor/editor mask_of_the_tomb/examples/hazards mask_of_the_tomb/examples/slamboxes mask_of_the_tomb/examples/ui mask_of_the_tomb/internal/game mask_of_the_tomb/internal/game/UI mask_of_the_tomb/internal/game/UI/display mask_of_the_tomb/internal/game/UI/fonts mask_of_the_tomb/internal/game/UI/node mask_of_the_tomb/internal/game/UI/overlay mask_of_the_tomb/internal/game/core/assetloader/assettypes mask_of_the_tomb/internal/game/player mask_of_the_tomb/internal/game/sound mask_of_the_tomb/internal/game/world]
+	packages=16
+	duration=176.46158ms
+
+[Info  - 11:27:38 PM] 2025/05/03 23:27:38 go/packages.Load #39
+	view_id="1"
+	snapshot=577
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=95.274902ms
+
+[Info  - 11:27:38 PM] 2025/05/03 23:27:38 go/packages.Load #40
+	view_id="1"
+	snapshot=577
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=88.710262ms
+
+[Info  - 11:27:39 PM] 2025/05/03 23:27:39 go/packages.Load #41
+	view_id="1"
+	snapshot=578
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=83.453077ms
+
+[Info  - 11:27:39 PM] 2025/05/03 23:27:39 go/packages.Load #42
+	view_id="1"
+	snapshot=578
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=78.950266ms
+
+[Info  - 11:27:39 PM] 2025/05/03 23:27:39 go/packages.Load #43
+	view_id="1"
+	snapshot=579
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=82.542555ms
+
+[Error - 11:27:39 PM] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 11:27:39 PM] 2025/05/03 23:27:39 go/packages.Load #45
+	view_id="1"
+	snapshot=580
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=80.142831ms
+
+[Error - 11:27:39 PM] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 11:27:39 PM] 2025/05/03 23:27:39 go/packages.Load #47
+	view_id="1"
+	snapshot=581
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=79.377145ms
+
+[Info  - 11:27:39 PM] 2025/05/03 23:27:39 go/packages.Load #48
+	view_id="1"
+	snapshot=581
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=72.189162ms
+
+[Info  - 11:27:40 PM] 2025/05/03 23:27:40 go/packages.Load #49
+	view_id="1"
+	snapshot=582
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=86.871379ms
+
+[Info  - 11:27:40 PM] 2025/05/03 23:27:40 go/packages.Load #50
+	view_id="1"
+	snapshot=582
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=74.334099ms
+
+[Info  - 11:27:40 PM] 2025/05/03 23:27:40 go/packages.Load #51
+	view_id="1"
+	snapshot=583
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=75.96891ms
+
+[Info  - 11:27:40 PM] 2025/05/03 23:27:40 go/packages.Load #52
+	view_id="1"
+	snapshot=583
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=67.090973ms
+
+[Error - 11:27:41 PM] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 11:27:41 PM] 2025/05/03 23:27:41 go/packages.Load #56
+	view_id="1"
+	snapshot=586
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=72.729834ms
+
+[Info  - 11:27:41 PM] 2025/05/03 23:27:41 go/packages.Load #57
+	view_id="1"
+	snapshot=586
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=69.1713ms
+
+[Info  - 11:27:41 PM] 2025/05/03 23:27:41 go/packages.Load #58
+	view_id="1"
+	snapshot=587
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=71.735882ms
+
+[Info  - 11:27:41 PM] 2025/05/03 23:27:41 go/packages.Load #59
+	view_id="1"
+	snapshot=587
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=72.289842ms
+
+[Info  - 11:27:42 PM] 2025/05/03 23:27:42 go/packages.Load #60
+	view_id="1"
+	snapshot=588
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=104.410581ms
+
+[Info  - 11:27:42 PM] 2025/05/03 23:27:42 go/packages.Load #61
+	view_id="1"
+	snapshot=588
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=89.142448ms
+
+[Info  - 11:27:43 PM] 2025/05/03 23:27:43 go/packages.Load #62
+	view_id="1"
+	snapshot=588
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[mask_of_the_tomb mask_of_the_tomb/editor mask_of_the_tomb/editor/editor mask_of_the_tomb/examples/hazards mask_of_the_tomb/examples/slamboxes mask_of_the_tomb/examples/ui mask_of_the_tomb/internal/game mask_of_the_tomb/internal/game/UI mask_of_the_tomb/internal/game/UI/display mask_of_the_tomb/internal/game/UI/fonts mask_of_the_tomb/internal/game/UI/node mask_of_the_tomb/internal/game/UI/overlay mask_of_the_tomb/internal/game/core/assetloader/assettypes mask_of_the_tomb/internal/game/player mask_of_the_tomb/internal/game/sound mask_of_the_tomb/internal/game/world]
+	packages=16
+	duration=151.282415ms
+
+[Info  - 11:27:56 PM] 2025/05/03 23:27:56 background imports cache refresh starting
+
+[Info  - 11:27:56 PM] 2025/05/03 23:27:56 background refresh finished after 5.005575ms
+
+[Info  - 11:28:31 PM] 2025/05/03 23:28:31 background imports cache refresh starting
+
+[Info  - 11:28:31 PM] 2025/05/03 23:28:31 background refresh finished after 4.68789ms
+
+[Info  - 11:30:10 PM] 2025/05/03 23:30:10 background imports cache refresh starting
+
+[Info  - 11:30:10 PM] 2025/05/03 23:30:10 background refresh finished after 6.186155ms
+
+[Info  - 11:30:58 PM] 2025/05/03 23:30:58 background imports cache refresh starting
+
+[Info  - 11:30:58 PM] 2025/05/03 23:30:58 background refresh finished after 7.233196ms
+
+[Info  - 11:31:54 PM] 2025/05/03 23:31:54 background imports cache refresh starting
+
+[Info  - 11:31:54 PM] 2025/05/03 23:31:54 background refresh finished after 4.50628ms
+
+[Error - 11:32:09 PM] 2025/05/03 23:32:09 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/world/level.go:42:57: missing ',' before newline in composite literal
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/world/level.go"
+
+[Error - 11:32:10 PM] 2025/05/03 23:32:10 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/world/level.go:42:58: missing ',' before newline in composite literal
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/world/level.go"
+
+[Info  - 11:32:39 PM] 2025/05/03 23:32:39 background imports cache refresh starting
+
+[Info  - 11:32:39 PM] 2025/05/03 23:32:39 background refresh finished after 4.394406ms
+
+[Info  - 11:41:24 PM] 2025/05/03 23:41:24 background imports cache refresh starting
+
+[Info  - 11:41:24 PM] 2025/05/03 23:41:24 background refresh finished after 4.171391ms
+
+[Info  - 11:42:19 PM] 2025/05/03 23:42:19 background imports cache refresh starting
+
+[Info  - 11:42:19 PM] 2025/05/03 23:42:19 background refresh finished after 4.915089ms
+
+[Info  - 11:52:01 PM] 2025/05/03 23:52:01 go/packages.Load #63
+	view_id="1"
+	snapshot=700
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=141.215827ms
+
+[Info  - 11:52:01 PM] 2025/05/03 23:52:01 go/packages.Load #64
+	view_id="1"
+	snapshot=700
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=129.309598ms
+
+[Info  - 11:52:02 PM] 2025/05/03 23:52:02 go/packages.Load #65
+	view_id="1"
+	snapshot=700
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[mask_of_the_tomb mask_of_the_tomb/editor mask_of_the_tomb/editor/editor mask_of_the_tomb/examples/hazards mask_of_the_tomb/examples/slamboxes mask_of_the_tomb/examples/ui mask_of_the_tomb/internal/game mask_of_the_tomb/internal/game/UI mask_of_the_tomb/internal/game/UI/display mask_of_the_tomb/internal/game/UI/fonts mask_of_the_tomb/internal/game/UI/node mask_of_the_tomb/internal/game/UI/overlay mask_of_the_tomb/internal/game/core/assetloader/assettypes mask_of_the_tomb/internal/game/player mask_of_the_tomb/internal/game/sound mask_of_the_tomb/internal/game/world]
+	packages=16
+	duration=145.632225ms
+
+[Error - 11:52:03 PM] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 11:52:04 PM] 2025/05/03 23:52:04 go/packages.Load #68
+	view_id="1"
+	snapshot=702
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=91.187865ms
+
+[Info  - 11:52:04 PM] 2025/05/03 23:52:04 go/packages.Load #69
+	view_id="1"
+	snapshot=702
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=82.289481ms
+
+[Info  - 11:52:04 PM] 2025/05/03 23:52:04 go/packages.Load #70
+	view_id="1"
+	snapshot=703
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=83.464841ms
+
+[Error - 11:52:04 PM] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Error - 11:52:04 PM] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 11:52:04 PM] 2025/05/03 23:52:04 go/packages.Load #74
+	view_id="1"
+	snapshot=705
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=83.269873ms
+
+[Info  - 11:52:04 PM] 2025/05/03 23:52:04 go/packages.Load #75
+	view_id="1"
+	snapshot=705
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=75.231299ms
+
+[Info  - 11:52:04 PM] 2025/05/03 23:52:04 go/packages.Load #76
+	view_id="1"
+	snapshot=706
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=81.887122ms
+
+[Info  - 11:52:04 PM] 2025/05/03 23:52:04 go/packages.Load #77
+	view_id="1"
+	snapshot=706
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=72.205337ms
+
+[Info  - 11:52:04 PM] 2025/05/03 23:52:04 go/packages.Load #78
+	view_id="1"
+	snapshot=707
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=69.972222ms
+
+[Info  - 11:52:04 PM] 2025/05/03 23:52:04 go/packages.Load #79
+	view_id="1"
+	snapshot=707
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=72.414932ms
+
+[Info  - 11:52:05 PM] 2025/05/03 23:52:05 go/packages.Load #80
+	view_id="1"
+	snapshot=708
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=75.70267ms
+
+[Error - 11:52:05 PM] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 11:52:05 PM] 2025/05/03 23:52:05 go/packages.Load #83
+	view_id="1"
+	snapshot=710
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=70.691765ms
+
+[Info  - 11:52:05 PM] 2025/05/03 23:52:05 go/packages.Load #84
+	view_id="1"
+	snapshot=711
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=76.920513ms
+
+[Error - 11:52:05 PM] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 11:52:05 PM] 2025/05/03 23:52:05 go/packages.Load #86
+	view_id="1"
+	snapshot=712
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=76.611961ms
+
+[Error - 11:52:05 PM] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 11:52:05 PM] 2025/05/03 23:52:05 go/packages.Load #88
+	view_id="1"
+	snapshot=713
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=70.396312ms
+
+[Info  - 11:52:05 PM] 2025/05/03 23:52:05 go/packages.Load #89
+	view_id="1"
+	snapshot=713
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=72.920173ms
+
+[Info  - 11:52:05 PM] 2025/05/03 23:52:05 go/packages.Load #90
+	view_id="1"
+	snapshot=714
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=73.658508ms
+
+[Info  - 11:52:05 PM] 2025/05/03 23:52:05 go/packages.Load #91
+	view_id="1"
+	snapshot=714
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=67.140189ms
+
+[Info  - 11:52:05 PM] 2025/05/03 23:52:05 go/packages.Load #92
+	view_id="1"
+	snapshot=715
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=73.474832ms
+
+[Error - 11:52:05 PM] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 11:52:06 PM] 2025/05/03 23:52:06 go/packages.Load #94
+	view_id="1"
+	snapshot=716
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=72.050609ms
+
+[Error - 11:52:06 PM] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 11:52:06 PM] 2025/05/03 23:52:06 go/packages.Load #96
+	view_id="1"
+	snapshot=717
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=70.288319ms
+
+[Error - 11:52:06 PM] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 11:52:06 PM] 2025/05/03 23:52:06 go/packages.Load #98
+	view_id="1"
+	snapshot=718
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=73.855395ms
+
+[Info  - 11:52:06 PM] 2025/05/03 23:52:06 go/packages.Load #99
+	view_id="1"
+	snapshot=718
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=72.062141ms
+
+[Info  - 11:52:07 PM] 2025/05/03 23:52:07 go/packages.Load #100
+	view_id="1"
+	snapshot=718
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[mask_of_the_tomb mask_of_the_tomb/editor mask_of_the_tomb/editor/editor mask_of_the_tomb/examples/hazards mask_of_the_tomb/examples/slamboxes mask_of_the_tomb/examples/ui mask_of_the_tomb/internal/game mask_of_the_tomb/internal/game/UI mask_of_the_tomb/internal/game/UI/display mask_of_the_tomb/internal/game/UI/fonts mask_of_the_tomb/internal/game/UI/node mask_of_the_tomb/internal/game/UI/overlay mask_of_the_tomb/internal/game/core/assetloader/assettypes mask_of_the_tomb/internal/game/player mask_of_the_tomb/internal/game/sound mask_of_the_tomb/internal/game/world]
+	packages=16
+	duration=194.724619ms
+
+[Info  - 11:52:08 PM] 2025/05/03 23:52:08 go/packages.Load #101
+	view_id="1"
+	snapshot=719
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=73.339119ms
+
+[Info  - 11:52:08 PM] 2025/05/03 23:52:08 go/packages.Load #102
+	view_id="1"
+	snapshot=719
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=74.975979ms
+
+[Info  - 11:52:08 PM] 2025/05/03 23:52:08 go/packages.Load #103
+	view_id="1"
+	snapshot=720
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=71.572344ms
+
+[Error - 11:52:08 PM] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 11:52:08 PM] 2025/05/03 23:52:08 go/packages.Load #105
+	view_id="1"
+	snapshot=721
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=96.661528ms
+
+[Info  - 11:52:08 PM] 2025/05/03 23:52:08 go/packages.Load #106
+	view_id="1"
+	snapshot=721
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=79.073893ms
+
+[Info  - 11:52:08 PM] 2025/05/03 23:52:08 go/packages.Load #107
+	view_id="1"
+	snapshot=722
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=76.940495ms
+
+[Info  - 11:52:08 PM] 2025/05/03 23:52:08 go/packages.Load #108
+	view_id="1"
+	snapshot=722
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=71.037402ms
+
+[Info  - 11:52:08 PM] 2025/05/03 23:52:08 go/packages.Load #109
+	view_id="1"
+	snapshot=723
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=70.921592ms
+
+[Info  - 11:52:08 PM] 2025/05/03 23:52:08 go/packages.Load #110
+	view_id="1"
+	snapshot=723
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=68.053891ms
+
+[Info  - 11:52:08 PM] 2025/05/03 23:52:08 go/packages.Load #111
+	view_id="1"
+	snapshot=724
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=72.317255ms
+
+[Error - 11:52:08 PM] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 11:52:08 PM] 2025/05/03 23:52:08 go/packages.Load #113
+	view_id="1"
+	snapshot=725
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=64.697231ms
+
+[Info  - 11:52:08 PM] 2025/05/03 23:52:08 go/packages.Load #114
+	view_id="1"
+	snapshot=725
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=69.92344ms
+
+[Info  - 11:52:09 PM] 2025/05/03 23:52:09 go/packages.Load #115
+	view_id="1"
+	snapshot=726
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=70.50137ms
+
+[Error - 11:52:09 PM] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 11:52:09 PM] 2025/05/03 23:52:09 go/packages.Load #117
+	view_id="1"
+	snapshot=727
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=93.722327ms
+
+[Info  - 11:52:09 PM] 2025/05/03 23:52:09 go/packages.Load #118
+	view_id="1"
+	snapshot=727
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/assets/assets.go]
+	packages=1
+	duration=88.912866ms
+
+[Info  - 11:52:10 PM] 2025/05/03 23:52:10 go/packages.Load #119
+	view_id="1"
+	snapshot=727
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[mask_of_the_tomb mask_of_the_tomb/editor mask_of_the_tomb/editor/editor mask_of_the_tomb/examples/hazards mask_of_the_tomb/examples/slamboxes mask_of_the_tomb/examples/ui mask_of_the_tomb/internal/game mask_of_the_tomb/internal/game/UI mask_of_the_tomb/internal/game/UI/display mask_of_the_tomb/internal/game/UI/fonts mask_of_the_tomb/internal/game/UI/node mask_of_the_tomb/internal/game/UI/overlay mask_of_the_tomb/internal/game/core/assetloader/assettypes mask_of_the_tomb/internal/game/player mask_of_the_tomb/internal/game/sound mask_of_the_tomb/internal/game/world]
+	packages=16
+	duration=162.987667ms
+
+[Info  - 11:52:40 PM] 2025/05/03 23:52:40 background imports cache refresh starting
+
+[Info  - 11:52:40 PM] 2025/05/03 23:52:40 background refresh finished after 5.553668ms
+
+[Info  - 11:53:20 PM] 2025/05/03 23:53:20 background imports cache refresh starting
+
+[Info  - 11:53:20 PM] 2025/05/03 23:53:20 background refresh finished after 5.905884ms
+
+[Info  - 11:53:59 PM] 2025/05/03 23:53:59 background imports cache refresh starting
+
+[Info  - 11:53:59 PM] 2025/05/03 23:53:59 background refresh finished after 4.519492ms
+
+[Info  - 11:54:31 PM] 2025/05/03 23:54:31 background imports cache refresh starting
+
+[Info  - 11:54:31 PM] 2025/05/03 23:54:31 background refresh finished after 6.491687ms
+
+[Info  - 11:55:08 PM] 2025/05/03 23:55:08 background imports cache refresh starting
+
+[Info  - 11:55:08 PM] 2025/05/03 23:55:08 background refresh finished after 6.0885ms
+
+[Info  - 11:55:38 PM] 2025/05/03 23:55:38 background imports cache refresh starting
+
+[Info  - 11:55:38 PM] 2025/05/03 23:55:38 background refresh finished after 5.253629ms
+
+[Info  - 11:56:08 PM] 2025/05/03 23:56:08 background imports cache refresh starting
+
+[Info  - 11:56:08 PM] 2025/05/03 23:56:08 background refresh finished after 5.556619ms
+
+[Info  - 11:56:46 PM] 2025/05/03 23:56:46 background imports cache refresh starting
+
+[Info  - 11:56:46 PM] 2025/05/03 23:56:46 background refresh finished after 8.023301ms
+
+[Info  - 11:58:04 PM] 2025/05/03 23:58:04 background imports cache refresh starting
+
+[Info  - 11:58:04 PM] 2025/05/03 23:58:04 background refresh finished after 6.301039ms
+
+[Info  - 11:58:37 PM] 2025/05/03 23:58:37 background imports cache refresh starting
+
+[Info  - 11:58:37 PM] 2025/05/03 23:58:37 background refresh finished after 6.637287ms
+
+[Info  - 11:59:08 PM] 2025/05/03 23:59:08 background imports cache refresh starting
+
+[Info  - 11:59:08 PM] 2025/05/03 23:59:08 background refresh finished after 3.872502ms
+
+[Info  - 12:00:15 AM] 2025/05/04 00:00:15 background imports cache refresh starting
+
+[Info  - 12:00:15 AM] 2025/05/04 00:00:15 background refresh finished after 3.51314ms
+
+[Info  - 12:00:56 AM] 2025/05/04 00:00:56 background imports cache refresh starting
+
+[Info  - 12:00:56 AM] 2025/05/04 00:00:56 background refresh finished after 5.966048ms
+
+[Info  - 12:01:39 AM] 2025/05/04 00:01:39 background imports cache refresh starting
+
+[Info  - 12:01:39 AM] 2025/05/04 00:01:39 background refresh finished after 3.704872ms
+
+[Info  - 12:02:44 AM] 2025/05/04 00:02:44 background imports cache refresh starting
+
+[Info  - 12:02:44 AM] 2025/05/04 00:02:44 background refresh finished after 5.191371ms
+
+[Error - 12:22:00 AM] 2025/05/04 00:22:00 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/world/level.go:68:27: expected type argument list (and 5 more errors)
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/world/level.go"
+
+[Error - 12:22:01 AM] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 12:22:01 AM] 2025/05/04 00:22:01 go/packages.Load #125
+	view_id="1"
+	snapshot=1141
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/world/level.go]
+	packages=1
+	duration=178.977856ms
+
+[Info  - 12:22:01 AM] 2025/05/04 00:22:01 go/packages.Load #124
+	view_id="1"
+	snapshot=1141
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/world/level.go]
+	packages=1
+	duration=186.88737ms
+
+[Info  - 12:22:04 AM] 2025/05/04 00:22:04 background imports cache refresh starting
+
+[Info  - 12:22:04 AM] 2025/05/04 00:22:04 background refresh finished after 5.480781ms
+
+[Info  - 12:22:04 AM] 2025/05/04 00:22:04 go/packages.Load #126
+	view_id="1"
+	snapshot=1146
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[mask_of_the_tomb mask_of_the_tomb/editor mask_of_the_tomb/examples/hazards mask_of_the_tomb/examples/slamboxes mask_of_the_tomb/examples/ui mask_of_the_tomb/internal/game]
+	packages=6
+	duration=156.776808ms
+
+[Info  - 12:22:35 AM] 2025/05/04 00:22:35 background imports cache refresh starting
+
+[Info  - 12:22:35 AM] 2025/05/04 00:22:35 background refresh finished after 6.55707ms
+
+[Info  - 12:23:22 AM] 2025/05/04 00:23:22 background imports cache refresh starting
+
+[Info  - 12:23:22 AM] 2025/05/04 00:23:22 background refresh finished after 5.254885ms
+
+[Info  - 12:24:01 AM] 2025/05/04 00:24:01 background imports cache refresh starting
+
+[Info  - 12:24:01 AM] 2025/05/04 00:24:01 background refresh finished after 4.527205ms
+
+[Info  - 12:24:33 AM] 2025/05/04 00:24:33 background imports cache refresh starting
+
+[Info  - 12:24:33 AM] 2025/05/04 00:24:33 background refresh finished after 4.742621ms
+
+[Info  - 12:25:05 AM] 2025/05/04 00:25:05 background imports cache refresh starting
+
+[Info  - 12:25:05 AM] 2025/05/04 00:25:05 background refresh finished after 6.265785ms
+
+[Info  - 12:29:22 AM] 2025/05/04 00:29:22 background imports cache refresh starting
+
+[Info  - 12:29:22 AM] 2025/05/04 00:29:22 background refresh finished after 5.454498ms
+
+[Error - 12:30:39 AM] 2025/05/04 00:30:39 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/world/level.go:89:19: expected ';', found ':='
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/world/level.go"
+
+[Error - 12:30:39 AM] Request textDocument/formatting failed.
+  Message: 89:19: expected ';', found ':='
+  Code: 0 
+[Info  - 12:30:57 AM] 2025/05/04 00:30:57 background imports cache refresh starting
+
+[Info  - 12:30:57 AM] 2025/05/04 00:30:57 background refresh finished after 4.528444ms
+
+[Error - 12:31:05 AM] 2025/05/04 00:31:05 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/world/level.go:54:10: expected type, found newline
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/world/level.go"
+
+[Error - 12:31:05 AM] 2025/05/04 00:31:05 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/world/level.go:54:13: expected type, found newline
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/world/level.go"
+
+[Info  - 12:31:10 AM] 2025/05/04 00:31:10 go/packages.Load #128
+	view_id="1"
+	snapshot=1282
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/world/level.go]
+	packages=1
+	duration=208.360309ms
+
+[Info  - 12:31:10 AM] 2025/05/04 00:31:10 go/packages.Load #129
+	view_id="1"
+	snapshot=1282
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/world/level.go]
+	packages=1
+	duration=201.991477ms
+
+[Info  - 12:31:15 AM] 2025/05/04 00:31:15 go/packages.Load #130
+	view_id="1"
+	snapshot=1295
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[mask_of_the_tomb mask_of_the_tomb/editor mask_of_the_tomb/examples/hazards mask_of_the_tomb/examples/slamboxes mask_of_the_tomb/examples/ui mask_of_the_tomb/internal/game]
+	packages=6
+	duration=158.366137ms
+
+[Info  - 12:31:38 AM] 2025/05/04 00:31:38 background imports cache refresh starting
+
+[Info  - 12:31:38 AM] 2025/05/04 00:31:38 background refresh finished after 4.084517ms
+
+[Info  - 12:32:09 AM] 2025/05/04 00:32:09 background imports cache refresh starting
+
+[Info  - 12:32:09 AM] 2025/05/04 00:32:09 background refresh finished after 4.513388ms
+
+[Info  - 12:32:46 AM] 2025/05/04 00:32:46 background imports cache refresh starting
+
+[Info  - 12:32:46 AM] 2025/05/04 00:32:46 background refresh finished after 3.860805ms
+
+[Info  - 12:33:30 AM] 2025/05/04 00:33:30 background imports cache refresh starting
+
+[Info  - 12:33:30 AM] 2025/05/04 00:33:30 background refresh finished after 4.488497ms
+
+[Info  - 12:36:28 AM] 2025/05/04 00:36:28 background imports cache refresh starting
+
+[Info  - 12:36:28 AM] 2025/05/04 00:36:28 background refresh finished after 6.119487ms
+
+[Info  - 12:37:09 AM] 2025/05/04 00:37:09 background imports cache refresh starting
+
+[Info  - 12:37:09 AM] 2025/05/04 00:37:09 background refresh finished after 7.544207ms
+
+[Info  - 12:37:55 AM] 2025/05/04 00:37:55 background imports cache refresh starting
+
+[Info  - 12:37:55 AM] 2025/05/04 00:37:55 background refresh finished after 5.175797ms
+
+[Info  - 12:38:30 AM] 2025/05/04 00:38:30 background imports cache refresh starting
+
+[Info  - 12:38:30 AM] 2025/05/04 00:38:30 background refresh finished after 5.803196ms
+
+[Info  - 12:39:04 AM] 2025/05/04 00:39:04 background imports cache refresh starting
+
+[Info  - 12:39:04 AM] 2025/05/04 00:39:04 background refresh finished after 5.446092ms
+
+[Info  - 12:39:37 AM] 2025/05/04 00:39:37 background imports cache refresh starting
+
+[Info  - 12:39:37 AM] 2025/05/04 00:39:37 background refresh finished after 4.72273ms
+
+[Error - 12:39:44 AM] 2025/05/04 00:39:44 no completions found: getting file file:///home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go for Completion: context canceled (package completions: context canceled)
+	position=44:2
+
+[Info  - 12:40:15 AM] 2025/05/04 00:40:15 background imports cache refresh starting
+
+[Info  - 12:40:15 AM] 2025/05/04 00:40:15 background refresh finished after 5.372875ms
+
+[Info  - 12:41:39 AM] 2025/05/04 00:41:39 background imports cache refresh starting
+
+[Info  - 12:41:39 AM] 2025/05/04 00:41:39 background refresh finished after 5.599157ms
+
+[Info  - 12:44:01 AM] 2025/05/04 00:44:01 background imports cache refresh starting
+
+[Info  - 12:44:01 AM] 2025/05/04 00:44:01 background refresh finished after 4.368697ms
+
+[Info  - 12:44:31 AM] 2025/05/04 00:44:31 background imports cache refresh starting
+
+[Info  - 12:44:31 AM] 2025/05/04 00:44:31 background refresh finished after 5.513143ms
+
+[Info  - 12:45:02 AM] 2025/05/04 00:45:02 background imports cache refresh starting
+
+[Info  - 12:45:02 AM] 2025/05/04 00:45:02 background refresh finished after 4.134114ms
+
+[Info  - 12:45:34 AM] 2025/05/04 00:45:34 background imports cache refresh starting
+
+[Info  - 12:45:34 AM] 2025/05/04 00:45:34 background refresh finished after 4.724012ms
+
+[Info  - 12:46:06 AM] 2025/05/04 00:46:06 background imports cache refresh starting
+
+[Info  - 12:46:06 AM] 2025/05/04 00:46:06 background refresh finished after 4.328541ms
+
+[Info  - 12:46:36 AM] 2025/05/04 00:46:36 background imports cache refresh starting
+
+[Info  - 12:46:36 AM] 2025/05/04 00:46:36 background refresh finished after 4.783894ms
+
+[Info  - 12:47:08 AM] 2025/05/04 00:47:08 background imports cache refresh starting
+
+[Info  - 12:47:08 AM] 2025/05/04 00:47:08 background refresh finished after 5.255359ms
+
+[Error - 12:47:43 AM] 2025/05/04 00:47:43 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go:45:24: missing ',' before newline in argument list (and 11 more errors)
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go"
+
+[Info  - 12:47:45 AM] 2025/05/04 00:47:45 background imports cache refresh starting
+
+[Info  - 12:47:45 AM] 2025/05/04 00:47:45 background refresh finished after 4.137008ms
+
+[Error - 12:47:53 AM] 2025/05/04 00:47:53 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go:46:17: missing ',' before newline in argument list (and 11 more errors)
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go"
+
+[Error - 12:47:55 AM] 2025/05/04 00:47:55 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go:46:22: missing ',' before newline in argument list (and 11 more errors)
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go"
+
+[Error - 12:48:02 AM] 2025/05/04 00:48:02 signature help failed: cannot get type for Fun *ast.Ident (f)
+	position=45:10
+
+[Error - 12:48:05 AM] 2025/05/04 00:48:05 signature help failed: cannot get type for Fun *ast.Ident (fl)
+	position=45:23
+
+[Error - 12:48:09 AM] 2025/05/04 00:48:09 signature help failed: cannot get type for Fun *ast.Ident (fl)
+	position=45:35
+
+[Info  - 12:48:17 AM] 2025/05/04 00:48:17 background imports cache refresh starting
+
+[Info  - 12:48:17 AM] 2025/05/04 00:48:17 background refresh finished after 4.53879ms
+
+[Info  - 12:48:47 AM] 2025/05/04 00:48:47 background imports cache refresh starting
+
+[Info  - 12:48:47 AM] 2025/05/04 00:48:47 background refresh finished after 4.86608ms
+
+[Info  - 12:49:30 AM] 2025/05/04 00:49:30 background imports cache refresh starting
+
+[Info  - 12:49:30 AM] 2025/05/04 00:49:30 background refresh finished after 4.658081ms
+
+[Info  - 12:50:02 AM] 2025/05/04 00:50:02 background imports cache refresh starting
+
+[Info  - 12:50:02 AM] 2025/05/04 00:50:02 background refresh finished after 5.711818ms
+
+[Error - 12:50:23 AM] 2025/05/04 00:50:23 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particlesystem.go:137:9: missing ',' before newline in composite literal
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particlesystem.go"
+
+[Error - 12:50:24 AM] 2025/05/04 00:50:24 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particlesystem.go:137:11: missing ',' before newline in composite literal
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particlesystem.go"
+
+[Error - 12:50:28 AM] 2025/05/04 00:50:28 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particlesystem.go:137:20: missing ',' before newline in composite literal
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particlesystem.go"
+
+[Info  - 12:50:32 AM] 2025/05/04 00:50:32 background imports cache refresh starting
+
+[Info  - 12:50:32 AM] 2025/05/04 00:50:32 background refresh finished after 4.191475ms
+
+[Info  - 12:51:04 AM] 2025/05/04 00:51:04 background imports cache refresh starting
+
+[Info  - 12:51:04 AM] 2025/05/04 00:51:04 background refresh finished after 5.125303ms
+
+[Info  - 12:51:35 AM] 2025/05/04 00:51:35 background imports cache refresh starting
+
+[Info  - 12:51:35 AM] 2025/05/04 00:51:35 background refresh finished after 4.980374ms
+
+[Info  - 12:52:06 AM] 2025/05/04 00:52:06 background imports cache refresh starting
+
+[Info  - 12:52:06 AM] 2025/05/04 00:52:06 background refresh finished after 3.720363ms
+
+[Info  - 12:52:36 AM] 2025/05/04 00:52:36 background imports cache refresh starting
+
+[Info  - 12:52:36 AM] 2025/05/04 00:52:36 background refresh finished after 4.037576ms
+
+[Error - 12:52:36 AM] 2025/05/04 00:52:36 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go:47:49: expected operand, found ',' (and 5 more errors)
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go"
+
+[Info  - 12:53:07 AM] 2025/05/04 00:53:07 background imports cache refresh starting
+
+[Info  - 12:53:07 AM] 2025/05/04 00:53:07 background refresh finished after 4.231841ms
+
+[Error - 12:53:17 AM] 2025/05/04 00:53:17 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go:51:18: expected operand, found ',' (and 5 more errors)
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go"
+
+[Info  - 12:53:18 AM] 2025/05/04 00:53:18 go/packages.Load #131
+	view_id="1"
+	snapshot=2123
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go]
+	packages=1
+	duration=192.973791ms
+
+[Info  - 12:53:18 AM] 2025/05/04 00:53:18 go/packages.Load #132
+	view_id="1"
+	snapshot=2123
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go]
+	packages=1
+	duration=194.359954ms
+
+[Info  - 12:53:20 AM] 2025/05/04 00:53:20 go/packages.Load #133
+	view_id="1"
+	snapshot=2125
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[mask_of_the_tomb mask_of_the_tomb/editor mask_of_the_tomb/editor/editor mask_of_the_tomb/editor/fileio mask_of_the_tomb/examples/hazards mask_of_the_tomb/examples/slamboxes mask_of_the_tomb/examples/ui mask_of_the_tomb/internal/game mask_of_the_tomb/internal/game/UI mask_of_the_tomb/internal/game/UI/display mask_of_the_tomb/internal/game/UI/node mask_of_the_tomb/internal/game/core/assetloader/assettypes mask_of_the_tomb/internal/game/player mask_of_the_tomb/internal/game/world]
+	packages=14
+	duration=169.896737ms
+
+[Info  - 12:53:38 AM] 2025/05/04 00:53:38 background imports cache refresh starting
+
+[Info  - 12:53:38 AM] 2025/05/04 00:53:38 background refresh finished after 5.603658ms
+
+[Info  - 12:54:16 AM] 2025/05/04 00:54:16 background imports cache refresh starting
+
+[Info  - 12:54:16 AM] 2025/05/04 00:54:16 background refresh finished after 4.603405ms
+
+[Info  - 12:54:46 AM] 2025/05/04 00:54:46 background imports cache refresh starting
+
+[Info  - 12:54:46 AM] 2025/05/04 00:54:46 background refresh finished after 3.916496ms
+
+[Info  - 12:55:17 AM] 2025/05/04 00:55:17 background imports cache refresh starting
+
+[Info  - 12:55:17 AM] 2025/05/04 00:55:17 background refresh finished after 4.332786ms
+
+[Info  - 12:55:50 AM] 2025/05/04 00:55:50 background imports cache refresh starting
+
+[Info  - 12:55:50 AM] 2025/05/04 00:55:50 background refresh finished after 5.405203ms
+
+[Info  - 12:56:21 AM] 2025/05/04 00:56:21 background imports cache refresh starting
+
+[Info  - 12:56:21 AM] 2025/05/04 00:56:21 background refresh finished after 4.243093ms
+
+[Info  - 12:56:56 AM] 2025/05/04 00:56:56 background imports cache refresh starting
+
+[Info  - 12:56:56 AM] 2025/05/04 00:56:56 background refresh finished after 6.104082ms
+
+[Info  - 12:58:06 AM] 2025/05/04 00:58:06 background imports cache refresh starting
+
+[Info  - 12:58:06 AM] 2025/05/04 00:58:06 background refresh finished after 4.136818ms
+
+[Info  - 12:58:38 AM] 2025/05/04 00:58:38 background imports cache refresh starting
+
+[Info  - 12:58:38 AM] 2025/05/04 00:58:38 background refresh finished after 5.084566ms
+
+[Info  - 12:59:26 AM] 2025/05/04 00:59:26 background imports cache refresh starting
+
+[Info  - 12:59:26 AM] 2025/05/04 00:59:26 background refresh finished after 5.752496ms
+
+[Info  - 12:59:59 AM] 2025/05/04 00:59:59 background imports cache refresh starting
+
+[Info  - 12:59:59 AM] 2025/05/04 00:59:59 background refresh finished after 4.281605ms
+
+[Info  - 1:00:29 AM] 2025/05/04 01:00:29 background imports cache refresh starting
+
+[Info  - 1:00:29 AM] 2025/05/04 01:00:29 background refresh finished after 4.191173ms
+
+[Info  - 1:01:05 AM] 2025/05/04 01:01:05 background imports cache refresh starting
+
+[Info  - 1:01:05 AM] 2025/05/04 01:01:05 background refresh finished after 5.660767ms
+
+[Info  - 1:01:43 AM] 2025/05/04 01:01:43 background imports cache refresh starting
+
+[Info  - 1:01:43 AM] 2025/05/04 01:01:43 background refresh finished after 4.138028ms
+
+[Info  - 1:02:15 AM] 2025/05/04 01:02:15 background imports cache refresh starting
+
+[Info  - 1:02:15 AM] 2025/05/04 01:02:15 background refresh finished after 4.175967ms
+
+[Info  - 1:02:46 AM] 2025/05/04 01:02:46 background imports cache refresh starting
+
+[Info  - 1:02:46 AM] 2025/05/04 01:02:46 background refresh finished after 4.343775ms
+
+[Info  - 1:03:17 AM] 2025/05/04 01:03:17 background imports cache refresh starting
+
+[Info  - 1:03:17 AM] 2025/05/04 01:03:17 background refresh finished after 5.255789ms
+
+[Info  - 1:03:55 AM] 2025/05/04 01:03:55 background imports cache refresh starting
+
+[Info  - 1:03:55 AM] 2025/05/04 01:03:55 background refresh finished after 5.610054ms
+
+[Info  - 1:04:26 AM] 2025/05/04 01:04:26 background imports cache refresh starting
+
+[Info  - 1:04:26 AM] 2025/05/04 01:04:26 background refresh finished after 4.497669ms
+
+[Error - 1:04:51 AM] 2025/05/04 01:04:51 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go:54:54: expected '==', found '='
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go"
+
+[Error - 1:04:51 AM] Request textDocument/formatting failed.
+  Message: 54:54: expected '==', found '='
+  Code: 0 
+[Error - 1:04:52 AM] 2025/05/04 01:04:52 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go:54:54: expected '==', found '='
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go"
+
+[Error - 1:04:54 AM] 2025/05/04 01:04:54 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go:54:54: missing ',' in argument list (and 6 more errors)
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go"
+
+[Info  - 1:04:59 AM] 2025/05/04 01:04:59 background imports cache refresh starting
+
+[Info  - 1:04:59 AM] 2025/05/04 01:04:59 background refresh finished after 4.742362ms
+
+[Info  - 1:05:38 AM] 2025/05/04 01:05:38 background imports cache refresh starting
+
+[Info  - 1:05:38 AM] 2025/05/04 01:05:38 background refresh finished after 4.400077ms
+
+[Info  - 1:06:19 AM] 2025/05/04 01:06:19 background imports cache refresh starting
+
+[Info  - 1:06:19 AM] 2025/05/04 01:06:19 background refresh finished after 4.340169ms
+
+[Info  - 1:06:53 AM] 2025/05/04 01:06:53 background imports cache refresh starting
+
+[Info  - 1:06:53 AM] 2025/05/04 01:06:53 background refresh finished after 5.743981ms
+
+[Error - 1:06:55 AM] 2025/05/04 01:06:55 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go:49:40: expected operand, found ',' (and 5 more errors)
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go"
+
+[Error - 1:07:22 AM] 2025/05/04 01:07:22 signature help failed: cannot get type for Fun *ast.SelectorExpr (&{fmt Println})
+	position=49:13
+
+[Error - 1:07:24 AM] 2025/05/04 01:07:24 signature help failed: cannot get type for Fun *ast.SelectorExpr (&{fmt Println})
+	position=49:21
+
+[Info  - 1:07:25 AM] 2025/05/04 01:07:25 background imports cache refresh starting
+
+[Info  - 1:07:25 AM] 2025/05/04 01:07:25 background refresh finished after 5.152915ms
+
+[Info  - 1:07:26 AM] 2025/05/04 01:07:26 go/packages.Load #134
+	view_id="1"
+	snapshot=2886
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go]
+	packages=1
+	duration=203.515442ms
+
+[Info  - 1:07:26 AM] 2025/05/04 01:07:26 go/packages.Load #135
+	view_id="1"
+	snapshot=2886
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go]
+	packages=1
+	duration=212.042007ms
+
+[Info  - 1:07:27 AM] 2025/05/04 01:07:27 go/packages.Load #136
+	view_id="1"
+	snapshot=2888
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[mask_of_the_tomb mask_of_the_tomb/editor mask_of_the_tomb/editor/editor mask_of_the_tomb/editor/fileio mask_of_the_tomb/examples/hazards mask_of_the_tomb/examples/slamboxes mask_of_the_tomb/examples/ui mask_of_the_tomb/internal/game mask_of_the_tomb/internal/game/UI mask_of_the_tomb/internal/game/UI/display mask_of_the_tomb/internal/game/UI/node mask_of_the_tomb/internal/game/core/assetloader/assettypes mask_of_the_tomb/internal/game/player mask_of_the_tomb/internal/game/world]
+	packages=14
+	duration=206.048986ms
+
+[Info  - 1:07:55 AM] 2025/05/04 01:07:55 background imports cache refresh starting
+
+[Info  - 1:07:55 AM] 2025/05/04 01:07:55 background refresh finished after 4.579131ms
+
+[Error - 1:08:01 AM] 2025/05/04 01:08:01 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go:50:47: expected operand, found ',' (and 5 more errors)
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go"
+
+[Error - 1:08:04 AM] 2025/05/04 01:08:04 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go:50:63: expected operand, found ')' (and 5 more errors)
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go"
+
+[Error - 1:08:26 AM] 2025/05/04 01:08:26 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go:51:21: expected operand, found ',' (and 5 more errors)
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go"
+
+[Error - 1:08:27 AM] 2025/05/04 01:08:27 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go:51:37: expected operand, found ')' (and 5 more errors)
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go"
+
+[Info  - 1:08:31 AM] 2025/05/04 01:08:31 background imports cache refresh starting
+
+[Info  - 1:08:31 AM] 2025/05/04 01:08:31 background refresh finished after 3.525508ms
+
+[Info  - 1:09:00 AM] 2025/05/04 01:09:00 go/packages.Load #137
+	view_id="1"
+	snapshot=2951
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particlesystem.go]
+	packages=1
+	duration=231.156269ms
+
+[Info  - 1:09:00 AM] 2025/05/04 01:09:00 go/packages.Load #138
+	view_id="1"
+	snapshot=2951
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particlesystem.go]
+	packages=1
+	duration=216.060451ms
+
+[Info  - 1:09:01 AM] 2025/05/04 01:09:01 go/packages.Load #139
+	view_id="1"
+	snapshot=2953
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[mask_of_the_tomb mask_of_the_tomb/editor mask_of_the_tomb/editor/editor mask_of_the_tomb/editor/fileio mask_of_the_tomb/examples/hazards mask_of_the_tomb/examples/slamboxes mask_of_the_tomb/examples/ui mask_of_the_tomb/internal/game mask_of_the_tomb/internal/game/UI mask_of_the_tomb/internal/game/UI/display mask_of_the_tomb/internal/game/UI/node mask_of_the_tomb/internal/game/core/assetloader/assettypes mask_of_the_tomb/internal/game/player mask_of_the_tomb/internal/game/world]
+	packages=14
+	duration=187.075999ms
+
+[Info  - 1:09:14 AM] 2025/05/04 01:09:14 go/packages.Load #141
+	view_id="1"
+	snapshot=2956
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particlesystem.go]
+	packages=1
+	duration=174.246217ms
+
+[Info  - 1:09:14 AM] 2025/05/04 01:09:14 go/packages.Load #142
+	view_id="1"
+	snapshot=2956
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particlesystem.go]
+	packages=1
+	duration=175.134097ms
+
+[Info  - 1:09:14 AM] 2025/05/04 01:09:14 background imports cache refresh starting
+
+[Info  - 1:09:14 AM] 2025/05/04 01:09:14 background refresh finished after 6.4829ms
+
+[Info  - 1:09:15 AM] 2025/05/04 01:09:15 go/packages.Load #143
+	view_id="1"
+	snapshot=2957
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[mask_of_the_tomb mask_of_the_tomb/editor mask_of_the_tomb/editor/editor mask_of_the_tomb/editor/fileio mask_of_the_tomb/examples/hazards mask_of_the_tomb/examples/slamboxes mask_of_the_tomb/examples/ui mask_of_the_tomb/internal/game mask_of_the_tomb/internal/game/UI mask_of_the_tomb/internal/game/UI/display mask_of_the_tomb/internal/game/UI/node mask_of_the_tomb/internal/game/core/assetloader/assettypes mask_of_the_tomb/internal/game/player mask_of_the_tomb/internal/game/world]
+	packages=14
+	duration=162.936718ms
+
+[Info  - 1:09:48 AM] 2025/05/04 01:09:48 background imports cache refresh starting
+
+[Info  - 1:09:48 AM] 2025/05/04 01:09:48 background refresh finished after 4.904776ms
+
+[Info  - 1:10:25 AM] 2025/05/04 01:10:25 background imports cache refresh starting
+
+[Info  - 1:10:25 AM] 2025/05/04 01:10:25 background refresh finished after 4.621345ms
+
+[Info  - 1:11:03 AM] 2025/05/04 01:11:03 background imports cache refresh starting
+
+[Info  - 1:11:03 AM] 2025/05/04 01:11:03 background refresh finished after 4.720777ms
+
+[Info  - 1:11:24 AM] 2025/05/04 01:11:24 go/packages.Load #144
+	view_id="1"
+	snapshot=3012
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go]
+	packages=1
+	duration=180.757529ms
+
+[Info  - 1:11:24 AM] 2025/05/04 01:11:24 go/packages.Load #145
+	view_id="1"
+	snapshot=3012
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go]
+	packages=1
+	duration=175.878704ms
+
+[Error - 1:11:24 AM] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 1:11:27 AM] 2025/05/04 01:11:27 go/packages.Load #146
+	view_id="1"
+	snapshot=3018
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[mask_of_the_tomb mask_of_the_tomb/editor mask_of_the_tomb/editor/editor mask_of_the_tomb/editor/fileio mask_of_the_tomb/examples/hazards mask_of_the_tomb/examples/slamboxes mask_of_the_tomb/examples/ui mask_of_the_tomb/internal/game mask_of_the_tomb/internal/game/UI mask_of_the_tomb/internal/game/UI/display mask_of_the_tomb/internal/game/UI/node mask_of_the_tomb/internal/game/core/assetloader/assettypes mask_of_the_tomb/internal/game/player mask_of_the_tomb/internal/game/world]
+	packages=14
+	duration=156.977035ms
+
+[Info  - 1:11:41 AM] 2025/05/04 01:11:41 background imports cache refresh starting
+
+[Info  - 1:11:41 AM] 2025/05/04 01:11:41 background refresh finished after 14.274503ms
+
+[Error - 1:11:42 AM] 2025/05/04 01:11:42 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go:54:48: expected operand, found ')' (and 7 more errors)
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go"
+
+[Error - 1:11:49 AM] 2025/05/04 01:11:49 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go:54:73: expected operand, found ')' (and 7 more errors)
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go"
+
+[Error - 1:11:51 AM] 2025/05/04 01:11:51 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go:54:73: expected operand, found ')' (and 7 more errors)
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go"
+
+[Error - 1:11:57 AM] 2025/05/04 01:11:57 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go:54:73: expected operand, found ')' (and 7 more errors)
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go"
+
+[Info  - 1:12:12 AM] 2025/05/04 01:12:12 background imports cache refresh starting
+
+[Info  - 1:12:12 AM] 2025/05/04 01:12:12 background refresh finished after 4.603827ms
+
+[Info  - 1:12:32 AM] 2025/05/04 01:12:32 go/packages.Load #147
+	view_id="1"
+	snapshot=3104
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go]
+	packages=1
+	duration=187.197366ms
+
+[Info  - 1:12:32 AM] 2025/05/04 01:12:32 go/packages.Load #148
+	view_id="1"
+	snapshot=3104
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go]
+	packages=1
+	duration=192.43735ms
+
+[Info  - 1:12:33 AM] 2025/05/04 01:12:33 go/packages.Load #149
+	view_id="1"
+	snapshot=3106
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/game.go]
+	packages=1
+	duration=236.228198ms
+
+[Info  - 1:12:33 AM] 2025/05/04 01:12:33 go/packages.Load #150
+	view_id="1"
+	snapshot=3106
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[mask_of_the_tomb mask_of_the_tomb/editor mask_of_the_tomb/editor/editor mask_of_the_tomb/editor/fileio mask_of_the_tomb/examples/hazards mask_of_the_tomb/examples/slamboxes mask_of_the_tomb/examples/ui mask_of_the_tomb/internal/game mask_of_the_tomb/internal/game/UI mask_of_the_tomb/internal/game/UI/display mask_of_the_tomb/internal/game/UI/node mask_of_the_tomb/internal/game/core/assetloader/assettypes mask_of_the_tomb/internal/game/player mask_of_the_tomb/internal/game/world]
+	packages=14
+	duration=216.47468ms
+
+[Error - 1:12:33 AM] Request textDocument/codeAction failed.
+  Message: context canceled
+  Code: 0 
+[Info  - 1:12:42 AM] 2025/05/04 01:12:42 background imports cache refresh starting
+
+[Info  - 1:12:42 AM] 2025/05/04 01:12:42 background refresh finished after 4.448157ms
+
+[Info  - 1:13:13 AM] 2025/05/04 01:13:13 background imports cache refresh starting
+
+[Info  - 1:13:13 AM] 2025/05/04 01:13:13 background refresh finished after 6.012793ms
+
+[Error - 1:13:26 AM] 2025/05/04 01:13:26 signature help failed: cannot get type for Fun *ast.SelectorExpr (&{fmt Println})
+	position=95:15
+
+[Info  - 1:13:29 AM] 2025/05/04 01:13:29 go/packages.Load #151
+	view_id="1"
+	snapshot=3144
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particlesystem.go]
+	packages=1
+	duration=190.979705ms
+
+[Info  - 1:13:29 AM] 2025/05/04 01:13:29 go/packages.Load #152
+	view_id="1"
+	snapshot=3144
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particlesystem.go]
+	packages=1
+	duration=173.316888ms
+
+[Info  - 1:13:30 AM] 2025/05/04 01:13:30 go/packages.Load #153
+	view_id="1"
+	snapshot=3146
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[mask_of_the_tomb mask_of_the_tomb/editor mask_of_the_tomb/editor/editor mask_of_the_tomb/editor/fileio mask_of_the_tomb/examples/hazards mask_of_the_tomb/examples/slamboxes mask_of_the_tomb/examples/ui mask_of_the_tomb/internal/game mask_of_the_tomb/internal/game/UI mask_of_the_tomb/internal/game/UI/display mask_of_the_tomb/internal/game/UI/node mask_of_the_tomb/internal/game/core/assetloader/assettypes mask_of_the_tomb/internal/game/player mask_of_the_tomb/internal/game/world]
+	packages=14
+	duration=155.009734ms
+
+[Info  - 1:13:42 AM] 2025/05/04 01:13:42 go/packages.Load #154
+	view_id="1"
+	snapshot=3148
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particlesystem.go]
+	packages=1
+	duration=188.210814ms
+
+[Info  - 1:13:42 AM] 2025/05/04 01:13:42 go/packages.Load #155
+	view_id="1"
+	snapshot=3148
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particlesystem.go]
+	packages=1
+	duration=156.063357ms
+
+[Info  - 1:13:43 AM] 2025/05/04 01:13:43 go/packages.Load #156
+	view_id="1"
+	snapshot=3150
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[mask_of_the_tomb mask_of_the_tomb/editor mask_of_the_tomb/editor/editor mask_of_the_tomb/editor/fileio mask_of_the_tomb/examples/hazards mask_of_the_tomb/examples/slamboxes mask_of_the_tomb/examples/ui mask_of_the_tomb/internal/game mask_of_the_tomb/internal/game/UI mask_of_the_tomb/internal/game/UI/display mask_of_the_tomb/internal/game/UI/node mask_of_the_tomb/internal/game/core/assetloader/assettypes mask_of_the_tomb/internal/game/player mask_of_the_tomb/internal/game/world]
+	packages=14
+	duration=162.735624ms
+
+[Info  - 1:13:44 AM] 2025/05/04 01:13:44 background imports cache refresh starting
+
+[Info  - 1:13:44 AM] 2025/05/04 01:13:44 background refresh finished after 4.647018ms
+
+[Info  - 1:14:16 AM] 2025/05/04 01:14:16 background imports cache refresh starting
+
+[Info  - 1:14:16 AM] 2025/05/04 01:14:16 background refresh finished after 3.587874ms
+
+[Info  - 1:15:02 AM] 2025/05/04 01:15:02 background imports cache refresh starting
+
+[Info  - 1:15:02 AM] 2025/05/04 01:15:02 background refresh finished after 4.749078ms
+
+[Info  - 1:15:46 AM] 2025/05/04 01:15:46 background imports cache refresh starting
+
+[Info  - 1:15:46 AM] 2025/05/04 01:15:46 background refresh finished after 5.916477ms
+
+[Info  - 1:16:31 AM] 2025/05/04 01:16:31 background imports cache refresh starting
+
+[Info  - 1:16:31 AM] 2025/05/04 01:16:31 background refresh finished after 3.729234ms
+
+[Info  - 1:17:07 AM] 2025/05/04 01:17:07 background imports cache refresh starting
+
+[Info  - 1:17:07 AM] 2025/05/04 01:17:07 background refresh finished after 4.533306ms
+
+[Info  - 1:17:37 AM] 2025/05/04 01:17:37 background imports cache refresh starting
+
+[Info  - 1:17:37 AM] 2025/05/04 01:17:37 background refresh finished after 4.930434ms
+
+[Info  - 1:18:23 AM] 2025/05/04 01:18:23 go/packages.Load #157
+	view_id="1"
+	snapshot=3296
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go]
+	packages=1
+	duration=186.962799ms
+
+[Info  - 1:18:23 AM] 2025/05/04 01:18:23 go/packages.Load #158
+	view_id="1"
+	snapshot=3296
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go]
+	packages=1
+	duration=186.315871ms
+
+[Info  - 1:18:24 AM] 2025/05/04 01:18:24 go/packages.Load #159
+	view_id="1"
+	snapshot=3298
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[mask_of_the_tomb mask_of_the_tomb/editor mask_of_the_tomb/editor/editor mask_of_the_tomb/editor/fileio mask_of_the_tomb/examples/hazards mask_of_the_tomb/examples/slamboxes mask_of_the_tomb/examples/ui mask_of_the_tomb/internal/game mask_of_the_tomb/internal/game/UI mask_of_the_tomb/internal/game/UI/display mask_of_the_tomb/internal/game/UI/node mask_of_the_tomb/internal/game/core/assetloader/assettypes mask_of_the_tomb/internal/game/player mask_of_the_tomb/internal/game/world]
+	packages=14
+	duration=164.45151ms
+
+[Info  - 1:18:52 AM] 2025/05/04 01:18:52 background imports cache refresh starting
+
+[Info  - 1:18:52 AM] 2025/05/04 01:18:52 background refresh finished after 3.94848ms
+
+[Info  - 1:19:52 AM] 2025/05/04 01:19:52 background imports cache refresh starting
+
+[Info  - 1:19:52 AM] 2025/05/04 01:19:52 background refresh finished after 5.799573ms
+
+[Info  - 1:20:23 AM] 2025/05/04 01:20:23 background imports cache refresh starting
+
+[Info  - 1:20:23 AM] 2025/05/04 01:20:23 background refresh finished after 5.554534ms
+
+[Info  - 1:21:00 AM] 2025/05/04 01:21:00 background imports cache refresh starting
+
+[Info  - 1:21:00 AM] 2025/05/04 01:21:00 background refresh finished after 6.991388ms
+
+[Info  - 1:21:32 AM] 2025/05/04 01:21:32 background imports cache refresh starting
+
+[Info  - 1:21:32 AM] 2025/05/04 01:21:32 background refresh finished after 5.784322ms
+
+[Info  - 1:22:08 AM] 2025/05/04 01:22:08 background imports cache refresh starting
+
+[Info  - 1:22:08 AM] 2025/05/04 01:22:08 background refresh finished after 5.61117ms
+
+[Info  - 1:22:50 AM] 2025/05/04 01:22:50 background imports cache refresh starting
+
+[Info  - 1:22:50 AM] 2025/05/04 01:22:50 background refresh finished after 4.791329ms
+
+[Info  - 1:25:00 AM] 2025/05/04 01:25:00 background imports cache refresh starting
+
+[Info  - 1:25:00 AM] 2025/05/04 01:25:00 background refresh finished after 6.566645ms
+
+[Info  - 1:25:45 AM] 2025/05/04 01:25:45 background imports cache refresh starting
+
+[Info  - 1:25:45 AM] 2025/05/04 01:25:45 background refresh finished after 4.391276ms
+
+[Info  - 1:25:58 AM] 2025/05/04 01:25:58 go/packages.Load #161
+	view_id="1"
+	snapshot=3531
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go]
+	packages=1
+	duration=177.492774ms
+
+[Info  - 1:25:58 AM] 2025/05/04 01:25:58 go/packages.Load #162
+	view_id="1"
+	snapshot=3531
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[file=/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particle.go]
+	packages=1
+	duration=174.571852ms
+
+[Info  - 1:25:59 AM] 2025/05/04 01:25:59 go/packages.Load #163
+	view_id="1"
+	snapshot=3532
+	directory=/home/angrycompany16/gamedev/go/mask_of_the_tomb
+	query=[mask_of_the_tomb mask_of_the_tomb/editor mask_of_the_tomb/editor/editor mask_of_the_tomb/editor/fileio mask_of_the_tomb/examples/hazards mask_of_the_tomb/examples/slamboxes mask_of_the_tomb/examples/ui mask_of_the_tomb/internal/game mask_of_the_tomb/internal/game/UI mask_of_the_tomb/internal/game/UI/display mask_of_the_tomb/internal/game/UI/node mask_of_the_tomb/internal/game/core/assetloader/assettypes mask_of_the_tomb/internal/game/player mask_of_the_tomb/internal/game/world]
+	packages=14
+	duration=161.188403ms
+
+[Info  - 1:26:22 AM] 2025/05/04 01:26:22 background imports cache refresh starting
+
+[Info  - 1:26:22 AM] 2025/05/04 01:26:22 background refresh finished after 6.119646ms
+
+[Info  - 1:27:02 AM] 2025/05/04 01:27:02 background imports cache refresh starting
+
+[Info  - 1:27:02 AM] 2025/05/04 01:27:02 background refresh finished after 5.915318ms
+
+[Error - 1:27:33 AM] 2025/05/04 01:27:33 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particlesystem.go:138:9: missing ',' before newline in composite literal
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particlesystem.go"
+
+[Error - 1:27:36 AM] 2025/05/04 01:27:36 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particlesystem.go:138:24: missing ',' before newline in composite literal
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particlesystem.go"
+
+[Error - 1:27:36 AM] 2025/05/04 01:27:36 imports fixes: allImportsFixes: /home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particlesystem.go:138:24: missing ',' before newline in composite literal
+	file="/home/angrycompany16/gamedev/go/mask_of_the_tomb/internal/game/physics/particles/particlesystem.go"
+
+[Error - 1:27:36 AM] Request textDocument/formatting failed.
+  Message: 138:24: missing ',' before newline in composite literal
+  Code: 0 
+[Info  - 1:27:52 AM] 2025/05/04 01:27:52 background imports cache refresh starting
+
+[Info  - 1:27:52 AM] 2025/05/04 01:27:52 background refresh finished after 4.337694ms
+
+[Info  - 1:29:24 AM] 2025/05/04 01:29:24 background imports cache refresh starting
+
+[Info  - 1:29:24 AM] 2025/05/04 01:29:24 background refresh finished after 4.917433ms
+
+[Info  - 1:29:59 AM] 2025/05/04 01:29:59 background imports cache refresh starting
+
+[Info  - 1:29:59 AM] 2025/05/04 01:29:59 background refresh finished after 4.403363ms
+
+[Info  - 1:31:30 AM] 2025/05/04 01:31:30 background imports cache refresh starting
+
+[Info  - 1:31:30 AM] 2025/05/04 01:31:30 background refresh finished after 3.767907ms
+
+[Info  - 1:32:03 AM] 2025/05/04 01:32:03 background imports cache refresh starting
+
+[Info  - 1:32:03 AM] 2025/05/04 01:32:03 background refresh finished after 5.698418ms
+
+[Info  - 1:32:44 AM] 2025/05/04 01:32:44 background imports cache refresh starting
+
+[Info  - 1:32:44 AM] 2025/05/04 01:32:44 background refresh finished after 7.604763ms
+

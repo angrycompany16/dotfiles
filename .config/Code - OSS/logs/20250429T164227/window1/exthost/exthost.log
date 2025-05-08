@@ -1,0 +1,95 @@
+2025-04-29 16:42:29.631 [info] Extension host with pid 1602 started
+2025-04-29 16:42:29.632 [info] Skipping acquiring lock for /home/angrycompany16/.config/Code - OSS/User/workspaceStorage/b76afaa8e8fd82e090e5d5333b0487fe.
+2025-04-29 16:42:29.776 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-04-29 16:42:29.819 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: mikoz.black-py
+2025-04-29 16:42:30.298 [info] ExtensionService#_doActivateExtension mikoz.black-py, startup: false, activationEvent: 'onLanguage:python'
+2025-04-29 16:42:30.320 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-04-29 16:42:30.418 [info] ExtensionService#_doActivateExtension ms-python.pylint, startup: false, activationEvent: 'onLanguage:python'
+2025-04-29 16:42:30.493 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-04-29 16:42:30.504 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-04-29 16:42:30.580 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-04-29 16:42:30.660 [error] Activating extension ms-python.debugpy failed due to an error:
+2025-04-29 16:42:30.660 [error] Error: Extension 'ms-python.debugpy' CANNOT use API proposal: portsAttributes.
+Its package.json#enabledApiProposals-property declares:  but NOT portsAttributes.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.debugpy
+	at R (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:19265)
+	at Object.registerPortAttributesProvider (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:173:48788)
+	at t.registerDebugger (/home/angrycompany16/.vscode-oss/extensions/ms-python.debugpy-2025.6.0-linux-x64/dist/extension.js:2:846640)
+	at e.activate (/home/angrycompany16/.vscode-oss/extensions/ms-python.debugpy-2025.6.0-linux-x64/dist/extension.js:2:1098056)
+	at Uw.kb (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:115:15216)
+	at Uw.jb (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:115:14923)
+	at file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:115:13081
+	at async cw.n (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:111:13359)
+	at async cw.m (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:111:13322)
+	at async cw.l (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:111:12778)
+2025-04-29 16:42:30.698 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-04-29 16:42:30.799 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-04-29 16:42:30.860 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-04-29 16:42:30.969 [info] Eager extensions activated
+2025-04-29 16:42:31.023 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-04-29 16:42:31.026 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-04-29 16:42:31.050 [info] ExtensionService#_doActivateExtension Gruntfuggly.todo-tree, startup: false, activationEvent: 'onStartupFinished'
+2025-04-29 16:42:31.090 [info] ExtensionService#_doActivateExtension sainnhe.gruvbox-material, startup: false, activationEvent: 'onStartupFinished'
+2025-04-29 16:42:31.105 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2025-04-29 16:42:31.942 [error] Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at R (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:19265)
+	at get testResults (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:173:32518)
+	at C.activate (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:908659)
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:2457
+	at Array.map (<anonymous>)
+	at v.activateWorkspace (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:2447)
+2025-04-29 16:45:37.280 [info] Extension host terminating: renderer closed the MessagePort
+2025-04-29 16:45:37.297 [error] An error occurred when disposing the subscriptions for extension 'Gruntfuggly.todo-tree':
+2025-04-29 16:45:37.297 [error] AggregateError: Encountered errors while disposing of store
+	at pi (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:25:777)
+	at file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:115:14994
+	at file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:25:1011
+	at Object.dispose (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+	at vV.eb (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:115:11921)
+	at file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:115:9876
+	at Array.map (<anonymous>)
+	at vV.$ (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:115:9864)
+	at vV.terminate (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:115:10107)
+	at oD.terminate (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:116:1434)
+	at es (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:197:5701)
+	at MessagePortMain.<anonymous> (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:197:2249)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-04-29 16:45:37.316 [error] Error: Channel has been closed
+	at s (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:117:2431)
+	at Object.appendLine (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:117:2570)
+	at b.logTrace (/home/angrycompany16/.vscode-oss/extensions/ms-python.pylint-2024.2.0-universal/dist/extension.js:1:133368)
+	at Object.log (/home/angrycompany16/.vscode-oss/extensions/ms-python.pylint-2024.2.0-universal/dist/extension.js:1:127018)
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.pylint-2024.2.0-universal/dist/extension.js:1:83991
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.pylint-2024.2.0-universal/dist/extension.js:1:84186
+	at ie (/home/angrycompany16/.vscode-oss/extensions/ms-python.pylint-2024.2.0-universal/dist/extension.js:1:84551)
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.pylint-2024.2.0-universal/dist/extension.js:1:79335
+	at Immediate.<anonymous> (/home/angrycompany16/.vscode-oss/extensions/ms-python.pylint-2024.2.0-universal/dist/extension.js:1:79355)
+	at process.processImmediate (node:internal/timers:483:21)
+2025-04-29 16:45:37.321 [error] Error: Channel has been closed
+	at s (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:117:2431)
+	at Object.appendLine (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:117:2570)
+	at R.logOutputMessage (/usr/lib/code/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:290791)
+	at R.info (/usr/lib/code/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:290524)
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:514797)
+	at ChildProcess.emit (node:events:524:28)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-29 16:45:37.328 [error] Error: Channel has been closed
+	at s (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:117:2431)
+	at Object.appendLine (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:117:2570)
+	at P.logOutputMessage (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:2020886)
+	at P.error (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:2020777)
+	at ChildProcess.<anonymous> (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:2239102)
+	at ChildProcess.emit (node:events:524:28)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-29 16:45:39.301 [error] Error: Channel has been closed
+	at s (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:117:2431)
+	at Object.appendLine (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:117:2570)
+	at b.error (/home/angrycompany16/.vscode-oss/extensions/ms-python.pylint-2024.2.0-universal/dist/extension.js:1:132780)
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.pylint-2024.2.0-universal/dist/extension.js:1:140998
+	at async t.deactivate (/home/angrycompany16/.vscode-oss/extensions/ms-python.pylint-2024.2.0-universal/dist/extension.js:1:65053)
+	at async Promise.all (index 12)
+	at async vV.$ (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:115:9890)
+2025-04-29 16:45:39.301 [info] Extension host with pid 1602 exiting with code 0

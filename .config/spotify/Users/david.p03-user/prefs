@@ -1,0 +1,5 @@
+connect.mdns_devices="[]"
+connect.dial_devices="[{\"address\":\"192.168.2.199\",\"app_state\":\"INSTALLED\",\"created_timestamp\":1745007067,\"device_id\":\"ccf940d6-6d85-4c06-99e0-503700ce5f9e\",\"dial_location_url\":\"http://192.168.2.199:1578/\",\"display_name\":\"[LG] webOS TV UJ630V\",\"last_seen\":1745007125,\"manufacturer\":\"LG Electronics\",\"model_name\":\"LG Smart TV\",\"product_cap\":\"\",\"public_ip\":\"2a01:799:1622:5300:1ada:d9eb:f235:488d\",\"wol\":{\"all_interfaces\":false,\"delay_ms\":250,\"mac\":\"7c1c4e44f0ac\",\"port\":9,\"retries\":480}}]"
+audio.play_bitrate_non_metered_migrated=true
+app.browser.zoom-level=-50
+app.player.volume=48059

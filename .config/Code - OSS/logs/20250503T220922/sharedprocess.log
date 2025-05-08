@@ -1,0 +1,7 @@
+2025-05-03 22:25:34.024 [info] Getting Manifest... sedyh.ebitengine-kage
+2025-05-03 22:25:34.864 [info] Installing extension: sedyh.ebitengine-kage {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/angrycompany16/.vscode-oss/extensions/extensions.json","path":"/home/angrycompany16/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.99.3","date":"2025-04-16T19:59:52.773Z"}}
+2025-05-03 22:25:35.796 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2025-05-03 22:25:35.797 [info] Extension signature verification is not done: sedyh.ebitengine-kage
+2025-05-03 22:25:35.839 [info] Extracted extension to file:///home/angrycompany16/.vscode-oss/extensions/sedyh.ebitengine-kage-0.1.6-universal: sedyh.ebitengine-kage
+2025-05-03 22:25:35.845 [info] Renamed to /home/angrycompany16/.vscode-oss/extensions/sedyh.ebitengine-kage-0.1.6-universal
+2025-05-03 22:25:35.877 [info] Extension installed successfully: sedyh.ebitengine-kage vscode-userdata:/home/angrycompany16/.vscode-oss/extensions/extensions.json

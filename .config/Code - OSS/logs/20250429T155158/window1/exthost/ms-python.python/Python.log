@@ -1,0 +1,196 @@
+2025-04-29 15:52:24.714 [warning] Dir "/home/angrycompany16/ntnu/modsim/exercise11/.pixi/envs" is not watchable (directory does not exist)
+2025-04-29 15:52:24.714 [error] Unable to check if shell integration is active [Error: Extension 'ms-python.python' CANNOT use API proposal: terminalDataWriteEvent.
+Its package.json#enabledApiProposals-property declares:  but NOT terminalDataWriteEvent.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at R (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:19265)
+	at a.onDidWriteTerminalData (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:173:39305)
+	at new v (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:878107)
+	at ge (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1684812)
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688176
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688204
+	at Se (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688271)
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688751
+	at we (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688692)
+	at Pe (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688726)
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1685965
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1687570
+	at Array.reduce (<anonymous>)
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1687542
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1687824
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688204
+	at Se (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688271)
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688751
+	at we (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688692)
+	at Pe (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688726)
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1685965
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1715635
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1715656
+	at e._get (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1714669)
+	at e._getButThrowIfAsync (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1714729)
+	at e.get (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1710438)
+	at e.dynamicValue (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1700171)
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1686348
+	at Ee (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1686604)
+	at Se (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688320)
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688751
+	at we (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688692)
+	at Pe (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688726)
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1685965
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1685899
+	at Array.map (<anonymous>)
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1685870
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1687570
+	at Array.reduce (<anonymous>)
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1687542
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1687824
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688204
+	at Se (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688271)
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688751
+	at we (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688692)
+	at Pe (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688726)
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1685965
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1715635
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1715656
+	at e._get (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1714669)
+	at e._getButThrowIfAsync (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1714729)
+	at e.get (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1710438)
+	at a.get (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:536740)
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:451577
+	at async t.activateComponents (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:449857)
+	at async /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:2642626
+	at async e (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:2642158)
+	at async cw.n (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:111:13359)
+	at async cw.m (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:111:13322)
+	at async cw.l (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:111:12778)]
+2025-04-29 15:52:24.714 [info] Starting Environment refresh
+2025-04-29 15:52:24.714 [info] Starting Environment refresh
+2025-04-29 15:52:24.714 [info] > hatch env show --json
+2025-04-29 15:52:24.714 [info] cwd: .
+2025-04-29 15:52:24.721 [info] > pyenv which python
+2025-04-29 15:52:24.721 [info] cwd: .
+2025-04-29 15:52:24.756 [info] > ./.venv/bin/python -I ~/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/python_files/interpreterInfo.py
+2025-04-29 15:52:24.757 [info] Environments refresh paths discovered: 266 milliseconds
+2025-04-29 15:52:24.758 [info] Environments refresh paths discovered: 268 milliseconds
+2025-04-29 15:52:24.773 [info] > /bin/python -I ~/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/python_files/interpreterInfo.py
+2025-04-29 15:52:24.806 [info] Environments refresh finished (event): 315 milliseconds
+2025-04-29 15:52:24.807 [info] Environments refresh finished (event): 316 milliseconds
+2025-04-29 15:52:24.809 [info] Environment refresh took 318 milliseconds
+2025-04-29 15:52:24.810 [info] Environment refresh took 321 milliseconds
+2025-04-29 15:52:24.816 [info] > pyenv which python
+2025-04-29 15:52:24.816 [info] cwd: .
+2025-04-29 15:52:24.830 [error] [
+  'Failed to activate a workspace, Class name = v, completed in 341ms, has a falsy return value, Arg 1: <Uri:/home/angrycompany16/ntnu/modsim/exercise11/main.py>, Arg 2: {"started":1745934744419}, Return Value: undefined',
+  [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+  Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+   The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+  	at R (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:19265)
+  	at get testResults (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:173:32518)
+  	at C.activate (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:908659)
+  	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:2457
+  	at Array.map (<anonymous>)
+  	at v.activateWorkspace (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:2447)]
+]
+2025-04-29 15:52:24.830 [error] Failure during activation. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at R (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:19265)
+	at get testResults (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:173:32518)
+	at C.activate (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:908659)
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:2457
+	at Array.map (<anonymous>)
+	at v.activateWorkspace (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:2447)]
+2025-04-29 15:52:24.830 [error] sendStartupTelemetry() failed. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at R (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:19265)
+	at get testResults (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:173:32518)
+	at C.activate (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:908659)
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:2457
+	at Array.map (<anonymous>)
+	at v.activateWorkspace (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:2447)]
+2025-04-29 15:52:24.834 [info] Python interpreter path: ./.venv/bin/python
+2025-04-29 15:52:25.727 [info] Starting Jedi language server for exercise11.
+2025-04-29 15:52:52.034 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 15:53:07.493 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 15:53:08.251 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 15:53:10.609 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 15:55:39.555 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 15:55:50.736 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 15:55:53.254 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 15:56:06.497 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 15:56:52.441 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 15:57:51.966 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 15:58:00.147 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 15:58:51.723 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 15:59:12.459 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 15:59:19.092 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 15:59:28.122 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:00:46.040 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:00:50.453 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:01:08.198 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:01:09.087 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:01:35.546 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:01:37.854 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:01:44.882 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:01:53.488 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:02:05.294 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:02:10.923 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:02:29.047 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:02:39.921 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:03:01.568 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:03:58.173 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:04:07.069 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:04:11.390 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:04:53.738 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:05:03.946 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:05:04.415 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:05:08.588 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:05:10.551 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:08:28.947 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:08:31.890 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:11:03.770 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:11:22.226 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:11:27.729 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:11:29.378 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:11:52.227 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:12:09.415 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:12:37.794 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:12:44.124 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:12:47.154 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:12:52.964 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:13:15.130 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:13:52.349 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:14:02.901 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:14:20.832 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:15:06.658 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:15:14.541 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:15:15.136 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:15:15.984 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:15:50.457 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:15:55.605 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:15:56.942 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:16:06.937 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:16:13.551 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:16:25.568 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:16:35.297 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:16:44.924 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:16:45.608 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:16:46.746 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:16:49.195 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:16:50.539 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:16:52.266 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:17:09.863 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:20:56.791 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:22:13.924 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:24:11.598 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:24:17.199 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:24:27.924 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:24:32.597 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:24:59.940 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:25:04.004 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:25:13.291 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:29:29.512 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:30:06.036 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:30:09.366 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:30:23.200 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py
+2025-04-29 16:30:54.674 [info] Discover tests for workspace name: exercise11 - uri: /home/angrycompany16/ntnu/modsim/exercise11/main.py

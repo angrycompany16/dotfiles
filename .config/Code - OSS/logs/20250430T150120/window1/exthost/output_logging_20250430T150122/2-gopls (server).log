@@ -1,0 +1,28 @@
+[Info  - 3:01:23 PM] 2025/04/30 15:01:23 Created View (#1)
+	directory=/home/angrycompany16/ntnu/sanntidsprogrammering/TTK4145-sanntidslab
+	view_type="GoMod"
+	root_dir="file:///home/angrycompany16/ntnu/sanntidsprogrammering/TTK4145-sanntidslab"
+	go_version="go version go1.24.2 linux/amd64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:amd64 GOCACHE:/home/angrycompany16/.cache/go-build GOMODCACHE:/home/angrycompany16/go/pkg/mod GOPATH:/home/angrycompany16/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GOROOT:/usr/lib/go GoVersion:24 GoVersionOutput:go version go1.24.2 linux/amd64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 3:01:24 PM] 2025/04/30 15:01:24 go/packages.Load #1
+	view_id="1"
+	snapshot=0
+	directory=/home/angrycompany16/ntnu/sanntidsprogrammering/TTK4145-sanntidslab
+	query=[/home/angrycompany16/ntnu/sanntidsprogrammering/TTK4145-sanntidslab/... builtin]
+	packages=13
+	duration=278.561496ms
+
+[Error - 3:01:24 PM] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 3:01:53 PM] 2025/04/30 15:01:53 background imports cache refresh starting
+
+[Info  - 3:01:54 PM] 2025/04/30 15:01:54 background refresh finished after 100.851266ms
+
+[Info  - 3:59:30 PM] 2025/04/30 15:59:30 Shutdown session
+	shutdown_session=1
+

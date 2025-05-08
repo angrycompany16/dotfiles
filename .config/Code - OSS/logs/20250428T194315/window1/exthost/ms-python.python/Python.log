@@ -1,0 +1,102 @@
+2025-04-28 19:43:18.848 [warning] Dir "/home/angrycompany16/ntnu/EDK/EDK-project/project/.pixi/envs" is not watchable (directory does not exist)
+2025-04-28 19:43:18.848 [error] Unable to check if shell integration is active [Error: Extension 'ms-python.python' CANNOT use API proposal: terminalDataWriteEvent.
+Its package.json#enabledApiProposals-property declares:  but NOT terminalDataWriteEvent.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at R (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:19265)
+	at a.onDidWriteTerminalData (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:173:39305)
+	at new v (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:878107)
+	at ge (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1684812)
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688176
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688204
+	at Se (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688271)
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688751
+	at we (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688692)
+	at Pe (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688726)
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1685965
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1687570
+	at Array.reduce (<anonymous>)
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1687542
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1687824
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688204
+	at Se (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688271)
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688751
+	at we (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688692)
+	at Pe (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688726)
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1685965
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1715635
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1715656
+	at e._get (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1714669)
+	at e._getButThrowIfAsync (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1714729)
+	at e.get (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1710438)
+	at e.dynamicValue (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1700171)
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1686348
+	at Ee (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1686604)
+	at Se (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688320)
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688751
+	at we (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688692)
+	at Pe (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688726)
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1685965
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1685899
+	at Array.map (<anonymous>)
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1685870
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1687570
+	at Array.reduce (<anonymous>)
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1687542
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1687824
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688204
+	at Se (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688271)
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688751
+	at we (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688692)
+	at Pe (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688726)
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1685965
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1715635
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1715656
+	at e._get (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1714669)
+	at e._getButThrowIfAsync (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1714729)
+	at e.get (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1710438)
+	at a.get (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:536740)
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:451577
+	at async t.activateComponents (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:449857)
+	at async /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:2642626
+	at async e (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:2642158)
+	at async cw.n (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:111:13359)
+	at async cw.m (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:111:13322)
+	at async cw.l (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:111:12778)]
+2025-04-28 19:43:18.848 [info] VS Code was launched from an activated environment: '.venv', selecting it as the interpreter for workspace.
+2025-04-28 19:43:18.848 [info] Python interpreter path: ./.venv/bin/python
+2025-04-28 19:43:18.961 [info] > pyenv which python
+2025-04-28 19:43:18.961 [info] cwd: .
+2025-04-28 19:43:19.097 [error] [
+  'Failed to activate a workspace, Class name = v, completed in 498ms, has a falsy return value, Arg 1: <Uri:/home/angrycompany16/ntnu/EDK/EDK-project/project/task1.py>, Arg 2: {"started":1745862198311}, Return Value: undefined',
+  [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+  Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+   The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+  	at R (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:19265)
+  	at get testResults (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:173:32518)
+  	at C.activate (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:908659)
+  	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:2457
+  	at Array.map (<anonymous>)
+  	at v.activateWorkspace (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:2447)]
+]
+2025-04-28 19:43:19.099 [error] Failure during activation. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at R (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:19265)
+	at get testResults (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:173:32518)
+	at C.activate (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:908659)
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:2457
+	at Array.map (<anonymous>)
+	at v.activateWorkspace (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:2447)]
+2025-04-28 19:43:19.099 [error] sendStartupTelemetry() failed. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at R (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:19265)
+	at get testResults (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:173:32518)
+	at C.activate (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:908659)
+	at /home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:2457
+	at Array.map (<anonymous>)
+	at v.activateWorkspace (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:2447)]
+2025-04-28 19:43:20.090 [info] Starting Jedi language server for project.
+2025-04-28 19:43:37.589 [info] Discover tests for workspace name: project - uri: /home/angrycompany16/ntnu/EDK/EDK-project/project/task1.py
+2025-04-28 19:43:44.527 [info] Discover tests for workspace name: project - uri: /home/angrycompany16/ntnu/EDK/EDK-project/project/task1.py
+2025-04-28 19:44:03.703 [info] Discover tests for workspace name: project - uri: /home/angrycompany16/ntnu/EDK/EDK-project/project/task1.py

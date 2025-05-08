@@ -1,0 +1,19 @@
+//kage:unit pixels
+
+package main
+
+const (
+    PLAYER_LIGHT_RADIUS = 30.0
+)
+
+var (
+    PlayerPos vec2
+)
+
+func Fragment(dstPos vec4, srcPos vec2) vec4 {
+    // Light up player position
+    player_dist := clamp(1 - distance(srcPos, PlayerPos) / 20, 0, 1)
+    player_light_color := player_dist * vec4(1.0) * 0.5
+
+	return player_light_color
+}

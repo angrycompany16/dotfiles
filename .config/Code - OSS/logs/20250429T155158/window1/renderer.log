@@ -1,0 +1,22 @@
+2025-04-29 15:51:59.879 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-04-29 15:52:00.142 [info] Started local extension host with pid 1604.
+2025-04-29 15:52:00.503 [error] Extension 'ms-python.debugpy CANNOT USE these API proposals 'portsAttributes, debugVisualization, contribViewsWelcome'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2025-04-29 15:52:00.503 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, terminalDataWriteEvent, terminalExecuteCommandEvent, codeActionAI, notebookReplDocument, notebookVariableProvider'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2025-04-29 15:52:00.546 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2025-04-29 15:52:02.841 [info] [perf] Render performance baseline is 30ms
+2025-04-29 15:52:25.836 [error] An unknown error occurred. Please consult the log for more details.
+2025-04-29 15:59:30.201 [error] UnboundLocalError: cannot access local variable 'end_index' where it is not associated with a value: Error: UnboundLocalError: cannot access local variable 'end_index' where it is not associated with a value
+	at ae (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1965471)
+	at oe (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1963431)
+	at Immediate.<anonymous> (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1959725)
+	at process.processImmediate (node:internal/timers:483:21)
+2025-04-29 16:28:30.683 [error] UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value: Error: UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value
+	at ae (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1965471)
+	at oe (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1963431)
+	at Immediate.<anonymous> (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1959725)
+	at process.processImmediate (node:internal/timers:483:21)
+2025-04-29 16:29:30.678 [error] UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value: Error: UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value
+	at ae (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1965471)
+	at oe (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1963431)
+	at Immediate.<anonymous> (/home/angrycompany16/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1959725)
+	at process.processImmediate (node:internal/timers:483:21)

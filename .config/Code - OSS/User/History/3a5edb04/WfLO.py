@@ -1,0 +1,27 @@
+import solve_task1
+import numpy as np
+import scipy.optimize as opt
+
+def compute_omega_and_phi_estimates(SNR_dB: float, FFT_size: float):
+    rng = np.random.default_rng()
+    sigma = solve_task1.get_sigma(solve_task1.get_snr(SNR_dB))
+    omega_estimates = np.zeros(solve_task1.iterations)
+    phi_estimates = np.zeros(solve_task1.iterations)
+
+    for n in range(solve_task1.iterations) :
+        x_samples = solve_task1.sample(sigma, rng)
+        FFT = np.fft.fft(x_samples, FFT_size)
+        m_max = np.argmax(np.abs(FFT))
+
+        omega_est_rough = 2 * np.pi * m_max / (FFT_size * solve_task1.T)
+
+        def optimizer(x, samples) -> float:
+            return -np.abs(solve_task1.F(x, samples))
+        
+        omega_est_refined = opt.minimize(optimizer, omega_est_rough, x_samples, method='Nelder-Mead').x
+        phi_est = solve_task1.get_phi_est(omega_est_refined, x_samples)
+        
+        omega_estimates[n] = omega_est_refined
+        phi_estimates[n] = phi_est
+
+    return omega_estimates, phi_estimates

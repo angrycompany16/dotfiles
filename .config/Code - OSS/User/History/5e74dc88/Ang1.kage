@@ -1,0 +1,37 @@
+//kage:unit pixels
+
+package main
+
+const (
+    PLAYER_LIGHT_RADIUS = 10.0
+    VIGNETTE_RADIUS = 0.3
+    VIGNETTE_ALPHA = 0.5
+    BASE_DARKNESS_ALPHA = 0.5
+)
+
+var (
+    PlayerPos vec2
+	Resolution vec2
+)
+
+func Fragment(dstPos vec4, srcPos vec2) vec4 {
+    // Apply vignette
+	pos := srcPos.xy
+	pos /= Resolution
+	pos -= vec2(0.5)
+
+	c := circle(pos, VIGNETTE_RADIUS)
+	c = smoothstep(0.0, 0.5, c)
+
+    vignette_color := vec4(0.0, 0.0, 0.0, clamp(c * VIGNETTE_ALPHA, BASE_DARKNESS_ALPHA, 1.0))
+
+    // Light up player position
+    player_dist := clamp(1 - distance(srcPos, PlayerPos) / 20, 0, 1)
+    player_light_color := player_dist * vec4(1.0)
+
+	return player_light_color + vignette_color
+}
+
+func circle(pos vec2, radius float) float {
+	return length(pos) - radius
+}
