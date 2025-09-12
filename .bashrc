@@ -134,4 +134,6 @@ tash() {
     sudo mv "$1" "./$(basename "$1")"
 }
 
-neofetch
+fastfetch
+
+alias qmake="qmake6"
