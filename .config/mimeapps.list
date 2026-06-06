@@ -1,0 +1,9 @@
+[Default Applications]
+image/png=org.gnome.Loupe.desktop
+video/mp4=mpv.desktop
+image/jpeg=org.gnome.Loupe.desktop
+
+[Added Associations]
+image/png=org.gnome.Loupe.desktop;
+video/mp4=mpv.desktop;
+image/jpeg=org.gnome.Loupe.desktop;
