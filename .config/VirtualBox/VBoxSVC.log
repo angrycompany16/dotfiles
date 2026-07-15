@@ -1,0 +1,105 @@
+00:00:00.000333 main     VirtualBox XPCOM Server 7.2.10 r174163 linux.amd64 (Jun 17 2026 14:43:44) release log
+00:00:00.000337 main     Log opened 2026-07-01T08:08:35.315585000Z
+00:00:00.000338 main     Build Type: release
+00:00:00.000340 main     OS Product: Linux
+00:00:00.000341 main     OS Release: 7.0.13-arch1-1
+00:00:00.000342 main     OS Version: #1 SMP PREEMPT_DYNAMIC Tue, 23 Jun 2026 11:14:21 +0000
+00:00:00.000372 main     DMI Product Name: 730QED
+00:00:00.000379 main     DMI Product Version: P12RGJ
+00:00:00.000385 main     Firmware type: UEFI
+00:00:00.000879 main     Secure Boot: Disabled
+00:00:00.000918 main     Host RAM: 15677MB (15.3GB) total, 10143MB (9.9GB) available
+00:00:00.000922 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.000922 main     Process ID: 23886
+00:00:00.000923 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.008413 main     IPC socket path: /tmp/.vbox-angrycompany16-ipc/ipcd
+00:00:00.018047 DCon01   VirtualBox: object creation starts
+00:00:00.018251 DCon01   Home directory: '/home/angrycompany16/.config/VirtualBox'
+00:00:00.018756 DCon01   Loading settings file "/home/angrycompany16/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.020886 DCon01   USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0033)
+00:00:00.021077 DCon01   Successfully initialised host USB using sysfs
+00:00:00.034591 DCon01   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.035884 DCon01   HostDnsMonitor: initializing
+00:00:00.036217 DCon01   NAT: resolv.conf: nameserver 172.50.1.1
+00:00:00.036247 DCon01   NAT: resolv.conf: nameserver 61.122.127.90
+00:00:00.036251 DCon01   NAT: resolv.conf: nameserver 61.122.116.174
+00:00:00.036278 DCon01   HostDnsMonitor: updating information
+00:00:00.036312 DCon01   HostDnsMonitor: old information
+00:00:00.036315 DCon01     no server entries
+00:00:00.036318 DCon01     no domain set
+00:00:00.036320 DCon01     no search string entries
+00:00:00.036322 DCon01   HostDnsMonitor: new information
+00:00:00.036323 DCon01     server 1: 172.50.1.1
+00:00:00.036326 DCon01     server 2: 61.122.127.90
+00:00:00.036328 DCon01     server 3: 61.122.116.174
+00:00:00.036330 DCon01     no domain set
+00:00:00.036331 DCon01     no search string entries
+00:00:00.039064 DCon01   VD: VDInit finished with VINF_SUCCESS
+00:00:00.040753 DCon01   Platform architecture set to 'x86'
+00:00:00.041371 DCon01   Loading settings file "/home/angrycompany16/VirtualBox VMs/Windows/Windows.vbox" with version "1.19-linux"
+00:00:00.041656 DCon01   Platform architecture set to 'x86'
+00:00:00.042814 DCon01   VirtualBox: object created
+00:00:01.029184 DCon03   NvramStore: Loading 'TpmEmuTpms/permall' from archive
+00:00:01.029228 DCon03   NvramStore: Loading 'efi/nvram' from archive
+00:00:03.169452 DCon01   Launched VM: 1678629248 pid: 23923 (0x5d73) frontend: GUI/Qt name: Windows
+00:00:03.542605 DCon02   Platform architecture set to 'x86'
+00:00:03.624431 DCon08   Saving settings file "/home/angrycompany16/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:03.636796 DCon08   Finished saving settings file "/home/angrycompany16/.config/VirtualBox/VirtualBox.xml"
+00:00:04.360909 DCon03   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:00:04.397307 DCon03   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:04.542815 DCon07   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:00:04.706770 DCon07   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:04.708490 DCon07   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:04.710142 DCon07   HostDnsMonitorProxy::GetDomainName: no domain set
+00:00:04.710249 DCon07   HostDnsMonitorProxy::GetNameServers:
+00:00:04.710251 DCon07     name server 1: 172.50.1.1
+00:00:04.710253 DCon07     name server 2: 61.122.127.90
+00:00:04.710254 DCon07     name server 3: 61.122.116.174
+00:00:04.710365 DCon07   HostDnsMonitorProxy::GetSearchStrings:
+00:00:04.710367 DCon07     no search string entries
+00:00:04.736418 DCon02   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:00:04.935400 DCon07   Saving settings file "/home/angrycompany16/VirtualBox VMs/Windows/Windows.vbox" with version "1.19-linux"
+00:00:04.947272 DCon07   Finished saving settings file "/home/angrycompany16/VirtualBox VMs/Windows/Windows.vbox"
+00:00:04.952192 DCon07   Saving settings file "/home/angrycompany16/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:04.955257 DCon07   Finished saving settings file "/home/angrycompany16/.config/VirtualBox/VirtualBox.xml"
+00:00:08.233247 DCon02   Saving settings file "/home/angrycompany16/VirtualBox VMs/Windows/Windows.vbox" with version "1.19-linux"
+00:00:08.236489 DCon02   Finished saving settings file "/home/angrycompany16/VirtualBox VMs/Windows/Windows.vbox"
+00:00:08.302157 DCon08   Saving settings file "/home/angrycompany16/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:08.305164 DCon08   Finished saving settings file "/home/angrycompany16/.config/VirtualBox/VirtualBox.xml"
+01:11:38.603018 DCon15   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+01:11:38.627694 DCon22   Saving settings file "/home/angrycompany16/VirtualBox VMs/Windows/Windows.vbox" with version "1.19-linux"
+01:11:38.631203 DCon22   Finished saving settings file "/home/angrycompany16/VirtualBox VMs/Windows/Windows.vbox"
+01:11:38.649252 DCon15   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+02:55:58.983752 MainPower Host suspending: Paused 0 VMs
+02:55:59.154219 dns-monitor HostDnsMonitor: updating information
+02:55:59.154302 dns-monitor HostDnsMonitor: old information
+02:55:59.154307 dns-monitor   server 1: 172.50.1.1
+02:55:59.154313 dns-monitor   server 2: 61.122.127.90
+02:55:59.154316 dns-monitor   server 3: 61.122.116.174
+02:55:59.154320 dns-monitor   no domain set
+02:55:59.154322 dns-monitor   no search string entries
+02:55:59.154325 dns-monitor HostDnsMonitor: new information
+02:55:59.154328 dns-monitor   no server entries
+02:55:59.154331 dns-monitor   no domain set
+02:55:59.154334 dns-monitor   no search string entries
+02:56:00.893279 MainPower Host resumed: Resumed 0 VMs
+02:56:07.490249 dns-monitor NAT: resolv.conf: nameserver 172.50.1.1
+02:56:07.490284 dns-monitor NAT: resolv.conf: nameserver 61.122.127.90
+02:56:07.490288 dns-monitor NAT: resolv.conf: nameserver 61.122.116.174
+02:56:07.490307 dns-monitor HostDnsMonitor: updating information
+02:56:07.490310 dns-monitor HostDnsMonitor: old information
+02:56:07.490312 dns-monitor   no server entries
+02:56:07.490315 dns-monitor   no domain set
+02:56:07.490317 dns-monitor   no search string entries
+02:56:07.490319 dns-monitor HostDnsMonitor: new information
+02:56:07.490320 dns-monitor   server 1: 172.50.1.1
+02:56:07.490323 dns-monitor   server 2: 61.122.127.90
+02:56:07.490325 dns-monitor   server 3: 61.122.116.174
+02:56:07.490327 dns-monitor   no domain set
+02:56:07.490329 dns-monitor   no search string entries
+02:56:10.676358 main     VirtualBox: object deletion starts
+02:56:10.676421 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Medium '/home/angrycompany16/VirtualBox VMs/Windows/Windows.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+02:56:10.677220 main     HostDnsMonitor: shutting down ...
+02:56:10.677741 main     HostDnsMonitor: shut down
+02:56:10.689357 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={2ce10519-3c09-45d8-a12d-e887786146b7} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+02:56:10.689485 main     VirtualBox: object deleted

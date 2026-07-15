@@ -2,8 +2,12 @@
 image/png=org.gnome.Loupe.desktop
 video/mp4=mpv.desktop
 image/jpeg=org.gnome.Loupe.desktop
+video/x-matroska=mpv.desktop
+application/pdf=org.pwmt.zathura-pdf-mupdf.desktop
 
 [Added Associations]
 image/png=org.gnome.Loupe.desktop;
 video/mp4=mpv.desktop;
 image/jpeg=org.gnome.Loupe.desktop;
+video/x-matroska=mpv.desktop;
+application/pdf=org.pwmt.zathura-pdf-mupdf.desktop;

@@ -1,0 +1,12 @@
+configuration {
+    font: "Hack Nerd Font 12";
+    modi: "window,drun,ssh,filebrowser,combi";
+    display-ssh:    "";
+    display-run:    "";
+    display-drun:   "";
+    display-window: "";
+    display-combi:  "";
+    show-icons:     true;
+}
+
+@theme "~/.config/rofi/gruvbox-material.rasi"
