@@ -1,0 +1,65 @@
+00:00:00.000837 main     VirtualBox XPCOM Server 7.2.20 r175154 linux.amd64 (Sep 22 2026 15:26:35) release log
+00:00:00.000842 main     Log opened 2026-11-09T10:35:53.730366000Z
+00:00:00.000843 main     Build Type: release
+00:00:00.000845 main     OS Product: Linux
+00:00:00.000846 main     OS Release: 7.2.9-arch1-1
+00:00:00.000847 main     OS Version: #1 SMP PREEMPT_DYNAMIC Sat, 03 Oct 2026 11:43:28 +0000
+00:00:00.000881 main     DMI Product Name: 730QED
+00:00:00.000890 main     DMI Product Version: P12RGJ
+00:00:00.000909 main     Firmware type: UEFI
+00:00:00.001402 main     Secure Boot: Disabled
+00:00:00.001455 main     Host RAM: 15676MB (15.3GB) total, 11423MB (11.1GB) available
+00:00:00.001460 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.001461 main     Process ID: 276681
+00:00:00.001461 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.013049 main     IPC socket path: /tmp/.vbox-angrycompany16-ipc/ipcd
+00:00:00.019657 DCon01   VirtualBox: object creation starts
+00:00:00.020869 DCon01   Home directory: '/home/angrycompany16/.config/VirtualBox'
+00:00:00.021355 DCon01   Loading settings file "/home/angrycompany16/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.028117 DCon01   USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0033)
+00:00:00.028427 DCon01   Successfully initialised host USB using sysfs
+00:00:00.043439 DCon01   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.046071 DCon01   HostDnsMonitor: initializing
+00:00:00.046515 DCon01   NAT: resolv.conf: nameserver 129.241.0.200
+00:00:00.046526 DCon01   NAT: resolv.conf: nameserver 129.241.0.201
+00:00:00.046530 DCon01   NAT: resolv.conf: nameserver 2001:700:300::200
+00:00:00.046534 DCon01   NAT: resolv.conf: too many nameserver lines, ignoring 2001:700:300::201
+00:00:00.046773 DCon01   HostDnsMonitor: updating information
+00:00:00.046944 DCon01   HostDnsMonitor: old information
+00:00:00.046947 DCon01     no server entries
+00:00:00.046954 DCon01     no domain set
+00:00:00.046956 DCon01     no search string entries
+00:00:00.046957 DCon01   HostDnsMonitor: new information
+00:00:00.046958 DCon01     server 1: 129.241.0.200
+00:00:00.046960 DCon01     server 2: 129.241.0.201
+00:00:00.046961 DCon01     server 3: 2001:700:300::200
+00:00:00.046963 DCon01     domain: wlan.ntnu.no
+00:00:00.046964 DCon01     search string 1: wlan.ntnu.no
+00:00:00.050141 DCon01   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:00.051438 DCon01   VD: VDInit finished with VINF_SUCCESS
+00:00:00.054787 DCon01   Platform architecture set to 'x86'
+00:00:00.056675 DCon01   Loading settings file "/home/angrycompany16/VirtualBox VMs/Windows/Windows.vbox" with version "1.19-linux"
+00:00:00.057507 DCon01   Platform architecture set to 'x86'
+00:00:00.059820 DCon01   VirtualBox: object created
+00:00:01.057214 DCon04   NvramStore: Loading 'TpmEmuTpms/permall' from archive
+00:00:01.057244 DCon04   NvramStore: Loading 'efi/nvram' from archive
+00:00:01.059592 DCon04   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:22.918515 DCon04   Saving settings file "/home/angrycompany16/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:22.930027 DCon04   Finished saving settings file "/home/angrycompany16/.config/VirtualBox/VirtualBox.xml"
+00:00:22.930205 DCon04   Saving settings file "/home/angrycompany16/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:22.933313 DCon04   Finished saving settings file "/home/angrycompany16/.config/VirtualBox/VirtualBox.xml"
+00:00:22.940434 DeleteVM Saving settings file "/home/angrycompany16/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:22.955348 DeleteVM Finished saving settings file "/home/angrycompany16/.config/VirtualBox/VirtualBox.xml"
+00:00:22.958292 DCon05   Saving settings file "/home/angrycompany16/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:22.963280 DCon05   Finished saving settings file "/home/angrycompany16/.config/VirtualBox/VirtualBox.xml"
+00:00:22.966355 DCon05   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={2ce10519-3c09-45d8-a12d-e887786146b7} aComponent={VirtualBoxWrap} aText={Could not find a registered machine with UUID {5e176733-897a-4a7f-9244-22a6c59db791}}, preserve=false aResultDetail=0
+00:00:23.044914 DCon01   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={2ce10519-3c09-45d8-a12d-e887786146b7} aComponent={VirtualBoxWrap} aText={Could not find a registered machine with UUID {5e176733-897a-4a7f-9244-22a6c59db791}}, preserve=false aResultDetail=0
+00:00:23.047510 DCon05   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:23.053511 DCon01   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:12:52.696480 DCon10   Saving settings file "/home/angrycompany16/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:12:52.701020 DCon10   Finished saving settings file "/home/angrycompany16/.config/VirtualBox/VirtualBox.xml"
+00:12:58.217886 main     VirtualBox: object deletion starts
+00:12:58.218410 main     HostDnsMonitor: shutting down ...
+00:12:58.218665 main     HostDnsMonitor: shut down
+00:12:58.229572 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={2ce10519-3c09-45d8-a12d-e887786146b7} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:12:58.229685 main     VirtualBox: object deleted

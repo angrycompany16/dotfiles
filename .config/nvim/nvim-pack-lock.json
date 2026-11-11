@@ -1,0 +1,16 @@
+{
+  "plugins": {
+    "nvim-autopairs": {
+      "rev": "7b9923abad60b903ece7c52940e1321d39eccc79",
+      "src": "https://github.com/windwp/nvim-autopairs.git"
+    },
+    "scnvim": {
+      "rev": "876732590ef3f409c9705f3659fa1061db2dc7bf",
+      "src": "https://github.com/davidgranstrom/scnvim"
+    },
+    "typst-preview.nvim": {
+      "rev": "1c2e19486397be1c580b560fc50ee36abe329c46",
+      "src": "https://github.com/chomosuke/typst-preview.nvim"
+    }
+  }
+}

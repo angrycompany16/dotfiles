@@ -1,0 +1,21 @@
+00:00:00.447475 VirtualBox GUI VM Selector Window 7.2.20 r175154 linux.amd64 (Sep 22 2026 15:26:35) release log
+00:00:00.447478 Log opened 2026-11-09T10:35:53.991569000Z
+00:00:00.447479 Build Type: release
+00:00:00.447482 OS Product: Linux
+00:00:00.447482 OS Release: 7.2.9-arch1-1
+00:00:00.447483 OS Version: #1 SMP PREEMPT_DYNAMIC Sat, 03 Oct 2026 11:43:28 +0000
+00:00:00.447514 DMI Product Name: 730QED
+00:00:00.447521 DMI Product Version: P12RGJ
+00:00:00.447526 Firmware type: UEFI
+00:00:00.447951 Secure Boot: Disabled
+00:00:00.447994 Host RAM: 15676MB (15.3GB) total, 11422MB (11.1GB) available
+00:00:00.447999 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.447999 Process ID: 276629
+00:00:00.448000 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.448033 Qt version: 6.12.0
+00:00:00.449223 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.468616 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.152638 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 22x60 x 1876x998
+00:00:01.175098 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:12:52.878974 GUI: UICommon: Handling aboutToQuit request..
+00:12:53.410144 GUI: UICommon: aboutToQuit request handled!

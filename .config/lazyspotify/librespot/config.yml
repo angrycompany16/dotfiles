@@ -1,0 +1,18 @@
+log_level: error
+zeroconf_enabled: false
+mpris_enabled: true
+audio_backend: alsa
+device_name: lazyspotify
+credentials:
+    type: spotify_token
+    spotify_token:
+        username: david.p03
+        access_token: BQB44w-l4gX66D7U2t1cSgN8HhtQ33piZEKmz-aQbB3vQGAERrEK3oZ4TWGisLgTfpZNLwNvE4xFEE4ueOQghbCDIfzmF_LfviO5fCJyiKc9NQLzIUC6HmHrnSE0TNVpSje85I-ICLVU8FF7_TNLtdYbHpyAV6Rjdup_vcCz2VRFBLtMhufHYsP3EJHWPxQb17rX8zsXQaV5b5cvEy48QLIG-fE5yU5aLoAephdGUlvkL2GBYxKEaEnCOBivs3gINot5EgecDvORBaxmmkPgmw
+server:
+    enabled: true
+    address: 127.0.0.1
+    port: 4040
+    allow_origin: '*'
+    cert_file: ""
+    key_file: ""
+    image_size: small

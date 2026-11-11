@@ -1,0 +1,16 @@
+documents: !QVariantList
+  - /home/angrycompany16/dev/recreational_programming/music/guitar.scd
+editors: !QVariantMap
+  elements: !QVariantList
+    - !QVariantList
+      - !QVariantMap
+        documentIndex: 0
+        position: 2992
+  state: AAAA/wAAAAEAAAABAAAAZAH/////AQAAAAEA
+mainWindow:
+  detached: !QVariantMap
+    documents-dock: ""
+    help-dock: ""
+    post-dock: ""
+  geometry: AdnQywADAAAAAAAAAAAAAAAAB1MAAAPlAAAAAAAAAAAAAAdTAAAD5QAAAAACAAAAB4AAAAAAAAAAAAAAB1MAAAPl
+  state: AAAA/wAAAAD9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAfsAAAAcAGQAbwBjAHUAbQBlAG4AdABzAC0AZABvAGMAawAAAAAA/////wAAAF8A////AAAAAQAAAm4AAAO0/AIAAAAC+wAAABIAaABlAGwAcAAtAGQAbwBjAGsBAAAAFgAAAUwAAABNAP////sAAAASAHAAbwBzAHQALQBkAG8AYwBrAQAAAWMAAAJnAAAATQD///8AAATlAAADtAAAAAEAAAACAAAAAQAAAAL8AAAAAA==
