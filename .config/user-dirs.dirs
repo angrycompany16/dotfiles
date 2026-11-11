@@ -13,4 +13,7 @@ XDG_DOCUMENTS_DIR="$HOME/Documents"
 XDG_MUSIC_DIR="$HOME/Music"
 XDG_PICTURES_DIR="$HOME/Pictures"
 XDG_VIDEOS_DIR="$HOME/Videos"
+<<<<<<< HEAD
 XDG_PROJECTS_DIR="$HOME/Projects"
+=======
+>>>>>>> 1d7973c3bab1bcfa1df74e6dc2dab87acb60e406

@@ -1,8 +1,11 @@
 [Hotkey]
 # Enumerate when holding modifier of Toggle key
 EnumerateWithTriggerKeys=True
+<<<<<<< HEAD
 # Temporarily Toggle Input Method
 AltTriggerKeys=
+=======
+>>>>>>> 1d7973c3bab1bcfa1df74e6dc2dab87acb60e406
 # Enumerate Input Method Forward
 EnumerateForwardKeys=
 # Enumerate Input Method Backward
@@ -23,6 +26,12 @@ ModifierOnlyKeyTimeout=250
 [Hotkey/DeactivateKeys]
 0=Hangul_Romaja
 
+<<<<<<< HEAD
+=======
+[Hotkey/AltTriggerKeys]
+0=Shift_L
+
+>>>>>>> 1d7973c3bab1bcfa1df74e6dc2dab87acb60e406
 [Hotkey/EnumerateGroupForwardKeys]
 0=Super+space
 
@@ -45,7 +54,11 @@ ModifierOnlyKeyTimeout=250
 0=Control+Alt+P
 
 [Behavior]
+<<<<<<< HEAD
 # Activate input method by default
+=======
+# Active By Default
+>>>>>>> 1d7973c3bab1bcfa1df74e6dc2dab87acb60e406
 ActiveByDefault=False
 # Reset state on Focus In
 resetStateWhenFocusIn=No
@@ -61,7 +74,11 @@ showInputMethodInformationWhenFocusIn=False
 CompactInputMethodInformation=True
 # Show first input method information
 ShowFirstInputMethodInformation=True
+<<<<<<< HEAD
 # Default Candidates per page
+=======
+# Default page size
+>>>>>>> 1d7973c3bab1bcfa1df74e6dc2dab87acb60e406
 DefaultPageSize=5
 # Override XKB Option
 OverrideXkbOption=False

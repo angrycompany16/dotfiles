@@ -2,6 +2,7 @@
 # Group Name
 Name=Default
 # Layout
+<<<<<<< HEAD
 Default Layout=us
 # Default Input Method
 DefaultIM=keyboard-no
@@ -23,6 +24,23 @@ Name=keyboard-no
 Name=mozc
 # Layout
 # Layout=
+=======
+Default Layout=no
+# Default Input Method
+DefaultIM=mozc
+
+[Groups/0/Items/0]
+# Name
+Name=keyboard-no
+# Layout
+Layout=
+
+[Groups/0/Items/1]
+# Name
+Name=mozc
+# Layout
+Layout=
+>>>>>>> 1d7973c3bab1bcfa1df74e6dc2dab87acb60e406
 
 [GroupOrder]
 0=Default

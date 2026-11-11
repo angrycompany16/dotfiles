@@ -4,9 +4,15 @@ Generated File. Do not edit.
 Version,0,5
 
 [COMPONENTS]
+<<<<<<< HEAD
 rel:VBoxSVCM.so,1790090795000
 rel:VBoxC.so,1790090795000
 rel:VBoxXPCOMIPCC.so,1790090795000
+=======
+rel:VBoxSVCM.so,1781707424000
+rel:VBoxC.so,1781707424000
+rel:VBoxXPCOMIPCC.so,1781707424000
+>>>>>>> 1d7973c3bab1bcfa1df74e6dc2dab87acb60e406
 
 [CLASSIDS]
 {9f12676a-5168-4a08-beb8-edf8a593a1ca},,,,rel:VBoxXPCOMIPCC.so

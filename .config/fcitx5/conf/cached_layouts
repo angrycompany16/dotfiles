@@ -413,11 +413,14 @@ Description="Keyboard - Portuguese (Brazil) - Portuguese (Brazil, IBM/Lenovo Thi
 Language=pt
 Label="br (thinkpad)"
 
+<<<<<<< HEAD
 [keyboard-br-thinkpad_nodeadkeys]
 Description="Keyboard - Portuguese (Brazil) - Portuguese (Brazil, IBM/Lenovo ThinkPad, no dead keys)"
 Language=pt
 Label="br (thinkpad_nodeadkeys)"
 
+=======
+>>>>>>> 1d7973c3bab1bcfa1df74e6dc2dab87acb60e406
 [keyboard-br-nativo-epo]
 Description="Keyboard - Portuguese (Brazil) - Esperanto (Brazil, Nativo)"
 Language=eo
@@ -533,11 +536,14 @@ Description="Keyboard - Polish - Polish (Colemak-DH ISO)"
 Language=pl
 Label="pl (colemak_dh)"
 
+<<<<<<< HEAD
 [keyboard-pl-colemak_dh_ortho]
 Description="Keyboard - Polish - Polish (Colemak-DH Ortholinear)"
 Language=pl
 Label="pl (colemak_dh_ortho)"
 
+=======
+>>>>>>> 1d7973c3bab1bcfa1df74e6dc2dab87acb60e406
 [keyboard-pl-sun_type6]
 Description="Keyboard - Polish - Polish (Sun Type 6/7)"
 Language=pl
@@ -1079,6 +1085,7 @@ Language=ar
 Label="ar (ara)"
 
 [keyboard-pk-snd]
+<<<<<<< HEAD
 Description="Keyboard - Urdu (Pakistan) - Sindhi (M.B. Sindhi)"
 Language=sd
 Label="sd (snd)"
@@ -1088,6 +1095,12 @@ Description="Keyboard - Urdu (Pakistan) - Brahui (Pakistan)"
 Language=brh
 Label="brh (brahui)"
 
+=======
+Description="Keyboard - Urdu (Pakistan) - Sindhi"
+Language=sd
+Label="sd (snd)"
+
+>>>>>>> 1d7973c3bab1bcfa1df74e6dc2dab87acb60e406
 [keyboard-pk-urd-navees]
 Description="Keyboard - Urdu (Pakistan) - Urdu (Pakistan, Navees)"
 Language=ur
@@ -1498,11 +1511,14 @@ Description="Keyboard - Burmese - Burmese (Zawgyi)"
 Language=my
 Label="my-zwg (zawgyi)"
 
+<<<<<<< HEAD
 [keyboard-mm-mara]
 Description="Keyboard - Burmese - Mara"
 Language=mrh
 Label="mrh (mara)"
 
+=======
+>>>>>>> 1d7973c3bab1bcfa1df74e6dc2dab87acb60e406
 [keyboard-mm-mnw]
 Description="Keyboard - Burmese - Mon"
 Language=mnw
@@ -1598,11 +1614,14 @@ Description="Keyboard - Belarusian - Belarusian (phonetic)"
 Language=be
 Label="by (phonetic)"
 
+<<<<<<< HEAD
 [keyboard-by-typographic]
 Description="Keyboard - Belarusian - Belarusian (typo.)"
 Language=be
 Label="by (typographic)"
 
+=======
+>>>>>>> 1d7973c3bab1bcfa1df74e6dc2dab87acb60e406
 [keyboard-by-ru]
 Description="Keyboard - Belarusian - Russian (Belarus)"
 Language=ru
@@ -1848,6 +1867,7 @@ Description="Keyboard - Croatian - Croatian (US)"
 Language=hr
 Label="hr (us)"
 
+<<<<<<< HEAD
 [keyboard-hr-glag]
 Description="Keyboard - Croatian - Croatian (Glagolitic)"
 Language=hr
@@ -1858,6 +1878,8 @@ Description="Keyboard - Croatian - Croatian (Glagolitic, Zemlja and Jeru swapped
 Language=hr
 Label="hr (glagyz)"
 
+=======
+>>>>>>> 1d7973c3bab1bcfa1df74e6dc2dab87acb60e406
 [keyboard-ma]
 Description="Keyboard - Arabic (Morocco)"
 Language=ary
@@ -3273,11 +3295,14 @@ Description="Keyboard - Azerbaijani - Azerbaijani (Cyrillic)"
 Language=az
 Label="az (cyrillic)"
 
+<<<<<<< HEAD
 [keyboard-az-standard]
 Description="Keyboard - Azerbaijani - Azerbaijani (standard)"
 Language=az
 Label="az (standard)"
 
+=======
+>>>>>>> 1d7973c3bab1bcfa1df74e6dc2dab87acb60e406
 [keyboard-kh]
 Description="Keyboard - Khmer (Cambodia)"
 Language=km
@@ -3548,11 +3573,14 @@ Description="Keyboard - Indian - Malayalam (Poorna, extended InScript)"
 Language=ml
 Label="ml (mal_poorna)"
 
+<<<<<<< HEAD
 [keyboard-in-mara]
 Description="Keyboard - Indian - Mara"
 Language=mrh
 Label="mrh (mara)"
 
+=======
+>>>>>>> 1d7973c3bab1bcfa1df74e6dc2dab87acb60e406
 [keyboard-in-mni]
 Description="Keyboard - Indian - Manipuri (Meitei)"
 Language=mni

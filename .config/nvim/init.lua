@@ -1,12 +1,18 @@
+<<<<<<< HEAD
 -- Set various settings
 vim.o.number = true
 vim.o.wrap = true
+=======
+vim.o.number = true
+vim.o.wrap = false
+>>>>>>> 1d7973c3bab1bcfa1df74e6dc2dab87acb60e406
 vim.o.tabstop = 2
 vim.o.shiftwidth = 2
 vim.o.smartcase = true
 vim.o.ignorecase = true
 vim.o.hlsearch = false
 vim.o.signcolumn = 'yes'
+<<<<<<< HEAD
 vim.o.relativenumber = true
 
 -- Global copy + paste
@@ -17,6 +23,14 @@ vim.keymap.set({'n', 'x'}, 'gp', '"+p', {desc = 'Paste clipboard text'})
 vim.g.mapleader = vim.keycode('<Space>')
 
 -- Simple keybinds for write + close
+=======
+
+vim.keymap.set({'n', 'x'}, 'gy', '"+y', {desc = 'Copy to clipboard'})
+vim.keymap.set({'n', 'x'}, 'gp', '"+p', {desc = 'Paste clipboard text'})
+
+vim.g.mapleader = vim.keycode('<Space>')
+
+>>>>>>> 1d7973c3bab1bcfa1df74e6dc2dab87acb60e406
 vim.keymap.set('n', '<leader>w', '<cmd>write<cr>', {desc = 'Save file'})
 vim.keymap.set('n', '<leader>q', '<cmd>quitall<cr>', {desc = 'Exit vim'})
 
@@ -26,10 +40,13 @@ vim.keymap.set('n', '<Down>', '<Nop>', {desc = 'Disable'})
 vim.keymap.set('n', '<Left>', '<Nop>', {desc = 'Disable'})
 vim.keymap.set('n', '<Right>', '<Nop>', {desc = 'Disable'})
 
+<<<<<<< HEAD
 -- Disable Ctrl + I (it is annoying because I keep misclicking!)
 vim.keymap.set({'n', 'v', 's'}, '<C-i>', '<Nop>', { noremap = true, silent = true })
 
 -- Install/find minideps
+=======
+>>>>>>> 1d7973c3bab1bcfa1df74e6dc2dab87acb60e406
 local ok, MiniDeps = pcall(require, 'mini.deps')
 if not ok then 
   vim.notify('[WARN] mini.deps module not found', vim.log.levels.WARN)
@@ -37,12 +54,17 @@ if not ok then
 end
 
 MiniDeps.setup({})
+<<<<<<< HEAD
 
 -- Set up color scheme
+=======
+MiniDeps.add('neovim/nvim-lspconfig')
+>>>>>>> 1d7973c3bab1bcfa1df74e6dc2dab87acb60e406
 MiniDeps.add({
   source = 'sainnhe/gruvbox-material',
 })
 
+<<<<<<< HEAD
 vim.g.gruvbox_material_background = 'hard'
 vim.cmd.colorscheme('gruvbox-material')
 
@@ -192,3 +214,19 @@ vim.pack.add({ 'https://github.com/chomosuke/typst-preview.nvim' })
 require('typst-preview').setup()
 
 
+=======
+require('mini.files').setup({})
+vim.keymap.set('n', '<leader>e', '<cmd>lua MiniFiles.open()<cr>', {desc = 'File explorer'})
+require('mini.icons').setup({style = 'ascii'})
+require('mini.pick').setup({})
+vim.keymap.set('n', '<leader><space>', '<cmd>Pick buffers<cr>', {desc = 'Search open files'})
+vim.keymap.set('n', '<leader>ff', '<cmd>Pick files<cr>', {desc = 'Search all files'})
+vim.keymap.set('n', '<leader>fh', '<cmd>Pick help<cr>', {desc = 'Search help tags'})
+
+require('mini.snippets').setup({})
+require('mini.completion').setup({})
+vim.lsp.enable({'gopls'})
+
+vim.g.gruvbox_material_background = 'hard' -- optional
+vim.cmd.colorscheme('gruvbox-material')
+>>>>>>> 1d7973c3bab1bcfa1df74e6dc2dab87acb60e406

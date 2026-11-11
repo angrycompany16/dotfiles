@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 connect.mdns_devices="[]"
 connect.dial_devices="[]"
 audio.play_bitrate_non_metered_migrated=true
 app.browser.zoom-level=-50
 app.player.volume=49428
+=======
+audio.play_bitrate_non_metered_migrated=true
+connect.dial_devices="[]"
+connect.mdns_devices="[]"
+app.browser.zoom-level=-50
+app.player.volume=7635
+>>>>>>> 1d7973c3bab1bcfa1df74e6dc2dab87acb60e406

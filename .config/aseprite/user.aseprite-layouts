@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <layouts>
     <layout id="_default_" name="_default_">
+<<<<<<< HEAD
         <colorbar side="left" width="130"/>
+=======
+        <colorbar side="left" width="129"/>
+>>>>>>> 1d7973c3bab1bcfa1df74e6dc2dab87acb60e406
         <statusbar side="bottom"/>
         <dock>
             <contextbar side="top"/>
             <toolbar side="right"/>
             <dock>
+<<<<<<< HEAD
                 <timeline side="bottom" width="75" height="113"/>
+=======
+                <timeline side="bottom" width="75" height="66"/>
+>>>>>>> 1d7973c3bab1bcfa1df74e6dc2dab87acb60e406
                 <workspace/>
             </dock>
         </dock>

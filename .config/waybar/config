@@ -1,8 +1,14 @@
 {
 	"layer": "top",
+<<<<<<< HEAD
 	"modules-left": ["wireplumber", "cpu", "memory", "custom/cava"],
 	"modules-center": ["hyprland/workspaces", "mpris"],
 	"modules-right": ["bluetooth", "network", "battery", "clock"],
+=======
+	"modules-left": ["wireplumber"],
+	"modules-center": ["hyprland/workspaces", "mpris"],
+	"modules-right": ["network", "cpu", "memory", "battery", "clock"],
+>>>>>>> 1d7973c3bab1bcfa1df74e6dc2dab87acb60e406
 	
   "wireplumber": {
     "tooltip": false,
@@ -15,6 +21,7 @@
     }
   },
 
+<<<<<<< HEAD
 //"custom/cava": {
 //    "exec": "echo hello"
 //},
@@ -32,12 +39,18 @@
     "format": "ᛒ Bluetooth",
     "on-click":"kitty -- bluetui"
 	},
+=======
+>>>>>>> 1d7973c3bab1bcfa1df74e6dc2dab87acb60e406
 
   "network": {
     "tooltip": false,
     "format-wifi": "  {essid}",
     "format-ethernet": "",
+<<<<<<< HEAD
     "on-click":"kitty -- nmtui"
+=======
+    "on-click":"kitty -- nmtui",
+>>>>>>> 1d7973c3bab1bcfa1df74e6dc2dab87acb60e406
 	},
 
 
